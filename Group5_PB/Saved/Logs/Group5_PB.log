@@ -869,3 +869,302 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.04-21.05.28:062][547]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
 [2020.03.04-21.05.28:102][547]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Agustin_BPS/Light" FILE="D:/Dungeon Crawler Repository/Space-Dungeon/Group5_PB/Content/Blueprints/Agustin_BPS/Light.uasset" SILENT=true
 [2020.03.04-21.05.28:148][547]LogSavePackage: Moving 'D:/Dungeon Crawler Repository/Space-Dungeon/Group5_PB/Saved/LightC89F3B434C8E7B29A1085CA43DB7BA70.tmp' to 'D:/Dungeon Crawler Repository/Space-Dungeon/Group5_PB/Content/Blueprints/Agustin_BPS/Light.uasset'
+[2020.03.04-21.08.53:090][472]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/ConnorBPs/AICharacterSmall.AICharacterSmall
+[2020.03.04-21.10.19:748][545]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Agustin_BPS/GroundPoundBoss.GroundPoundBoss
+[2020.03.04-21.11.24:990][301]LogAIModule: Creating AISystem for world EnemyTestRoom
+[2020.03.04-21.11.24:999][301]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/EnemyTestRoom.EnemyTestRoom
+[2020.03.04-21.11.25:030][301]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.03.04-21.11.25:031][301]Cmd: MAP LOAD FILE="D:/Dungeon Crawler Repository/Space-Dungeon/Group5_PB/Content/Levels/EnemyTestRoom.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.04-21.11.25:031][301]LightingResults: New page: Lighting Build
+[2020.03.04-21.11.25:031][301]LoadErrors: New page: Loading map: EnemyTestRoom.umap
+[2020.03.04-21.11.25:035][301]MapCheck: New page: Map Check
+[2020.03.04-21.11.25:035][301]LightingResults: New page: Lighting Build
+[2020.03.04-21.11.25:070][301]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2020.03.04-21.11.25:235][301]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.04-21.11.25:265][301]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.03.04-21.11.25:289][301]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.04-21.11.25:289][301]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.066ms to complete.
+[2020.03.04-21.11.25:289][301]LogFileHelpers: Loading map 'EnemyTestRoom' took 0.259
+[2020.03.04-21.11.27:768][447]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.04-21.11.27:794][447]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/EnemyTestRoom.EnemyTestRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/EnemyTestRoom.EnemyTestRoom:PersistentLevel.EnemyTestRoom' with GeneratedClass '/Game/Levels/EnemyTestRoom.EnemyTestRoom_C' with ClassGeneratedBy '/Game/Levels/EnemyTestRoom.EnemyTestRoom:PersistentLevel.EnemyTestRoom'
+[2020.03.04-21.11.27:837][447]LogFMOD: Creating runtime Studio System
+[2020.03.04-21.11.27:841][447]LogFMOD: Default sample rate = 48000
+[2020.03.04-21.11.27:841][447]LogFMOD: System sample rate = 48000
+[2020.03.04-21.11.27:841][447]LogFMOD: Matching system sample rate 48000
+[2020.03.04-21.11.27:850][447]LogFMOD: Loading Banks
+[2020.03.04-21.11.27:850][447]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2020.03.04-21.11.27:897][447]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.04-21.11.27:897][447]PIE: New page: PIE session: EnemyTestRoom (Mar 4, 2020, 11:11:27 AM)
+[2020.03.04-21.11.27:897][447]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_EnemyTestRoom
+[2020.03.04-21.11.27:934][447]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035882s)
+[2020.03.04-21.11.27:934][447]LogAIModule: Creating AISystem for world EnemyTestRoom
+[2020.03.04-21.11.27:935][447]LogPlayLevel: PIE: World Init took: (0.001013s)
+[2020.03.04-21.11.27:935][447]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/EnemyTestRoom.EnemyTestRoom to /Game/Levels/UEDPIE_0_EnemyTestRoom.EnemyTestRoom (0.037427s)
+[2020.03.04-21.11.27:988][447]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.03.04-21.11.27:997][447]LogInit: XAudio2 using 'Speakers (2- Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2020.03.04-21.11.28:004][447]LogInit: FAudioDevice initialized.
+[2020.03.04-21.11.28:010][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.04-21.11.28:041][447]LogLoad: Game class is 'NewGameMode_C'
+[2020.03.04-21.11.28:043][447]LogWorld: Bringing World /Game/Levels/UEDPIE_0_EnemyTestRoom.EnemyTestRoom up for play (max tick rate 60) at 2020.03.04-16.11.28
+[2020.03.04-21.11.28:044][447]LogWorld: Bringing up level for play took: 0.002608
+[2020.03.04-21.11.28:065][447]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_EnemyTestRoom 0.135
+[2020.03.04-21.11.28:065][447]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/EnemyTestRoom.EnemyTestRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/EnemyTestRoom.EnemyTestRoom:PersistentLevel.EnemyTestRoom' with GeneratedClass '/Game/Levels/EnemyTestRoom.EnemyTestRoom_C' with ClassGeneratedBy '/Game/Levels/EnemyTestRoom.EnemyTestRoom:PersistentLevel.EnemyTestRoom'
+[2020.03.04-21.11.40:144][171]LogBlueprintUserMessages: [ExplodingEnemy_2] Ouch!
+[2020.03.04-21.11.51:993][882]LogBlueprintUserMessages: [AICharacter_0] Ouch!
+[2020.03.04-21.11.55:843][113]LogBlueprintUserMessages: [AICharacter_0] Ouch!
+[2020.03.04-21.12.03:877][595]LogBlueprintUserMessages: [AICharacter_0] Ouch!
+[2020.03.04-21.12.08:909][897]LogBlueprintUserMessages: [AICharacter_0] Ouch!
+[2020.03.04-21.12.11:713][ 65]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=531.976 Y=-3102.865 Z=228.150] for [AICharacterSmall_C]
+[2020.03.04-21.12.11:714][ 65]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=531.976 Y=-3102.865 Z=228.150] for [AICharacterSmall_C]
+[2020.03.04-21.12.11:728][ 66]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=531.976 Y=-3102.865 Z=228.150] for [AICharacterSmall_C]
+[2020.03.04-21.12.11:728][ 66]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=531.976 Y=-3102.865 Z=228.150] for [AICharacterSmall_C]
+[2020.03.04-21.12.11:744][ 67]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=531.976 Y=-3102.865 Z=228.150] for [AICharacterSmall_C]
+[2020.03.04-21.12.11:745][ 67]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=531.976 Y=-3102.865 Z=228.150] for [AICharacterSmall_C]
+[2020.03.04-21.12.11:760][ 68]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=531.976 Y=-3102.865 Z=228.150] for [AICharacterSmall_C]
+[2020.03.04-21.12.11:760][ 68]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=531.976 Y=-3102.865 Z=228.150] for [AICharacterSmall_C]
+[2020.03.04-21.12.11:777][ 69]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=531.976 Y=-3102.865 Z=228.150] for [AICharacterSmall_C]
+[2020.03.04-21.12.11:777][ 69]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=531.976 Y=-3102.865 Z=228.150] for [AICharacterSmall_C]
+[2020.03.04-21.12.11:793][ 70]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=531.976 Y=-3102.865 Z=228.150] for [AICharacterSmall_C]
+[2020.03.04-21.12.11:794][ 70]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=531.976 Y=-3102.865 Z=228.150] for [AICharacterSmall_C]
+[2020.03.04-21.12.11:810][ 71]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=531.976 Y=-3102.865 Z=228.150] for [AICharacterSmall_C]
+[2020.03.04-21.12.11:811][ 71]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=531.976 Y=-3102.865 Z=228.150] for [AICharacterSmall_C]
+[2020.03.04-21.12.11:827][ 72]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=531.976 Y=-3102.865 Z=228.150] for [AICharacterSmall_C]
+[2020.03.04-21.12.11:827][ 72]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=531.976 Y=-3102.865 Z=228.150] for [AICharacterSmall_C]
+[2020.03.04-21.12.11:844][ 73]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=531.976 Y=-3102.865 Z=228.150] for [AICharacterSmall_C]
+[2020.03.04-21.12.11:844][ 73]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=531.976 Y=-3102.865 Z=228.150] for [AICharacterSmall_C]
+[2020.03.04-21.12.11:860][ 74]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=531.976 Y=-3102.865 Z=228.150] for [AICharacterSmall_C]
+[2020.03.04-21.12.11:861][ 74]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=531.976 Y=-3102.865 Z=228.150] for [AICharacterSmall_C]
+[2020.03.04-21.12.11:877][ 75]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=531.976 Y=-3102.865 Z=228.150] for [AICharacterSmall_C]
+[2020.03.04-21.12.11:877][ 75]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=531.976 Y=-3102.865 Z=228.150] for [AICharacterSmall_C]
+[2020.03.04-21.12.11:894][ 76]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=531.976 Y=-3102.865 Z=228.150] for [AICharacterSmall_C]
+[2020.03.04-21.12.11:894][ 76]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=531.976 Y=-3102.865 Z=228.150] for [AICharacterSmall_C]
+[2020.03.04-21.12.17:162][390]LogBlueprintUserMessages: [AICharacterSmall_2] Ouch!
+[2020.03.04-21.12.19:479][529]LogCharacterMovement: AICharacterSmall_2 is stuck and failed to move! Velocity: X=-301.73 Y=518.14 Z=0.00 Location: X=3651.93 Y=-1425.32 Z=138.02 Normal: X=0.04 Y=0.59 Z=-0.80 PenetrationDepth:3.725 Actor:BP_Player_C_0 Component:BulletSpawn BoneName:None (0 other events since notify)
+[2020.03.04-21.12.21:179][631]LogBlueprintUserMessages: [BP_TurretBullet_C_2] Ouch!
+[2020.03.04-21.12.21:930][676]LogCharacterMovement: AICharacterSmall_2 is stuck and failed to move! Velocity: X=-67.47 Y=77.03 Z=0.00 Location: X=3607.90 Y=-1374.02 Z=138.68 Normal: X=-0.58 Y=0.30 Z=-0.76 PenetrationDepth:12.446 Actor:BP_Player_C_0 Component:BulletSpawn BoneName:None (0 other events since notify)
+[2020.03.04-21.12.25:430][886]LogBlueprintUserMessages: [AICharacterSmall_2] Ouch!
+[2020.03.04-21.12.31:981][279]LogBlueprintUserMessages: [GroundPoundBoss_2] Ouch!
+[2020.03.04-21.12.32:097][286]LogBlueprintUserMessages: [GroundPoundBoss_2] Enemy Swings at You
+[2020.03.04-21.12.33:398][364]LogBlueprintUserMessages: [GroundPoundBoss_2] Enemy Swings at You
+[2020.03.04-21.12.33:414][365]LogBlueprintUserMessages: [GroundPoundBoss_2] Enemy Swings at You
+[2020.03.04-21.12.33:663][380]LogBlueprintUserMessages: [GroundPoundBoss_2] Enemy Swings at You
+[2020.03.04-21.12.35:381][483]LogBlueprintUserMessages: [GroundPoundBoss_2] Ouch!
+[2020.03.04-21.12.35:413][485]LogBlueprintUserMessages: [GroundPoundBoss_2] Enemy Swings at You
+[2020.03.04-21.12.35:413][485]LogBlueprintUserMessages: [GroundPoundBoss_2] Enemy Swings at You
+[2020.03.04-21.12.35:813][509]LogBlueprintUserMessages: [GroundPoundBoss_2] Enemy Swings at You
+[2020.03.04-21.12.35:997][520]LogBlueprintUserMessages: [GroundPoundBoss_2] Enemy Swings at You
+[2020.03.04-21.12.36:014][521]LogBlueprintUserMessages: [GroundPoundBoss_2] Enemy Swings at You
+[2020.03.04-21.12.36:230][534]LogBlueprintUserMessages: [GroundPoundBoss_2] Enemy Swings at You
+[2020.03.04-21.12.36:230][534]LogBlueprintUserMessages: [GroundPoundBoss_2] Enemy Swings at You
+[2020.03.04-21.12.39:047][703]LogBlueprintUserMessages: [GroundPoundBoss_2] Ouch!
+[2020.03.04-21.12.39:147][709]LogBlueprintUserMessages: [GroundPoundBoss_2] Enemy Swings at You
+[2020.03.04-21.12.39:148][709]LogBlueprintUserMessages: [GroundPoundBoss_2] Enemy Swings at You
+[2020.03.04-21.12.41:481][849]LogBlueprintUserMessages: [GroundPoundBoss_2] Enemy Swings at You
+[2020.03.04-21.12.41:481][849]LogBlueprintUserMessages: [GroundPoundBoss_2] Enemy Swings at You
+[2020.03.04-21.12.41:598][856]LogBlueprintUserMessages: [GroundPoundBoss_2] Enemy Swings at You
+[2020.03.04-21.12.42:048][883]LogBlueprintUserMessages: [GroundPoundBoss_2] Enemy Swings at You
+[2020.03.04-21.12.42:130][888]LogBlueprintUserMessages: [GroundPoundBoss_2] Ouch!
+[2020.03.04-21.12.42:314][899]LogBlueprintUserMessages: [GroundPoundBoss_2] Enemy Swings at You
+[2020.03.04-21.12.42:314][899]LogBlueprintUserMessages: [GroundPoundBoss_2] Enemy Swings at You
+[2020.03.04-21.12.44:497][ 30]LogBlueprintUserMessages: [GroundPoundBoss_2] Enemy Swings at You
+[2020.03.04-21.12.44:997][ 60]LogBlueprintUserMessages: [GroundPoundBoss_2] Enemy Swings at You
+[2020.03.04-21.12.44:997][ 60]LogBlueprintUserMessages: [GroundPoundBoss_2] Enemy Swings at You
+[2020.03.04-21.12.45:114][ 67]LogBlueprintUserMessages: [GroundPoundBoss_2] Enemy Swings at You
+[2020.03.04-21.12.45:515][ 91]LogBlueprintUserMessages: [GroundPoundBoss_2] Enemy Swings at You
+[2020.03.04-21.12.45:597][ 96]LogBlueprintUserMessages: [GroundPoundBoss_2] Ouch!
+[2020.03.04-21.12.48:415][265]LogBlueprintUserMessages: [GroundPoundBoss_2] Enemy Swings at You
+[2020.03.04-21.12.48:431][266]LogBlueprintUserMessages: [GroundPoundBoss_2] Enemy Swings at You
+[2020.03.04-21.12.48:681][281]LogBlueprintUserMessages: [GroundPoundBoss_2] Ouch!
+[2020.03.04-21.12.48:731][284]LogBlueprintUserMessages: [GroundPoundBoss_2] Enemy Swings at You
+[2020.03.04-21.12.49:148][309]LogBlueprintUserMessages: [GroundPoundBoss_2] Enemy Swings at You
+[2020.03.04-21.12.49:165][310]LogBlueprintUserMessages: [GroundPoundBoss_2] Enemy Swings at You
+[2020.03.04-21.12.49:414][325]LogBlueprintUserMessages: [GroundPoundBoss_2] Enemy Swings at You
+[2020.03.04-21.13.10:398][584]LogBlueprintUserMessages: [BP_HealthKit2] That's better!
+[2020.03.04-21.13.12:799][728]LogBlueprintUserMessages: [BP_HealthKit_2] That's better!
+[2020.03.04-21.13.14:382][820]LogBlueprintUserMessages: [BP_HealthKit3] That's better!
+[2020.03.04-21.13.25:083][462]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/EnemyTestRoom.EnemyTestRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/EnemyTestRoom.EnemyTestRoom:PersistentLevel.EnemyTestRoom' with GeneratedClass '/Game/Levels/EnemyTestRoom.EnemyTestRoom_C' with ClassGeneratedBy '/Game/Levels/EnemyTestRoom.EnemyTestRoom:PersistentLevel.EnemyTestRoom'
+[2020.03.04-21.13.25:178][462]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.04-21.13.25:199][462]LogSlate: Window 'Group5_PB Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.04-21.13.25:234][462]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.04-21.13.25:235][462]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/EnemyTestRoom.EnemyTestRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/EnemyTestRoom.EnemyTestRoom:PersistentLevel.EnemyTestRoom' with GeneratedClass '/Game/Levels/EnemyTestRoom.EnemyTestRoom_C' with ClassGeneratedBy '/Game/Levels/EnemyTestRoom.EnemyTestRoom:PersistentLevel.EnemyTestRoom'
+[2020.03.04-21.13.25:271][462]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2020.03.04-21.13.25:287][463]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.03.04-21.13.49:757][931]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-21.14.07:229][919]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-21.14.07:312][924]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.04-21.14.07:332][924]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/EnemyTestRoom.EnemyTestRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/EnemyTestRoom.EnemyTestRoom:PersistentLevel.EnemyTestRoom' with GeneratedClass '/Game/Levels/EnemyTestRoom.EnemyTestRoom_C' with ClassGeneratedBy '/Game/Levels/EnemyTestRoom.EnemyTestRoom:PersistentLevel.EnemyTestRoom'
+[2020.03.04-21.14.07:366][924]LogFMOD: Creating runtime Studio System
+[2020.03.04-21.14.07:370][924]LogFMOD: Default sample rate = 48000
+[2020.03.04-21.14.07:370][924]LogFMOD: System sample rate = 48000
+[2020.03.04-21.14.07:370][924]LogFMOD: Matching system sample rate 48000
+[2020.03.04-21.14.07:380][924]LogFMOD: Loading Banks
+[2020.03.04-21.14.07:380][924]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2020.03.04-21.14.07:427][924]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.04-21.14.07:427][924]PIE: New page: PIE session: EnemyTestRoom (Mar 4, 2020, 11:14:07 AM)
+[2020.03.04-21.14.07:427][924]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_EnemyTestRoom
+[2020.03.04-21.14.07:459][924]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032240s)
+[2020.03.04-21.14.07:461][924]LogAIModule: Creating AISystem for world EnemyTestRoom
+[2020.03.04-21.14.07:461][924]LogPlayLevel: PIE: World Init took: (0.001644s)
+[2020.03.04-21.14.07:461][924]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/EnemyTestRoom.EnemyTestRoom to /Game/Levels/UEDPIE_0_EnemyTestRoom.EnemyTestRoom (0.034200s)
+[2020.03.04-21.14.07:494][924]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2020.03.04-21.14.07:502][924]LogInit: XAudio2 using 'Speakers (2- Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2020.03.04-21.14.07:509][924]LogInit: FAudioDevice initialized.
+[2020.03.04-21.14.07:515][924]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.04-21.14.07:545][924]LogLoad: Game class is 'NewGameMode_C'
+[2020.03.04-21.14.07:548][924]LogWorld: Bringing World /Game/Levels/UEDPIE_0_EnemyTestRoom.EnemyTestRoom up for play (max tick rate 60) at 2020.03.04-16.14.07
+[2020.03.04-21.14.07:549][924]LogWorld: Bringing up level for play took: 0.002731
+[2020.03.04-21.14.07:565][924]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_EnemyTestRoom -0.365
+[2020.03.04-21.14.07:565][924]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/EnemyTestRoom.EnemyTestRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/EnemyTestRoom.EnemyTestRoom:PersistentLevel.EnemyTestRoom' with GeneratedClass '/Game/Levels/EnemyTestRoom.EnemyTestRoom_C' with ClassGeneratedBy '/Game/Levels/EnemyTestRoom.EnemyTestRoom:PersistentLevel.EnemyTestRoom'
+[2020.03.04-21.14.30:521][301]LogBlueprintUserMessages: [AICharacterSmall_2] Ouch!
+[2020.03.04-21.14.35:754][615]LogBlueprintUserMessages: [AICharacterSmall_2] Ouch!
+[2020.03.04-21.14.35:854][621]LogCharacterMovement: AICharacterSmall_2 is stuck and failed to move! Velocity: X=-34.05 Y=-2.38 Z=0.00 Location: X=4375.97 Y=509.36 Z=140.15 Normal: X=-0.63 Y=0.78 Z=0.00 PenetrationDepth:12.607 Actor:BP_Player_C_0 Component:BulletSpawn BoneName:None (0 other events since notify)
+[2020.03.04-21.14.36:854][681]LogCharacterMovement: AICharacterSmall_2 is stuck and failed to move! Velocity: X=-34.05 Y=-2.39 Z=0.00 Location: X=4375.85 Y=509.40 Z=140.09 Normal: X=-0.91 Y=0.38 Z=-0.19 PenetrationDepth:9.706 Actor:BP_Player_C_0 Component:BulletSpawn BoneName:None (29 other events since notify)
+[2020.03.04-21.14.37:854][741]LogCharacterMovement: AICharacterSmall_2 is stuck and failed to move! Velocity: X=-34.05 Y=-2.39 Z=0.00 Location: X=4375.85 Y=509.40 Z=140.09 Normal: X=-0.91 Y=0.38 Z=-0.19 PenetrationDepth:9.706 Actor:BP_Player_C_0 Component:BulletSpawn BoneName:None (29 other events since notify)
+[2020.03.04-21.14.39:820][859]LogBlueprintUserMessages: [AICharacterSmall_2] Ouch!
+[2020.03.04-21.14.47:487][319]LogBlueprintUserMessages: [GroundPoundBoss_2] Enemy Swings at You
+[2020.03.04-21.14.47:554][323]LogBlueprintUserMessages: [GroundPoundBoss_2] Ouch!
+[2020.03.04-21.14.49:804][458]LogBlueprintUserMessages: [GroundPoundBoss_2] Enemy Swings at You
+[2020.03.04-21.14.50:437][496]LogBlueprintUserMessages: [GroundPoundBoss_2] Enemy Swings at You
+[2020.03.04-21.14.50:437][496]LogBlueprintUserMessages: [GroundPoundBoss_2] Enemy Swings at You
+[2020.03.04-21.14.50:588][505]LogBlueprintUserMessages: [GroundPoundBoss_2] Enemy Swings at You
+[2020.03.04-21.14.58:489][977]LogBlueprintUserMessages: [BP_HealthKit3] That's better!
+[2020.03.04-21.14.59:506][ 38]LogBlueprintUserMessages: [BP_HealthKit2] That's better!
+[2020.03.04-21.15.00:323][ 87]LogBlueprintUserMessages: [BP_HealthKit_2] That's better!
+[2020.03.04-21.15.01:207][140]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/EnemyTestRoom.EnemyTestRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/EnemyTestRoom.EnemyTestRoom:PersistentLevel.EnemyTestRoom' with GeneratedClass '/Game/Levels/EnemyTestRoom.EnemyTestRoom_C' with ClassGeneratedBy '/Game/Levels/EnemyTestRoom.EnemyTestRoom:PersistentLevel.EnemyTestRoom'
+[2020.03.04-21.15.01:311][140]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.04-21.15.01:355][140]LogSlate: Window 'Group5_PB Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.04-21.15.01:400][140]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.04-21.15.01:400][140]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/EnemyTestRoom.EnemyTestRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/EnemyTestRoom.EnemyTestRoom:PersistentLevel.EnemyTestRoom' with GeneratedClass '/Game/Levels/EnemyTestRoom.EnemyTestRoom_C' with ClassGeneratedBy '/Game/Levels/EnemyTestRoom.EnemyTestRoom:PersistentLevel.EnemyTestRoom'
+[2020.03.04-21.15.01:478][140]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2020.03.04-21.15.01:496][141]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.03.04-21.16.40:528][ 52]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush7)
+[2020.03.04-21.16.42:592][175]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-21.17.19:479][376]LogGeometryMode: Warning: Unable to find BoxBrush7 Brush(s) in new BSP
+[2020.03.04-21.17.19:479][376]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.03.04-21.17.46:041][956]Cmd: TRANSACTION UNDO
+[2020.03.04-21.17.46:041][956]LogEditorTransaction: Undo Move Actors
+[2020.03.04-21.17.46:068][956]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.03.04-21.17.46:068][956]LogGeometryMode: Warning: Unable to resolve BoxBrush7 Brush in new BSP, see above
+[2020.03.04-21.17.46:068][956]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.03.04-21.17.48:462][ 97]LogEditorViewport: Clicking Background
+[2020.03.04-21.17.52:710][350]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-21.17.56:740][592]LogEditorViewport: Clicking Background
+[2020.03.04-21.18.14:249][630]Cmd: TRANSACTION UNDO
+[2020.03.04-21.18.14:249][630]LogEditorTransaction: Undo Rotate Actors
+[2020.03.04-21.18.19:721][951]Cmd: TRANSACTION UNDO
+[2020.03.04-21.18.19:721][951]LogEditorTransaction: Undo Rotate Actors
+[2020.03.04-21.19.11:792][ 54]Cmd: EDIT COPY
+[2020.03.04-21.19.12:209][ 79]Cmd: EDIT PASTE
+[2020.03.04-21.21.13:594][265]LogEditorViewport: Clicking Background
+[2020.03.04-21.23.50:942][571]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-21.23.52:074][639]MapCheck: New page: Map Check
+[2020.03.04-21.23.52:080][639]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-21.23.52:102][639]Cmd: MAP REBUILD ALLVISIBLE
+[2020.03.04-21.23.52:117][639]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.03.04-21.23.52:411][639]LightingResults: New page: Lighting Build - Mar 4, 2020, 11:23:52 AM
+[2020.03.04-21.23.52:462][639]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.03.04-21.23.52:511][639]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.03.04-21.23.52:523][639]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.03.04-21.23.53:569][639]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.03.04-21.23.53:569][639]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12796
+[2020.03.04-21.23.55:785][639]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2020.03.04-21.23.55:785][639]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.03.04-21.23.55:785][639]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.03.04-21.23.55:785][639]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.03.04-21.23.55:785][639]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.03.04-21.23.55:785][639]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.03.04-21.23.55:935][639]LogEditorBuildUtils: Build time 0:03
+[2020.03.04-21.23.55:997][640]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2020.03.04-21.24.01:683][940]Job is a success!
+[2020.03.04-21.24.01:831][941]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-21.24.01:935][941]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.078s
+[2020.03.04-21.24.01:935][941]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2020.03.04-21.24.01:935][941]LogVolumetricLightmapImport:      BrickData 1280x10x5 = 2.5Mb (trimmed 1.5Mb due to 0.010000 MinBrickError)
+[2020.03.04-21.24.01:935][941]LogVolumetricLightmapImport:      Bricks at Level
+[2020.03.04-21.24.01:935][941]LogVolumetricLightmapImport:          0: 2.1% covering 100.0% of volume
+[2020.03.04-21.24.01:935][941]LogVolumetricLightmapImport:          1: 16.5% covering 12.1% of volume
+[2020.03.04-21.24.01:935][941]LogVolumetricLightmapImport:          2: 81.3% covering 0.9% of volume
+[2020.03.04-21.24.02:848][941]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 2048X1024)
+[2020.03.04-21.24.02:848][941]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 2048X2048)
+[2020.03.04-21.24.02:848][941]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 2048X2048)
+[2020.03.04-21.24.03:034][941]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X1024)
+[2020.03.04-21.24.03:067][941]Lightmass on MSI: 6.07 sec total, 121 ms importing, 26 ms setup, 1.54 sec photons, 4.36 sec processing, 0 ms extra exporting [138/138 mappings]. Threads: 47.5 sec total, 13.4 sec processing.
+[2020.03.04-21.24.03:078][941]LogStaticLightingSystem: EnemyTestRoom_BuiltData storing lightmap data for 93 meshes in 2 LightmapResourceClusters (46.5 Meshes per cluster).
+[2020.03.04-21.24.03:118][941]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2020.03.04-21.24.03:168][941]LogStaticLightingSystem: Illumination: 10.7 sec (635 ms encoding lightmaps, 184 ms encoding shadowmaps)
+[2020.03.04-21.24.03:168][941]LogStaticLightingSystem: Lightmap texture memory:  10.7 MB (0.0 MB streaming, 10.7 MB non-streaming), 2 textures
+[2020.03.04-21.24.03:168][941]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (0.0 MB streaming, 1.3 MB non-streaming), 1 textures
+[2020.03.04-21.24.07:796][941]DumpUnbuiltLightIteractions
+[2020.03.04-21.24.07:796][941]Lights with unbuilt interactions: 0
+[2020.03.04-21.24.07:796][941]
+[2020.03.04-21.24.07:796][941]Primitives with unbuilt interactions: 0
+[2020.03.04-21.24.07:952][942]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.03.04-21.24.07:953][942]MapCheck: New page: EnemyTestRoom - Mar 4, 2020, 11:24:07 AM
+[2020.03.04-21.24.07:953][942]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.314ms to complete.
+[2020.03.04-21.24.09:813][ 52]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-21.24.09:911][ 58]LogSlate: Window 'Message Log' being destroyed
+[2020.03.04-21.24.09:914][ 58]LogSlate: Window 'Message Log' being destroyed
+[2020.03.04-21.26.05:812][934]LogEditorViewport: Clicking Background
+[2020.03.04-21.27.00:066][ 74]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-21.27.00:201][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/EnemyTestRoom" FILE="D:/Dungeon Crawler Repository/Space-Dungeon/Group5_PB/Content/Levels/EnemyTestRoom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.04-21.27.00:236][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2020.03.04-21.27.00:685][ 81]LogSavePackage: Moving 'D:/Dungeon Crawler Repository/Space-Dungeon/Group5_PB/Saved/EnemyTestRoomE33705884B80D426F7D672A770B970CF.tmp' to 'D:/Dungeon Crawler Repository/Space-Dungeon/Group5_PB/Content/Levels/EnemyTestRoom.umap'
+[2020.03.04-21.27.00:716][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/EnemyTestRoom_BuiltData" FILE="D:/Dungeon Crawler Repository/Space-Dungeon/Group5_PB/Content/Levels/EnemyTestRoom_BuiltData.uasset" SILENT=true
+[2020.03.04-21.27.00:852][ 81]LogSavePackage: Moving 'D:/Dungeon Crawler Repository/Space-Dungeon/Group5_PB/Saved/EnemyTestRoom_BuiltDataE9F606254B43133DA0676DA0CCD752D4.tmp' to 'D:/Dungeon Crawler Repository/Space-Dungeon/Group5_PB/Content/Levels/EnemyTestRoom_BuiltData.uasset'
+[2020.03.04-21.27.03:067][213]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-21.27.04:354][288]MapCheck: New page: Map Check
+[2020.03.04-21.27.04:359][288]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-21.27.04:370][288]Cmd: MAP REBUILD ALLVISIBLE
+[2020.03.04-21.27.04:370][288]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.03.04-21.27.04:697][288]LightingResults: New page: Lighting Build - Mar 4, 2020, 11:27:04 AM
+[2020.03.04-21.27.04:703][288]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.03.04-21.27.04:704][288]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.03.04-21.27.04:704][288]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.03.04-21.27.04:705][288]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.03.04-21.27.04:705][288]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12796
+[2020.03.04-21.27.09:287][288]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2020.03.04-21.27.09:287][288]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.03.04-21.27.09:287][288]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.03.04-21.27.09:287][288]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.03.04-21.27.09:288][288]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.03.04-21.27.09:288][288]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.03.04-21.27.09:641][288]LogEditorBuildUtils: Build time 0:05
+[2020.03.04-21.27.09:694][289]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2020.03.04-21.27.16:226][659]Job is a success!
+[2020.03.04-21.27.16:366][660]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-21.27.16:482][660]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.083s
+[2020.03.04-21.27.16:482][660]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2020.03.04-21.27.16:482][660]LogVolumetricLightmapImport:      BrickData 1280x15x5 = 3.8Mb (trimmed 1.7Mb due to 0.010000 MinBrickError)
+[2020.03.04-21.27.16:482][660]LogVolumetricLightmapImport:      Bricks at Level
+[2020.03.04-21.27.16:482][660]LogVolumetricLightmapImport:          0: 1.6% covering 100.0% of volume
+[2020.03.04-21.27.16:482][660]LogVolumetricLightmapImport:          1: 12.8% covering 12.9% of volume
+[2020.03.04-21.27.16:482][660]LogVolumetricLightmapImport:          2: 85.6% covering 1.3% of volume
+[2020.03.04-21.27.17:529][660]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 2048X1024)
+[2020.03.04-21.27.17:529][660]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 2048X2048)
+[2020.03.04-21.27.17:529][660]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 2048X2048)
+[2020.03.04-21.27.17:719][660]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 1024X1024)
+[2020.03.04-21.27.17:742][660]Lightmass on MSI: 7.47 sec total, 110 ms importing, 24 ms setup, 1.77 sec photons, 5.54 sec processing, 0 ms extra exporting [172/172 mappings]. Threads: 1:00 min total, 20.2 sec processing.
+[2020.03.04-21.27.17:751][660]LogStaticLightingSystem: EnemyTestRoom_BuiltData storing lightmap data for 146 meshes in 2 LightmapResourceClusters (73.0 Meshes per cluster).
+[2020.03.04-21.27.17:796][660]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2020.03.04-21.27.17:866][660]LogStaticLightingSystem: Illumination: 13.1 sec (741 ms encoding lightmaps, 188 ms encoding shadowmaps)
+[2020.03.04-21.27.17:866][660]LogStaticLightingSystem: Lightmap texture memory:  10.7 MB (0.0 MB streaming, 10.7 MB non-streaming), 2 textures
+[2020.03.04-21.27.17:866][660]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (0.0 MB streaming, 1.3 MB non-streaming), 1 textures
+[2020.03.04-21.27.18:294][660]DumpUnbuiltLightIteractions
+[2020.03.04-21.27.18:294][660]Lights with unbuilt interactions: 0
+[2020.03.04-21.27.18:294][660]
+[2020.03.04-21.27.18:294][660]Primitives with unbuilt interactions: 0
+[2020.03.04-21.27.18:411][661]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.03.04-21.27.18:411][661]MapCheck: New page: EnemyTestRoom - Mar 4, 2020, 11:27:18 AM
+[2020.03.04-21.27.18:411][661]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.267ms to complete.
+[2020.03.04-21.27.22:245][891]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-21.27.22:395][900]LogSlate: Window 'Message Log' being destroyed
+[2020.03.04-21.27.22:398][900]LogSlate: Window 'Message Log' being destroyed
+[2020.03.04-21.27.24:736][ 40]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-21.27.26:476][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.03.04-21.27.26:481][143]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-21.27.26:494][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/EnemyTestRoom" FILE="D:/Dungeon Crawler Repository/Space-Dungeon/Group5_PB/Content/Levels/EnemyTestRoom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.04-21.27.26:525][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.03.04-21.27.26:769][143]LogSavePackage: Moving 'D:/Dungeon Crawler Repository/Space-Dungeon/Group5_PB/Saved/EnemyTestRoomAA2CB16B4504BC2B3C41579545D82242.tmp' to 'D:/Dungeon Crawler Repository/Space-Dungeon/Group5_PB/Content/Levels/EnemyTestRoom.umap'
+[2020.03.04-21.27.26:795][143]LogFileHelpers: Saving map 'EnemyTestRoom' took 0.302
+[2020.03.04-21.27.26:797][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/EnemyTestRoom_BuiltData" FILE="D:/Dungeon Crawler Repository/Space-Dungeon/Group5_PB/Content/Levels/EnemyTestRoom_BuiltData.uasset" SILENT=true
+[2020.03.04-21.27.26:967][143]LogSavePackage: Moving 'D:/Dungeon Crawler Repository/Space-Dungeon/Group5_PB/Saved/EnemyTestRoom_BuiltDataD0A3A2BB4055E75B83FE92BD3039B05D.tmp' to 'D:/Dungeon Crawler Repository/Space-Dungeon/Group5_PB/Content/Levels/EnemyTestRoom_BuiltData.uasset'
