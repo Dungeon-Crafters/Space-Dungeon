@@ -1,0 +1,1635 @@
+﻿Log file open, 03/30/20 11:47:26
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Group5_PB
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.389885
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.03.30-15.47.26:973][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.03.30-15.47.26:973][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.03.30-15.47.26:973][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/Config/Windows/Engine.ini]
+[2020.03.30-15.47.26:973][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.03.30-15.47.26:973][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.03.30-15.47.26:973][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2020.03.30-15.47.26:973][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/Config/Windows/Engine.ini]
+[2020.03.30-15.47.26:973][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/Config/Windows/Engine.ini]
+[2020.03.30-15.47.26:973][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.03.30-15.47.26:973][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.03.30-15.47.26:973][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.03.30-15.47.26:973][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.03.30-15.47.26:973][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.03.30-15.47.26:973][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.03.30-15.47.26:973][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.03.30-15.47.26:973][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.03.30-15.47.26:973][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.03.30-15.47.26:973][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.03.30-15.47.26:973][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.03.30-15.47.26:973][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.03.30-15.47.26:974][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.03.30-15.47.26:974][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/Config/Windows/Engine.ini]
+[2020.03.30-15.47.26:974][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.03.30-15.47.26:974][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.03.30-15.47.26:974][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.03.30-15.47.26:974][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.03.30-15.47.26:974][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.03.30-15.47.26:974][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.03.30-15.47.26:974][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.03.30-15.47.26:974][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.03.30-15.47.26:974][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.03.30-15.47.26:974][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.03.30-15.47.26:974][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.03.30-15.47.26:974][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.03.30-15.47.26:974][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.03.30-15.47.26:974][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/Config/Windows/Engine.ini]
+[2020.03.30-15.47.26:974][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/Config/Windows/Engine.ini]
+[2020.03.30-15.47.26:975][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/Config/Windows/Scalability.ini]
+[2020.03.30-15.47.26:975][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/Config/Windows/Scalability.ini]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/Config/Windows/Scalability.ini]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/Config/Windows/Scalability.ini]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/Config/Windows/Scalability.ini]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/Config/Windows/Scalability.ini]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/Config/Windows/Scalability.ini]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.30-15.47.26:976][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.30-15.47.26:976][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.30-15.47.26:976][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.03.30-15.47.26:988][  0]LogHAL: Display: Platform has ~ 16 GB [16964153344 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.03.30-15.47.26:988][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.03.30-15.47.26:988][  0]LogInit: Going up to parent DeviceProfile []
+[2020.03.30-15.47.26:988][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/Config/Windows/Scalability.ini]
+[2020.03.30-15.47.26:988][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.30-15.47.26:988][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.30-15.47.26:988][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/Config/Windows/Scalability.ini]
+[2020.03.30-15.47.26:988][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.30-15.47.26:988][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/Config/Windows/Scalability.ini]
+[2020.03.30-15.47.26:988][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.30-15.47.26:988][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.30-15.47.26:988][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.30-15.47.26:988][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.30-15.47.26:988][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.30-15.47.26:988][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.30-15.47.26:988][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.30-15.47.26:988][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.30-15.47.26:988][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.30-15.47.26:988][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.30-15.47.26:988][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.30-15.47.26:988][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.30-15.47.26:988][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.30-15.47.26:988][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.30-15.47.26:988][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.30-15.47.26:988][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.30-15.47.26:988][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.30-15.47.26:988][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.30-15.47.26:988][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/Config/Windows/Scalability.ini]
+[2020.03.30-15.47.26:988][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.30-15.47.26:988][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.30-15.47.26:988][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.30-15.47.26:988][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.30-15.47.26:988][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.30-15.47.26:988][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.30-15.47.26:988][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.30-15.47.26:988][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.30-15.47.26:989][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.30-15.47.26:989][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.30-15.47.26:989][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.30-15.47.26:989][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.30-15.47.26:989][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.30-15.47.26:989][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.30-15.47.26:989][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.30-15.47.26:989][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.30-15.47.26:989][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.30-15.47.26:989][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.30-15.47.26:989][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.30-15.47.26:989][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.30-15.47.26:989][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.30-15.47.26:989][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.30-15.47.26:989][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.30-15.47.26:989][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.30-15.47.26:989][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.30-15.47.26:989][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.30-15.47.26:989][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.30-15.47.26:989][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.30-15.47.26:989][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.30-15.47.26:989][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.30-15.47.26:989][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/Config/Windows/Scalability.ini]
+[2020.03.30-15.47.26:989][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.30-15.47.26:989][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.30-15.47.26:989][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.30-15.47.26:989][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.30-15.47.26:989][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.30-15.47.26:989][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.30-15.47.26:989][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.30-15.47.26:989][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.30-15.47.26:989][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/Config/Windows/Scalability.ini]
+[2020.03.30-15.47.26:989][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.30-15.47.26:989][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.30-15.47.26:989][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.30-15.47.26:989][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.30-15.47.26:989][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.30-15.47.26:989][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.30-15.47.26:989][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.30-15.47.26:989][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.30-15.47.26:989][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.30-15.47.26:989][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.30-15.47.26:989][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.30-15.47.26:989][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.30-15.47.26:989][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.30-15.47.26:989][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/Config/Windows/Scalability.ini]
+[2020.03.30-15.47.26:989][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.30-15.47.26:989][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.30-15.47.26:989][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.03.30-15.47.26:989][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.03.30-15.47.26:989][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.03.30-15.47.26:989][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/Config/Windows/Engine.ini]
+[2020.03.30-15.47.26:989][  0]LogInit: Computer: DESKTOP-MJT05JV
+[2020.03.30-15.47.26:989][  0]LogInit: User: ivana
+[2020.03.30-15.47.26:989][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.03.30-15.47.26:989][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.03.30-15.47.26:989][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2020.03.30-15.47.26:990][  0]LogMemory: Platform Memory Stats for Windows
+[2020.03.30-15.47.26:990][  0]LogMemory: Process Physical Memory: 96.98 MB used, 96.98 MB peak
+[2020.03.30-15.47.26:990][  0]LogMemory: Process Virtual Memory: 91.65 MB used, 91.65 MB peak
+[2020.03.30-15.47.26:990][  0]LogMemory: Physical Memory: 7700.01 MB used,  8478.27 MB free, 16178.28 MB total
+[2020.03.30-15.47.26:990][  0]LogMemory: Virtual Memory: 4662.05 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2020.03.30-15.47.27:007][  0]LogInit: Using OS detected language (en-US).
+[2020.03.30-15.47.27:007][  0]LogInit: Using OS detected locale (en-US).
+[2020.03.30-15.47.27:007][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.03.30-15.47.27:145][  0]LogInit: Setting process to per monitor DPI aware
+[2020.03.30-15.47.27:165][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.03.30-15.47.27:165][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.03.30-15.47.27:319][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.30-15.47.27:319][  0]LogD3D11RHI: D3D11 adapters:
+[2020.03.30-15.47.27:371][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (Feature Level 11_0)
+[2020.03.30-15.47.27:372][  0]LogD3D11RHI:       6052/0/8089 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.03.30-15.47.27:386][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.03.30-15.47.27:386][  0]LogD3D11RHI:       128/0/8089 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.03.30-15.47.27:388][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.03.30-15.47.27:388][  0]LogD3D11RHI:       0/0/8089 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.03.30-15.47.27:388][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.03.30-15.47.27:416][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.03.30-15.47.27:416][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2020.03.30-15.47.27:416][  0]LogWindows: EnumDisplayDevices:
+[2020.03.30-15.47.27:416][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2020.03.30-15.47.27:416][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.03.30-15.47.27:416][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.03.30-15.47.27:417][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2020.03.30-15.47.27:417][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2020.03.30-15.47.27:417][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 with Max-Q Design
+[2020.03.30-15.47.27:417][  0]LogD3D11RHI:   Driver Version: 430.64 (internal:26.21.14.3064, unified:430.64)
+[2020.03.30-15.47.27:417][  0]LogD3D11RHI:      Driver Date: 5-5-2019
+[2020.03.30-15.47.27:417][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2020.03.30-15.47.27:458][  0]LogD3D11RHI: Async texture creation enabled
+[2020.03.30-15.47.27:482][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.03.30-15.47.27:483][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.03.30-15.47.27:483][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.03.30-15.47.27:491][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.03.30-15.47.27:743][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.03.30-15.47.27:754][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.03.30-15.47.27:765][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.03.30-15.47.27:777][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.03.30-15.47.27:789][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.03.30-15.47.27:800][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.03.30-15.47.27:813][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.03.30-15.47.27:824][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.03.30-15.47.27:829][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.03.30-15.47.27:900][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.03.30-15.47.27:900][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.03.30-15.47.27:900][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.03.30-15.47.27:900][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.03.30-15.47.27:900][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.03.30-15.47.27:900][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.03.30-15.47.27:900][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.03.30-15.47.27:900][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.03.30-15.47.27:900][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.03.30-15.47.27:900][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.03.30-15.47.27:900][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.03.30-15.47.27:900][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.03.30-15.47.27:900][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.03.30-15.47.27:900][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.03.30-15.47.27:900][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.03.30-15.47.27:900][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.03.30-15.47.27:900][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.03.30-15.47.27:900][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.03.30-15.47.27:901][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.03.30-15.47.27:946][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.03.30-15.47.27:946][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.03.30-15.47.27:967][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.03.30-15.47.27:967][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.03.30-15.47.27:977][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.03.30-15.47.27:987][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.03.30-15.47.27:998][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.03.30-15.47.28:009][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.03.30-15.47.28:047][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.03.30-15.47.28:047][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.03.30-15.47.28:047][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.03.30-15.47.28:054][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.03.30-15.47.28:085][  0]LogShaderCompilers: Guid format shader working directory is -15 characters bigger than the processId version (../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Intermediate/Shaders/WorkingDirectory/22320/).
+[2020.03.30-15.47.28:085][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ivana/AppData/Local/Temp/UnrealShaderWorkingDir/E89EB98F41C135FCE46AE69978DB051D/'.
+[2020.03.30-15.47.28:086][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.03.30-15.47.28:086][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.03.30-15.47.28:086][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.03.30-15.47.32:111][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.03.30-15.47.32:713][  0]LogDerivedDataCache: Loaded boot cache 0.60s 71MB C:/Users/ivana/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.03.30-15.47.32:713][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ivana/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.03.30-15.47.32:713][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.03.30-15.47.32:713][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.03.30-15.47.32:714][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.30-15.47.32:714][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.03.30-15.47.34:271][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.03.30-15.47.34:272][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.30-15.47.34:272][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.03.30-15.47.34:285][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ivana/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.03.30-15.47.34:285][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.03.30-15.47.34:285][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.03.30-15.47.34:351][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.03.30-15.47.34:492][  0]LogSlate: Using FreeType 2.6.0
+[2020.03.30-15.47.34:652][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.03.30-15.47.35:529][  0]LogAssetRegistry: FAssetRegistry took 0.0360 seconds to start up
+[2020.03.30-15.47.38:977][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.30-15.47.41:694][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.03.30-15.47.41:694][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.03.30-15.47.41:694][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.03.30-15.47.41:694][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.03.30-15.47.41:695][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.03.30-15.47.42:216][  0]LogNetVersion: Group5_PB 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 573520080)
+[2020.03.30-15.47.45:512][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Intermediate/AssetRegistryCache/866581fd.bin
+[2020.03.30-15.47.45:522][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Intermediate/AssetRegistryCache/c9e91a3f.bin
+[2020.03.30-15.47.45:529][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Intermediate/AssetRegistryCache/8e9331e2.bin
+[2020.03.30-15.47.45:533][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Intermediate/AssetRegistryCache/52ed2538.bin
+[2020.03.30-15.47.45:536][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Intermediate/AssetRegistryCache/f0d5030c.bin
+[2020.03.30-15.47.45:539][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Intermediate/AssetRegistryCache/1f683343.bin
+[2020.03.30-15.47.45:542][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.059928 seconds
+[2020.03.30-15.47.45:560][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.03.30-15.47.45:560][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.03.30-15.47.45:560][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.03.30-15.47.56:262][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.03.30-15.47.56:352][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.03.30-15.47.57:771][  0]SourceControl: Source control is disabled
+[2020.03.30-15.47.57:787][  0]SourceControl: Source control is disabled
+[2020.03.30-15.47.58:099][  0]SourceControl: Source control is disabled
+[2020.03.30-15.47.58:265][  0]SourceControl: Source control is disabled
+[2020.03.30-15.48.00:763][  0]LogConfig: Warning: Failed to saved backup for config[../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Intermediate/Config/CoalescedSourceConfigs/UnitTest.ini]
+[2020.03.30-15.48.00:864][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.03.30-15.48.01:916][  0]LogOcInput: OculusInput pre-init called
+[2020.03.30-15.48.04:691][  0]LogEngine: Initializing Engine...
+[2020.03.30-15.48.04:758][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.30-15.48.04:863][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2020.03.30-15.48.05:442][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.03.30-15.48.06:295][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.03.30-15.48.06:630][  0]LogInit: XAudio2 using 'Speakers (2- Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.30-15.48.06:727][  0]LogInit: FAudioDevice initialized.
+[2020.03.30-15.48.06:727][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.03.30-15.48.06:887][  0]LogDerivedDataCache: Saved boot cache 0.16s 71MB C:/Users/ivana/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.03.30-15.48.06:894][  0]LogInit: Texture streaming: Enabled
+[2020.03.30-15.48.07:099][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.03.30-15.48.08:004][  0]LogInit: Transaction tracking system initialized
+[2020.03.30-15.48.09:635][  0]BlueprintLog: New page: Editor Load
+[2020.03.30-15.48.13:189][  0]LogConfig: Warning: Failed to saved backup for config[../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Intermediate/Config/CoalescedSourceConfigs/LocalizationServiceSettings.ini]
+[2020.03.30-15.48.13:190][  0]LocalizationService: Localization service is disabled
+[2020.03.30-15.48.15:779][  0]LogFileCache: Scanning file cache for directory 'D:/Spring 2020/Level Design/Space-Dungeon/Group5_PB/Content/' took 0.02s
+[2020.03.30-15.48.15:779][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.03.30-15.48.15:779][  0]LogCook: Display: Mobile HDR setting 1
+[2020.03.30-15.48.17:774][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Intermediate/CachedAssetRegistry.bin
+[2020.03.30-15.48.19:577][  0]SourceControl: Source control is disabled
+[2020.03.30-15.48.19:606][  0]Cmd: MAP LOAD FILE="../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Content/Levels/Dungeon5_KI.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.30-15.48.19:609][  0]LightingResults: New page: Lighting Build
+[2020.03.30-15.48.20:026][  0]MapCheck: New page: Map Check
+[2020.03.30-15.48.20:026][  0]LightingResults: New page: Lighting Build
+[2020.03.30-15.48.20:458][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.03.30-15.48.21:441][  0]LogLinker: Warning: Can't find file '/Game/Levels/Dungeon5_KI_BuiltData'
+[2020.03.30-15.48.21:441][  0]LogLinker: Warning: Can't find file for asset '/Game/Levels/Dungeon5_KI_BuiltData' while loading NULL.
+[2020.03.30-15.48.21:442][  0]LogLinker: Warning: Can't find file '/Game/Levels/Dungeon5_KI_BuiltData'
+[2020.03.30-15.48.21:442][  0]LogLinker: Warning: Can't find file for asset '/Game/Levels/Dungeon5_KI_BuiltData' while loading NULL.
+[2020.03.30-15.48.21:442][  0]LogLinker: Warning: Can't find file '/Game/Levels/Dungeon5_KI_BuiltData'
+[2020.03.30-15.48.21:442][  0]LogLinker: Warning: Can't find file for asset '/Game/Levels/Dungeon5_KI_BuiltData' while loading NULL.
+[2020.03.30-15.48.21:442][  0]LogLinker: Warning: Can't find file '/Game/Levels/Dungeon5_KI_BuiltData'
+[2020.03.30-15.48.21:442][  0]LogLinker: Warning: Can't find file for asset '/Game/Levels/Dungeon5_KI_BuiltData' while loading NULL.
+[2020.03.30-15.48.21:473][  0]LogLinker: Warning: Can't find file '/Game/Levels/Dungeon5_KI_BuiltData'
+[2020.03.30-15.48.21:473][  0]LoadErrors: Failed to load /Game/Levels/Dungeon5_KI_BuiltData.Dungeon5_KI_BuiltData Referenced by PersistentLevel
+[2020.03.30-15.48.21:473][  0]LogLinker: Warning: Can't find file for asset '/Game/Levels/Dungeon5_KI_BuiltData' while loading NULL.
+[2020.03.30-15.48.22:590][  0]LogAIModule: Creating AISystem for world Dungeon5_KI
+[2020.03.30-15.48.23:186][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.30-15.48.23:411][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2020.03.30-15.48.23:411][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.30-15.48.23:411][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.085ms to complete.
+[2020.03.30-15.48.23:411][  0]LogFileHelpers: Loading map 'Dungeon5_KI' took 3.834
+[2020.03.30-15.48.25:285][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.30-15.48.25:297][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.30-15.48.25:302][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.30-15.48.25:308][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.30-15.48.25:367][  0]LogCollectionManager: Loaded 0 collections in 0.001054 seconds
+[2020.03.30-15.48.25:689][  0]LogFileCache: Scanning file cache for directory 'D:/Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/Collections/' took 0.01s
+[2020.03.30-15.48.25:689][  0]LogFileCache: Scanning file cache for directory 'D:/Spring 2020/Level Design/Space-Dungeon/Group5_PB/Content/Developers/ivana/Collections/' took 0.00s
+[2020.03.30-15.48.25:689][  0]LogFileCache: Scanning file cache for directory 'D:/Spring 2020/Level Design/Space-Dungeon/Group5_PB/Content/Collections/' took 0.00s
+[2020.03.30-15.48.25:689][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.03.30-15.48.25:698][  0]LogContentBrowser: Native class hierarchy populated in 0.0085 seconds. Added 2741 classes and 664 folders.
+[2020.03.30-15.48.25:785][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.03.30-15.48.26:070][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.30-15.48.26:182][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.30-15.48.26:305][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.30-15.48.26:331][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.30-15.48.26:524][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.30-15.48.26:553][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.30-15.48.26:706][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.30-15.48.26:816][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.30-15.48.26:896][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.30-15.48.26:995][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.30-15.48.27:054][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.30-15.48.27:072][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.30-15.48.27:096][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.30-15.48.27:109][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.30-15.48.27:156][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.30-15.48.27:177][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.30-15.48.27:362][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.30-15.48.27:392][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.30-15.48.27:492][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.30-15.48.27:575][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.30-15.48.27:603][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.30-15.48.27:626][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.30-15.48.27:669][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.30-15.48.27:716][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.30-15.48.27:802][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.30-15.48.27:831][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.30-15.48.29:996][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.03.30-15.48.30:035][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.03.30-15.48.30:587][  0]LogSlate: Took 0.033109 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.03.30-15.48.30:644][  0]LogSlate: Took 0.054791 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.03.30-15.48.30:686][  0]LogSlate: Took 0.017576 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.03.30-15.48.31:157][  0]LogRenderer: Reallocating scene render targets to support 920x508 Format 10 NumSamples 1 (Frame:1).
+[2020.03.30-15.48.31:784][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.03.30-15.48.31:784][  0]LogLoad: (Engine Initialization) Total time: 66.17 seconds
+[2020.03.30-15.48.31:784][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.03.30-15.48.32:068][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.03.30-15.48.32:083][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.30-15.48.32:281][  0]LogSlate: Took 0.023043 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.30-15.48.32:377][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/Spring 2020/Level Design/Space-Dungeon/Group5_PB/Content/' took 0.46s
+[2020.03.30-15.48.32:392][  1]LogAssetRegistry: Asset discovery search completed in 56.8850 seconds
+[2020.03.30-15.48.32:417][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2020.03.30-15.48.32:417][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000105 seconds (updated 0 objects)
+[2020.03.30-15.48.59:564][618]LogSlate: Window 'Message Log' being destroyed
+[2020.03.30-15.49.00:213][618]LogSlate: Window 'Message Log' being destroyed
+[2020.03.30-15.49.06:022][961]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.30-15.49.09:783][175]LogSlate: Took 0.000108 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.30-15.49.11:936][175]LogAIModule: Creating AISystem for world MasterLevel
+[2020.03.30-15.49.12:670][175]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/MasterLevel.MasterLevel
+[2020.03.30-15.49.12:740][175]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.03.30-15.49.12:747][175]Cmd: MAP LOAD FILE="../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Content/Levels/MasterLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.30-15.49.12:747][175]LightingResults: New page: Lighting Build
+[2020.03.30-15.49.12:747][175]LoadErrors: New page: Loading map: MasterLevel.umap
+[2020.03.30-15.49.12:749][175]MapCheck: New page: Map Check
+[2020.03.30-15.49.12:749][175]LightingResults: New page: Lighting Build
+[2020.03.30-15.49.12:775][175]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2020.03.30-15.49.12:900][175]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.30-15.49.12:927][175]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2020.03.30-15.49.12:940][175]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.30-15.49.12:940][175]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.103ms to complete.
+[2020.03.30-15.49.12:940][175]LogFileHelpers: Loading map 'MasterLevel' took 0.200
+[2020.03.30-15.51.20:172][497]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.30-15.51.41:054][705]LogEditorViewport: Clicking on Actor (LMB): BP_SlidingDoor_C (BP_SlidingDoor3)
+[2020.03.30-15.52.05:332][750]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.30-15.52.08:580][925]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.30-15.52.14:213][263]Cmd: TRANSACTION UNDO
+[2020.03.30-15.52.14:213][263]LogEditorTransaction: Undo Move Actors
+[2020.03.30-15.52.15:915][357]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.30-15.52.19:039][531]Cmd: TRANSACTION UNDO
+[2020.03.30-15.52.19:039][531]LogEditorTransaction: Undo Move Actors
+[2020.03.30-15.52.33:887][388]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.30-15.56.06:660][122]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.30-15.56.12:120][426]Cmd: TRANSACTION UNDO
+[2020.03.30-15.56.12:120][426]LogEditorTransaction: Undo Move Actors
+[2020.03.30-15.56.27:582][235]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.30-15.56.27:701][240]LogRenderer: Reallocating scene render targets to support 920x512 Format 10 NumSamples 1 (Frame:20931).
+[2020.03.30-15.56.27:737][241]LogRenderer: Reallocating scene render targets to support 920x524 Format 10 NumSamples 1 (Frame:20933).
+[2020.03.30-15.56.27:772][242]LogRenderer: Reallocating scene render targets to support 920x536 Format 10 NumSamples 1 (Frame:20935).
+[2020.03.30-15.56.27:808][243]LogRenderer: Reallocating scene render targets to support 920x548 Format 10 NumSamples 1 (Frame:20937).
+[2020.03.30-15.56.27:943][244]LogRenderer: Reallocating scene render targets to support 920x560 Format 10 NumSamples 1 (Frame:20939).
+[2020.03.30-15.56.27:985][245]LogRenderer: Reallocating scene render targets to support 920x576 Format 10 NumSamples 1 (Frame:20941).
+[2020.03.30-15.56.34:613][579]Cmd: TRANSACTION UNDO
+[2020.03.30-15.56.34:613][579]LogEditorTransaction: Undo Move Actors
+[2020.03.30-15.56.37:823][744]Cmd: EDIT COPY
+[2020.03.30-15.56.40:056][868]Cmd: DELETE
+[2020.03.30-15.56.40:056][868]Cmd: ACTOR DELETE
+[2020.03.30-15.56.40:185][868]LogEditorActor: Deleted Actor: Brush
+[2020.03.30-15.56.40:265][868]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2020.03.30-15.56.40:526][868]LogEditorActor: Deleted 1 Actors (0.470 secs)
+[2020.03.30-15.56.41:497][923]Cmd: EDIT PASTE
+[2020.03.30-15.57.00:166][805]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.30-15.57.18:629][634]Cmd: DELETE
+[2020.03.30-15.57.18:629][634]Cmd: ACTOR DELETE
+[2020.03.30-15.57.18:659][634]LogEditorActor: Deleted Actor: Brush
+[2020.03.30-15.57.18:688][634]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2020.03.30-15.57.18:955][634]LogEditorActor: Deleted 1 Actors (0.326 secs)
+[2020.03.30-15.57.19:509][662]Cmd: DELETE
+[2020.03.30-15.57.19:509][662]Cmd: ACTOR DELETE
+[2020.03.30-15.57.19:538][662]LogEditorActor: Deleted Actor: Brush
+[2020.03.30-15.57.19:565][662]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2020.03.30-15.57.19:819][662]LogEditorActor: Deleted 1 Actors (0.310 secs)
+[2020.03.30-15.57.46:751][185]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.30-15.57.54:411][604]Cmd: EDIT COPY
+[2020.03.30-15.57.56:843][750]Cmd: DELETE
+[2020.03.30-15.57.56:843][750]Cmd: ACTOR DELETE
+[2020.03.30-15.57.56:881][750]LogEditorActor: Deleted Actor: Brush
+[2020.03.30-15.57.56:919][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2020.03.30-15.57.57:172][750]LogEditorActor: Deleted 1 Actors (0.329 secs)
+[2020.03.30-15.57.58:039][798]Cmd: EDIT PASTE
+[2020.03.30-15.58.14:722][608]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.30-15.58.49:641][417]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.30-15.58.51:858][550]Cmd: DELETE
+[2020.03.30-15.58.51:858][550]Cmd: ACTOR DELETE
+[2020.03.30-15.58.51:891][550]LogEditorActor: Deleted Actor: Brush
+[2020.03.30-15.58.51:920][550]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.03.30-15.58.52:171][550]LogEditorActor: Deleted 1 Actors (0.313 secs)
+[2020.03.30-15.58.53:031][596]Cmd: DELETE
+[2020.03.30-15.58.53:031][596]Cmd: ACTOR DELETE
+[2020.03.30-15.58.53:076][596]LogEditorActor: Deleted Actor: Brush
+[2020.03.30-15.58.53:105][596]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2020.03.30-15.58.53:351][596]LogEditorActor: Deleted 1 Actors (0.319 secs)
+[2020.03.30-15.58.54:707][672]Cmd: DELETE
+[2020.03.30-15.58.54:707][672]Cmd: ACTOR DELETE
+[2020.03.30-15.58.54:738][672]LogEditorActor: Deleted Actor: Brush
+[2020.03.30-15.58.54:764][672]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2020.03.30-15.58.55:008][672]LogEditorActor: Deleted 1 Actors (0.300 secs)
+[2020.03.30-15.59.33:317][959]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.30-15.59.33:361][959]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.03.30-15.59.34:804][959]LogSavePackage: Moving '../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/MasterLevel_Auto1CAE5A29244A3759AF3AAAAB1DB08113C.tmp' to '../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/Autosaves/Game/Levels/MasterLevel_Auto1.umap'
+[2020.03.30-15.59.34:808][959]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MasterLevel' took 1.474
+[2020.03.30-15.59.34:808][959]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.474
+[2020.03.30-16.08.55:568][603]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush30)
+[2020.03.30-16.08.56:112][634]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.30-16.09.00:801][915]Cmd: DELETE
+[2020.03.30-16.09.00:801][915]Cmd: ACTOR DELETE
+[2020.03.30-16.09.00:831][915]LogEditorActor: Deleted Actor: Brush
+[2020.03.30-16.09.00:861][915]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2020.03.30-16.09.01:103][915]LogEditorActor: Deleted 1 Actors (0.301 secs)
+[2020.03.30-16.09.01:700][946]Cmd: DELETE
+[2020.03.30-16.09.01:700][946]Cmd: ACTOR DELETE
+[2020.03.30-16.09.01:730][946]LogEditorActor: Deleted Actor: Brush
+[2020.03.30-16.09.01:759][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2020.03.30-16.09.01:997][946]LogEditorActor: Deleted 1 Actors (0.297 secs)
+[2020.03.30-16.09.02:475][969]Cmd: DELETE
+[2020.03.30-16.09.02:475][969]Cmd: ACTOR DELETE
+[2020.03.30-16.09.02:504][969]LogEditorActor: Deleted Actor: Brush
+[2020.03.30-16.09.02:531][969]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2020.03.30-16.09.02:767][969]LogEditorActor: Deleted 1 Actors (0.292 secs)
+[2020.03.30-16.09.03:620][ 15]Cmd: DELETE
+[2020.03.30-16.09.03:620][ 15]Cmd: ACTOR DELETE
+[2020.03.30-16.09.03:647][ 15]LogEditorActor: Deleted Actor: Brush
+[2020.03.30-16.09.03:675][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2020.03.30-16.09.03:913][ 15]LogEditorActor: Deleted 1 Actors (0.293 secs)
+[2020.03.30-16.09.05:310][ 95]Cmd: TRANSACTION UNDO
+[2020.03.30-16.09.05:310][ 95]LogEditorTransaction: Undo Delete Actors
+[2020.03.30-16.09.39:351][970]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.30-16.09.52:948][767]Cmd: DELETE
+[2020.03.30-16.09.52:949][767]Cmd: ACTOR DELETE
+[2020.03.30-16.09.52:976][767]LogEditorActor: Deleted Actor: Brush
+[2020.03.30-16.09.53:003][767]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.03.30-16.09.53:245][767]LogEditorActor: Deleted 1 Actors (0.296 secs)
+[2020.03.30-16.09.53:827][797]Cmd: DELETE
+[2020.03.30-16.09.53:827][797]Cmd: ACTOR DELETE
+[2020.03.30-16.09.53:853][797]LogEditorActor: Deleted Actor: Brush
+[2020.03.30-16.09.53:877][797]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.03.30-16.09.54:129][797]LogEditorActor: Deleted 1 Actors (0.302 secs)
+[2020.03.30-16.09.54:855][835]Cmd: DELETE
+[2020.03.30-16.09.54:855][835]Cmd: ACTOR DELETE
+[2020.03.30-16.09.54:883][835]LogEditorActor: Deleted Actor: Brush
+[2020.03.30-16.09.54:908][835]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.03.30-16.09.55:164][835]LogEditorActor: Deleted 1 Actors (0.309 secs)
+[2020.03.30-16.09.56:361][901]Cmd: DELETE
+[2020.03.30-16.09.56:361][901]Cmd: ACTOR DELETE
+[2020.03.30-16.09.56:388][901]LogEditorActor: Deleted Actor: Brush
+[2020.03.30-16.09.56:414][901]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.03.30-16.09.56:660][901]LogEditorActor: Deleted 1 Actors (0.298 secs)
+[2020.03.30-16.09.57:321][935]Cmd: DELETE
+[2020.03.30-16.09.57:321][935]Cmd: ACTOR DELETE
+[2020.03.30-16.09.57:346][935]LogEditorActor: Deleted Actor: Brush
+[2020.03.30-16.09.57:371][935]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.03.30-16.09.57:624][935]LogEditorActor: Deleted 1 Actors (0.305 secs)
+[2020.03.30-16.10.01:363][154]Cmd: DELETE
+[2020.03.30-16.10.01:363][154]Cmd: ACTOR DELETE
+[2020.03.30-16.10.01:391][154]LogEditorActor: Deleted Actor: Brush
+[2020.03.30-16.10.01:417][154]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.03.30-16.10.01:664][154]LogEditorActor: Deleted 1 Actors (0.300 secs)
+[2020.03.30-16.10.01:961][167]Cmd: DELETE
+[2020.03.30-16.10.01:961][167]Cmd: ACTOR DELETE
+[2020.03.30-16.10.01:988][167]LogEditorActor: Deleted Actor: Brush
+[2020.03.30-16.10.02:012][167]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.03.30-16.10.02:259][167]LogEditorActor: Deleted 1 Actors (0.299 secs)
+[2020.03.30-16.10.10:304][644]Cmd: DELETE
+[2020.03.30-16.10.10:304][644]Cmd: ACTOR DELETE
+[2020.03.30-16.10.10:331][644]LogEditorActor: Deleted Actor: Brush
+[2020.03.30-16.10.10:354][644]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2020.03.30-16.10.10:596][644]LogEditorActor: Deleted 1 Actors (0.291 secs)
+[2020.03.30-16.10.11:045][666]Cmd: DELETE
+[2020.03.30-16.10.11:045][666]Cmd: ACTOR DELETE
+[2020.03.30-16.10.11:073][666]LogEditorActor: Deleted Actor: Brush
+[2020.03.30-16.10.11:098][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.03.30-16.10.11:336][666]LogEditorActor: Deleted 1 Actors (0.291 secs)
+[2020.03.30-16.10.12:155][710]Cmd: DELETE
+[2020.03.30-16.10.12:155][710]Cmd: ACTOR DELETE
+[2020.03.30-16.10.12:180][710]LogEditorActor: Deleted Actor: Brush
+[2020.03.30-16.10.12:206][710]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.03.30-16.10.12:438][710]LogEditorActor: Deleted 1 Actors (0.282 secs)
+[2020.03.30-16.10.24:123][399]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.30-16.10.27:996][631]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush15)
+[2020.03.30-16.10.28:472][658]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.30-16.10.31:500][840]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.30-16.10.36:285][127]LogEditorViewport: Clicking on Actor (LMB): BP_HealthKit_C (BP_HealthKit3)
+[2020.03.30-16.10.37:323][188]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.30-16.10.40:073][353]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.30-16.10.44:522][620]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_HealthKit_C (BP_HealthKit2)
+[2020.03.30-16.10.45:524][679]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_HealthKit_C (BP_HealthKit)
+[2020.03.30-16.11.12:356][283]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_EnemyTurret_C (BP_EnemyTurret5)
+[2020.03.30-16.11.41:144][912]Cmd: TRANSACTION UNDO
+[2020.03.30-16.11.41:144][912]LogEditorTransaction: Undo Move Actors
+[2020.03.30-16.11.50:439][389]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.30-16.11.57:317][781]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.30-16.12.13:392][701]Cmd: DELETE
+[2020.03.30-16.12.13:392][701]Cmd: ACTOR DELETE
+[2020.03.30-16.12.13:427][701]LogEditorActor: Deleted Actor: Brush
+[2020.03.30-16.12.13:465][701]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2020.03.30-16.12.13:699][701]LogEditorActor: Deleted 1 Actors (0.307 secs)
+[2020.03.30-16.12.14:034][715]Cmd: DELETE
+[2020.03.30-16.12.14:034][715]Cmd: ACTOR DELETE
+[2020.03.30-16.12.14:063][715]LogEditorActor: Deleted Actor: Brush
+[2020.03.30-16.12.14:091][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2020.03.30-16.12.14:327][715]LogEditorActor: Deleted 1 Actors (0.292 secs)
+[2020.03.30-16.12.17:245][885]Cmd: DELETE
+[2020.03.30-16.12.17:245][885]Cmd: ACTOR DELETE
+[2020.03.30-16.12.17:274][885]LogEditorActor: Deleted Actor: Brush
+[2020.03.30-16.12.17:301][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.03.30-16.12.17:528][885]LogEditorActor: Deleted 1 Actors (0.283 secs)
+[2020.03.30-16.12.23:416][233]Cmd: DELETE
+[2020.03.30-16.12.23:416][233]Cmd: ACTOR DELETE
+[2020.03.30-16.12.23:445][233]LogEditorActor: Deleted Actor: Brush
+[2020.03.30-16.12.23:471][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2020.03.30-16.12.23:701][233]LogEditorActor: Deleted 1 Actors (0.285 secs)
+[2020.03.30-16.12.24:131][253]Cmd: DELETE
+[2020.03.30-16.12.24:131][253]Cmd: ACTOR DELETE
+[2020.03.30-16.12.24:161][253]LogEditorActor: Deleted Actor: Brush
+[2020.03.30-16.12.24:190][253]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.03.30-16.12.24:428][253]LogEditorActor: Deleted 1 Actors (0.296 secs)
+[2020.03.30-16.12.25:151][291]Cmd: DELETE
+[2020.03.30-16.12.25:151][291]Cmd: ACTOR DELETE
+[2020.03.30-16.12.25:180][291]LogEditorActor: Deleted Actor: Brush
+[2020.03.30-16.12.25:208][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2020.03.30-16.12.25:448][291]LogEditorActor: Deleted 1 Actors (0.297 secs)
+[2020.03.30-16.12.25:842][309]Cmd: DELETE
+[2020.03.30-16.12.25:842][309]Cmd: ACTOR DELETE
+[2020.03.30-16.12.25:872][309]LogEditorActor: Deleted Actor: Brush
+[2020.03.30-16.12.25:898][309]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.03.30-16.12.26:140][309]LogEditorActor: Deleted 1 Actors (0.298 secs)
+[2020.03.30-16.12.26:697][337]Cmd: DELETE
+[2020.03.30-16.12.26:697][337]Cmd: ACTOR DELETE
+[2020.03.30-16.12.26:727][337]LogEditorActor: Deleted Actor: Brush
+[2020.03.30-16.12.26:755][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2020.03.30-16.12.26:996][337]LogEditorActor: Deleted 1 Actors (0.299 secs)
+[2020.03.30-16.12.27:469][361]Cmd: DELETE
+[2020.03.30-16.12.27:469][361]Cmd: ACTOR DELETE
+[2020.03.30-16.12.27:496][361]LogEditorActor: Deleted Actor: Brush
+[2020.03.30-16.12.27:523][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.03.30-16.12.27:768][361]LogEditorActor: Deleted 1 Actors (0.299 secs)
+[2020.03.30-16.12.28:243][385]Cmd: DELETE
+[2020.03.30-16.12.28:243][385]Cmd: ACTOR DELETE
+[2020.03.30-16.12.28:269][385]LogEditorActor: Deleted Actor: Brush
+[2020.03.30-16.12.28:294][385]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.03.30-16.12.28:534][385]LogEditorActor: Deleted 1 Actors (0.291 secs)
+[2020.03.30-16.12.29:229][422]Cmd: DELETE
+[2020.03.30-16.12.29:229][422]Cmd: ACTOR DELETE
+[2020.03.30-16.12.29:258][422]LogEditorActor: Deleted Actor: Brush
+[2020.03.30-16.12.29:285][422]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2020.03.30-16.12.29:518][422]LogEditorActor: Deleted 1 Actors (0.288 secs)
+[2020.03.30-16.12.44:931][ 56]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2020.03.30-16.12.46:349][110]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.30-16.13.13:742][753]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.30-16.13.13:783][753]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.03.30-16.13.14:999][753]LogSavePackage: Moving '../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/MasterLevel_Auto2DBD6665A4E7D193E8A55A789333E89C9.tmp' to '../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/Autosaves/Game/Levels/MasterLevel_Auto2.umap'
+[2020.03.30-16.13.15:113][753]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MasterLevel' took 1.355
+[2020.03.30-16.13.15:113][753]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.355
+[2020.03.30-16.29.34:673][347]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.03.30-16.29.55:002][464]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.03.30-16.30.05:467][527]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.03.30-16.30.05:976][529]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.03.30-16.30.42:406][794]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.03.30-16.30.47:078][821]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.03.30-16.30.55:320][864]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.03.30-16.31.52:597][257]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.03.30-16.32.27:938][491]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.03.30-16.32.36:222][536]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.03.30-16.33.13:611][812]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.03.30-16.33.58:710][ 65]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.03.30-16.34.03:390][ 92]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.03.30-16.34.14:888][191]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.03.30-16.34.20:001][216]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.03.30-16.34.25:064][238]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.03.30-16.34.29:127][255]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.03.30-16.34.34:283][283]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.03.30-16.34.34:794][285]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.03.30-16.34.35:305][287]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.03.30-16.34.40:974][318]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.03.30-16.35.06:564][503]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.03.30-16.35.09:687][521]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.03.30-16.35.27:737][617]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.03.30-16.35.49:975][948]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.03.30-16.35.59:780][  0]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.03.30-16.36.11:678][ 95]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.03.30-16.36.18:434][133]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.03.30-16.36.49:884][424]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.03.30-16.37.01:709][483]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.03.30-16.37.07:904][547]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.03.30-16.37.17:158][625]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.03.30-16.37.17:670][627]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.03.30-16.37.18:673][631]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.03.30-16.37.22:239][649]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.03.30-16.37.39:438][749]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.03.30-16.37.53:541][835]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.03.30-16.38.05:118][938]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.03.30-16.38.12:395][  9]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.03.30-16.38.17:064][ 34]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.03.30-16.38.40:956][171]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.03.30-16.38.45:674][199]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.03.30-16.38.50:809][224]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.03.30-16.39.05:363][339]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.03.30-16.39.48:003][582]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.03.30-16.40.26:034][837]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.03.30-16.40.49:892][974]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.03.30-16.41.08:162][110]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.03.30-16.41.39:516][299]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.03.30-16.41.59:095][405]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.03.30-16.42.01:657][417]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.03.30-16.42.09:528][495]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.03.30-16.42.10:037][497]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.03.30-16.42.10:543][499]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.03.30-16.42.13:659][517]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.03.30-16.43.13:833][938]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.03.30-16.43.27:362][ 17]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.03.30-16.43.29:476][ 28]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.03.30-16.44.12:594][600]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.30-16.45.55:573][233]Cmd: DELETE
+[2020.03.30-16.45.55:573][233]Cmd: ACTOR DELETE
+[2020.03.30-16.45.55:602][233]LogEditorActor: Deleted Actor: Brush
+[2020.03.30-16.45.55:629][233]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.03.30-16.45.55:869][233]LogEditorActor: Deleted 1 Actors (0.296 secs)
+[2020.03.30-16.45.56:452][262]Cmd: DELETE
+[2020.03.30-16.45.56:452][262]Cmd: ACTOR DELETE
+[2020.03.30-16.45.56:479][262]LogEditorActor: Deleted Actor: Brush
+[2020.03.30-16.45.56:505][262]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.03.30-16.45.56:737][262]LogEditorActor: Deleted 1 Actors (0.285 secs)
+[2020.03.30-16.45.57:731][317]Cmd: DELETE
+[2020.03.30-16.45.57:731][317]Cmd: ACTOR DELETE
+[2020.03.30-16.45.57:759][317]LogEditorActor: Deleted Actor: Brush
+[2020.03.30-16.45.57:783][317]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.03.30-16.45.58:021][317]LogEditorActor: Deleted 1 Actors (0.289 secs)
+[2020.03.30-16.45.58:432][337]Cmd: DELETE
+[2020.03.30-16.45.58:432][337]Cmd: ACTOR DELETE
+[2020.03.30-16.45.58:461][337]LogEditorActor: Deleted Actor: Brush
+[2020.03.30-16.45.58:487][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.03.30-16.45.58:716][337]LogEditorActor: Deleted 1 Actors (0.284 secs)
+[2020.03.30-16.45.59:692][391]Cmd: DELETE
+[2020.03.30-16.45.59:693][391]Cmd: ACTOR DELETE
+[2020.03.30-16.45.59:744][391]LogEditorActor: Deleted Actor: Brush
+[2020.03.30-16.45.59:767][391]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.03.30-16.45.59:998][391]LogEditorActor: Deleted 1 Actors (0.305 secs)
+[2020.03.30-16.46.00:527][418]Cmd: DELETE
+[2020.03.30-16.46.00:527][418]Cmd: ACTOR DELETE
+[2020.03.30-16.46.00:552][418]LogEditorActor: Deleted Actor: Brush
+[2020.03.30-16.46.00:577][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.03.30-16.46.00:801][418]LogEditorActor: Deleted 1 Actors (0.274 secs)
+[2020.03.30-16.46.03:847][596]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.30-16.46.06:437][750]Cmd: DELETE
+[2020.03.30-16.46.06:437][750]Cmd: ACTOR DELETE
+[2020.03.30-16.46.06:464][750]LogEditorActor: Deleted Actor: Brush
+[2020.03.30-16.46.06:488][750]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.03.30-16.46.06:719][750]LogEditorActor: Deleted 1 Actors (0.282 secs)
+[2020.03.30-16.46.07:030][763]Cmd: DELETE
+[2020.03.30-16.46.07:030][763]Cmd: ACTOR DELETE
+[2020.03.30-16.46.07:056][763]LogEditorActor: Deleted Actor: Brush
+[2020.03.30-16.46.07:083][763]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2020.03.30-16.46.07:317][763]LogEditorActor: Deleted 1 Actors (0.287 secs)
+[2020.03.30-16.46.07:966][797]Cmd: DELETE
+[2020.03.30-16.46.07:966][797]Cmd: ACTOR DELETE
+[2020.03.30-16.46.07:991][797]LogEditorActor: Deleted Actor: Brush
+[2020.03.30-16.46.08:017][797]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.03.30-16.46.08:240][797]LogEditorActor: Deleted 1 Actors (0.274 secs)
+[2020.03.30-16.46.08:813][827]Cmd: DELETE
+[2020.03.30-16.46.08:813][827]Cmd: ACTOR DELETE
+[2020.03.30-16.46.08:839][827]LogEditorActor: Deleted Actor: Brush
+[2020.03.30-16.46.08:864][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.03.30-16.46.09:088][827]LogEditorActor: Deleted 1 Actors (0.274 secs)
+[2020.03.30-16.46.09:597][853]Cmd: DELETE
+[2020.03.30-16.46.09:597][853]Cmd: ACTOR DELETE
+[2020.03.30-16.46.09:622][853]LogEditorActor: Deleted Actor: Brush
+[2020.03.30-16.46.09:647][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2020.03.30-16.46.09:867][853]LogEditorActor: Deleted 1 Actors (0.270 secs)
+[2020.03.30-16.46.10:167][865]Cmd: DELETE
+[2020.03.30-16.46.10:168][865]Cmd: ACTOR DELETE
+[2020.03.30-16.46.10:195][865]LogEditorActor: Deleted Actor: Brush
+[2020.03.30-16.46.10:222][865]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.03.30-16.46.10:445][865]LogEditorActor: Deleted 1 Actors (0.278 secs)
+[2020.03.30-16.46.10:726][876]Cmd: DELETE
+[2020.03.30-16.46.10:726][876]Cmd: ACTOR DELETE
+[2020.03.30-16.46.10:751][876]LogEditorActor: Deleted Actor: Brush
+[2020.03.30-16.46.10:778][876]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.03.30-16.46.11:001][876]LogEditorActor: Deleted 1 Actors (0.275 secs)
+[2020.03.30-16.46.12:099][938]Cmd: DELETE
+[2020.03.30-16.46.12:099][938]Cmd: ACTOR DELETE
+[2020.03.30-16.46.12:140][938]LogEditorActor: Deleted Actor: Brush
+[2020.03.30-16.46.12:167][938]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.03.30-16.46.12:400][938]LogEditorActor: Deleted 1 Actors (0.300 secs)
+[2020.03.30-16.46.12:800][958]Cmd: DELETE
+[2020.03.30-16.46.12:800][958]Cmd: ACTOR DELETE
+[2020.03.30-16.46.12:828][958]LogEditorActor: Deleted Actor: Brush
+[2020.03.30-16.46.12:855][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.03.30-16.46.13:074][958]LogEditorActor: Deleted 1 Actors (0.274 secs)
+[2020.03.30-16.46.14:416][ 33]Cmd: DELETE
+[2020.03.30-16.46.14:416][ 33]Cmd: ACTOR DELETE
+[2020.03.30-16.46.14:442][ 33]LogEditorActor: Deleted Actor: Brush
+[2020.03.30-16.46.14:468][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.03.30-16.46.14:687][ 33]LogEditorActor: Deleted 1 Actors (0.271 secs)
+[2020.03.30-16.46.17:339][188]Cmd: DELETE
+[2020.03.30-16.46.17:339][188]Cmd: ACTOR DELETE
+[2020.03.30-16.46.17:365][188]LogEditorActor: Deleted Actor: Brush
+[2020.03.30-16.46.17:390][188]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.03.30-16.46.17:605][188]LogEditorActor: Deleted 1 Actors (0.265 secs)
+[2020.03.30-16.46.18:631][245]Cmd: DELETE
+[2020.03.30-16.46.18:631][245]Cmd: ACTOR DELETE
+[2020.03.30-16.46.18:658][245]LogEditorActor: Deleted Actor: Brush
+[2020.03.30-16.46.18:685][245]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.03.30-16.46.18:898][245]LogEditorActor: Deleted 1 Actors (0.267 secs)
+[2020.03.30-16.46.19:649][285]Cmd: DELETE
+[2020.03.30-16.46.19:649][285]Cmd: ACTOR DELETE
+[2020.03.30-16.46.19:674][285]LogEditorActor: Deleted Actor: Brush
+[2020.03.30-16.46.19:700][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2020.03.30-16.46.19:917][285]LogEditorActor: Deleted 1 Actors (0.269 secs)
+[2020.03.30-16.46.20:205][297]Cmd: DELETE
+[2020.03.30-16.46.20:205][297]Cmd: ACTOR DELETE
+[2020.03.30-16.46.20:230][297]LogEditorActor: Deleted Actor: Brush
+[2020.03.30-16.46.20:257][297]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.03.30-16.46.20:464][297]LogEditorActor: Deleted 1 Actors (0.259 secs)
+[2020.03.30-16.46.20:765][310]Cmd: DELETE
+[2020.03.30-16.46.20:765][310]Cmd: ACTOR DELETE
+[2020.03.30-16.46.20:790][310]LogEditorActor: Deleted Actor: Brush
+[2020.03.30-16.46.20:817][310]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2020.03.30-16.46.21:015][310]LogEditorActor: Deleted 1 Actors (0.249 secs)
+[2020.03.30-16.46.57:564][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.03.30-16.46.58:646][ 83]LogSavePackage: Moving '../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/MasterLevel_Auto392DC60E94F38DB6D5A222BA496AFFDDD.tmp' to '../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/Autosaves/Game/Levels/MasterLevel_Auto3.umap'
+[2020.03.30-16.46.58:681][ 83]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MasterLevel' took 1.140
+[2020.03.30-16.46.58:681][ 83]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.140
+[2020.03.30-16.47.07:771][437]LogEditorViewport: Clicking on Actor (LMB): winner_C (winner)
+[2020.03.30-16.47.17:236][990]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.30-16.47.19:981][155]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.30-16.47.25:649][495]LogEditorViewport: Clicking on Actor (LMB): MatineeActor (grenadeDoor2)
+[2020.03.30-16.47.30:683][787]LogEditorViewport: Clicking on Actor (CTRL LMB): winner_C (winner)
+[2020.03.30-16.47.45:616][680]Cmd: DELETE
+[2020.03.30-16.47.45:616][680]Cmd: ACTOR DELETE
+[2020.03.30-16.47.45:641][680]LogEditorActor: Deleted Actor: Brush
+[2020.03.30-16.47.45:669][680]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.03.30-16.47.45:854][680]LogEditorActor: Deleted 1 Actors (0.239 secs)
+[2020.03.30-16.48.12:298][ 75]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2020.03.30-16.48.16:720][325]Cmd: TRANSACTION UNDO
+[2020.03.30-16.48.16:720][325]LogEditorTransaction: Undo Marquee Select
+[2020.03.30-16.48.59:560][885]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2020.03.30-16.49.15:116][812]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2020.03.30-16.49.17:382][945]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.30-16.49.20:461][128]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2020.03.30-16.49.21:677][199]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.30-16.49.24:893][392]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2020.03.30-16.49.26:259][471]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.30-16.49.29:292][653]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2020.03.30-16.49.30:408][718]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.30-16.49.41:012][350]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.03.30-16.49.41:112][350]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.30-16.49.41:126][350]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MasterLevel" FILE="../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Content/Levels/MasterLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.30-16.49.41:151][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.03.30-16.49.42:267][350]LogSavePackage: Moving '../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/MasterLevelA537629F447F8CE1FE1DEB999F5ADFEB.tmp' to '../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Content/Levels/MasterLevel.umap'
+[2020.03.30-16.49.42:320][350]LogFileHelpers: Saving map 'MasterLevel' took 1.196
+[2020.03.30-16.49.55:786][157]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.30-16.50.17:380][452]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume2)
+[2020.03.30-16.50.38:295][671]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 2
+[2020.03.30-16.50.40:948][830]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.30-16.51.46:899][711]Cmd: DELETE
+[2020.03.30-16.51.46:899][711]Cmd: ACTOR DELETE
+[2020.03.30-16.51.46:929][711]LogEditorActor: Deleted Actor: Brush
+[2020.03.30-16.51.46:965][711]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.03.30-16.51.47:179][711]LogEditorActor: Deleted 1 Actors (0.279 secs)
+[2020.03.30-16.51.49:928][872]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.30-16.51.54:570][149]Cmd: DELETE
+[2020.03.30-16.51.54:570][149]Cmd: ACTOR DELETE
+[2020.03.30-16.51.54:594][149]LogEditorActor: Deleted Actor: Brush
+[2020.03.30-16.51.54:617][149]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2020.03.30-16.51.54:817][149]LogEditorActor: Deleted 1 Actors (0.246 secs)
+[2020.03.30-16.51.57:624][311]Cmd: DELETE
+[2020.03.30-16.51.57:624][311]Cmd: ACTOR DELETE
+[2020.03.30-16.51.57:648][311]LogEditorActor: Deleted Actor: Brush
+[2020.03.30-16.51.57:672][311]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2020.03.30-16.51.57:869][311]LogEditorActor: Deleted 1 Actors (0.245 secs)
+[2020.03.30-16.52.03:942][671]Cmd: DELETE
+[2020.03.30-16.52.03:942][671]Cmd: ACTOR DELETE
+[2020.03.30-16.52.03:968][671]LogEditorActor: Deleted Actor: Brush
+[2020.03.30-16.52.03:992][671]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2020.03.30-16.52.04:472][671]LogEditorActor: Deleted 1 Actors (0.529 secs)
+[2020.03.30-16.52.11:184][ 67]Cmd: DELETE
+[2020.03.30-16.52.11:184][ 67]Cmd: ACTOR DELETE
+[2020.03.30-16.52.11:234][ 67]LogEditorActor: Deleted Actor: Brush
+[2020.03.30-16.52.11:260][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.03.30-16.52.11:677][ 67]LogEditorActor: Deleted 1 Actors (0.493 secs)
+[2020.03.30-16.52.13:399][162]Cmd: DELETE
+[2020.03.30-16.52.13:399][162]Cmd: ACTOR DELETE
+[2020.03.30-16.52.13:449][162]LogEditorActor: Deleted Actor: Brush
+[2020.03.30-16.52.13:477][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2020.03.30-16.52.13:895][162]LogEditorActor: Deleted 1 Actors (0.495 secs)
+[2020.03.30-16.52.19:925][516]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.30-16.52.22:065][643]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.30-16.52.25:967][877]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.30-16.52.29:801][107]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.30-16.52.31:269][195]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.30-16.52.32:454][266]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.30-16.52.34:071][363]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.30-16.52.35:454][446]Cmd: DELETE
+[2020.03.30-16.52.35:454][446]Cmd: ACTOR DELETE
+[2020.03.30-16.52.35:501][446]LogEditorActor: Deleted Actor: Brush
+[2020.03.30-16.52.35:530][446]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.03.30-16.52.35:952][446]LogEditorActor: Deleted 1 Actors (0.498 secs)
+[2020.03.30-16.54.51:132][333]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.30-16.56.28:718][481]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.30-16.57.00:528][192]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.30-16.57.17:718][726]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.30-16.57.17:747][726]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MasterLevel" FILE="../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Content/Levels/MasterLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.30-16.57.17:781][726]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2020.03.30-16.57.18:932][726]LogSavePackage: Moving '../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/MasterLevel6B26766F46462F9BA42BEA8107FFF250.tmp' to '../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Content/Levels/MasterLevel.umap'
+[2020.03.30-16.57.18:964][726]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MasterLevel_BuiltData" FILE="../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Content/Levels/MasterLevel_BuiltData.uasset" SILENT=true
+[2020.03.30-16.57.19:609][726]LogSavePackage: Moving '../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/MasterLevel_BuiltDataB6B13D6E4BED6C541D4519AF51BE83B7.tmp' to '../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Content/Levels/MasterLevel_BuiltData.uasset'
+[2020.03.30-16.57.22:407][891]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.30-16.57.24:599][ 22]MapCheck: New page: Map Check
+[2020.03.30-16.57.24:608][ 22]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.30-16.57.24:622][ 22]Cmd: MAP REBUILD ALLVISIBLE
+[2020.03.30-16.57.24:622][ 22]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.03.30-16.57.42:103][ 22]LightingResults: New page: Lighting Build - Mar 30, 2020, 8:57:42 AM
+[2020.03.30-16.57.42:325][ 22]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.03.30-16.57.42:573][ 22]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.03.30-16.57.42:589][ 22]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.03.30-16.57.43:622][ 22]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.03.30-16.57.43:622][ 22]LogSwarmInterface: [TryOpenConnection] Local Process ID is 22320
+[2020.03.30-16.57.45:959][ 22]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.03.30-16.57.45:959][ 22]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.03.30-16.57.45:959][ 22]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.03.30-16.57.45:959][ 22]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.03.30-16.57.45:959][ 22]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.03.30-16.57.46:412][ 22]LogEditorBuildUtils: Build time 0:21
+[2020.03.30-16.57.46:473][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2020.03.30-16.58.01:468][ 67]Job is a success!
+[2020.03.30-16.58.02:072][ 68]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.164s
+[2020.03.30-16.58.02:072][ 68]LogVolumetricLightmapImport:      Indirection Texture 48x48x48 = 0.4Mb
+[2020.03.30-16.58.02:072][ 68]LogVolumetricLightmapImport:      BrickData 1280x35x5 = 8.8Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2020.03.30-16.58.02:072][ 68]LogVolumetricLightmapImport:      Bricks at Level
+[2020.03.30-16.58.02:072][ 68]LogVolumetricLightmapImport:          0: 1.7% covering 100.0% of volume
+[2020.03.30-16.58.02:072][ 68]LogVolumetricLightmapImport:          1: 4.2% covering 3.8% of volume
+[2020.03.30-16.58.02:072][ 68]LogVolumetricLightmapImport:          2: 94.1% covering 1.3% of volume
+[2020.03.30-16.58.04:720][ 68]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 2048X1024)
+[2020.03.30-16.58.04:720][ 68]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 2048X2048)
+[2020.03.30-16.58.04:720][ 68]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 2048X2048)
+[2020.03.30-16.58.04:720][ 68]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 1024X512)
+[2020.03.30-16.58.04:720][ 68]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2020.03.30-16.58.04:720][ 68]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2020.03.30-16.58.04:720][ 68]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 1024X512)
+[2020.03.30-16.58.04:720][ 68]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2020.03.30-16.58.04:720][ 68]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2020.03.30-16.58.04:720][ 68]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 1024X512)
+[2020.03.30-16.58.04:720][ 68]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 1024X1024)
+[2020.03.30-16.58.04:720][ 68]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 1024X1024)
+[2020.03.30-16.58.04:720][ 68]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 1024X512)
+[2020.03.30-16.58.04:720][ 68]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 1024X1024)
+[2020.03.30-16.58.04:720][ 68]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 1024X1024)
+[2020.03.30-16.58.04:720][ 68]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 2048X1024)
+[2020.03.30-16.58.04:720][ 68]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 2048X2048)
+[2020.03.30-16.58.04:720][ 68]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 2048X2048)
+[2020.03.30-16.58.04:720][ 68]LogTexture: Display: Building textures: SkyOcclusion0_7 (AutoDXT, 256X128)
+[2020.03.30-16.58.04:720][ 68]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 256X256)
+[2020.03.30-16.58.04:720][ 68]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 256X256)
+[2020.03.30-16.58.04:921][ 68]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 8X1024)
+[2020.03.30-16.58.04:921][ 68]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 512X64)
+[2020.03.30-16.58.04:921][ 68]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 512X512)
+[2020.03.30-16.58.05:003][ 68]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (BGRA8, 1024X1024)
+[2020.03.30-16.58.05:003][ 68]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 1024X1024)
+[2020.03.30-16.58.05:004][ 68]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (BGRA8, 1024X1024)
+[2020.03.30-16.58.05:004][ 68]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 1024X1024)
+[2020.03.30-16.58.05:060][ 68]Lightmass on DESKTOP-MJT05JV: 17.8 sec total, 211 ms importing, 34 ms setup, 2.59 sec photons, 14.9 sec processing, 0 ms extra exporting [1005/1005 mappings]. Threads: 2:43 min total, 1:14 min processing.
+[2020.03.30-16.58.05:075][ 68]LogStaticLightingSystem: MasterLevel_BuiltData storing lightmap data for 1077 meshes in 10 LightmapResourceClusters (107.7 Meshes per cluster).
+[2020.03.30-16.58.05:216][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.03.30-16.58.05:678][ 68]LogStaticLightingSystem: Illumination: 23.3 sec (1.53 sec encoding lightmaps, 282 ms encoding shadowmaps)
+[2020.03.30-16.58.05:678][ 68]LogStaticLightingSystem: Lightmap texture memory:  32.2 MB (0.2 MB streaming, 32.0 MB non-streaming), 14 textures
+[2020.03.30-16.58.05:678][ 68]LogStaticLightingSystem: Shadowmap texture memory: 13.7 MB (0.0 MB streaming, 13.7 MB non-streaming), 7 textures
+[2020.03.30-16.58.10:977][ 68]DumpUnbuiltLightIteractions
+[2020.03.30-16.58.10:977][ 68]Lights with unbuilt interactions: 0
+[2020.03.30-16.58.10:977][ 68]
+[2020.03.30-16.58.10:977][ 68]Primitives with unbuilt interactions: 0
+[2020.03.30-16.58.11:100][ 69]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.03.30-16.58.11:101][ 69]MapCheck: New page: MasterLevel - Mar 30, 2020, 8:58:11 AM
+[2020.03.30-16.58.11:200][ 69]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 100.21ms to complete.
+[2020.03.30-16.58.32:027][131]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (45.586 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.03.30-17.00.56:153][  5]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.30-17.00.59:216][189]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume2)
+[2020.03.30-17.01.01:422][319]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.30-17.01.07:689][695]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2020.03.30-17.01.09:745][817]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume2)
+[2020.03.30-17.01.13:073][ 15]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.30-17.01.19:913][425]LogEditorViewport: Clicking on Actor (CTRL LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2020.03.30-17.01.51:039][288]LogEditorViewport: Clicking on Actor (LMB): BP_Switch_C (BP_Switch3)
+[2020.03.30-17.02.01:081][889]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.30-17.02.10:132][432]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.30-17.02.16:286][801]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.30-17.02.19:237][978]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.30-17.02.21:408][108]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.30-17.02.25:699][362]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.30-17.02.26:892][434]LogEditorViewport: Clicking Background
+[2020.03.30-17.02.28:235][513]LogEditorViewport: Clicking Background
+[2020.03.30-17.02.28:718][542]LogEditorViewport: Clicking on Actor (LMB): BP_Switch_C (BP_Switch3)
+[2020.03.30-17.02.34:220][871]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.30-17.02.36:143][986]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.30-17.02.41:064][280]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.30-17.02.46:023][577]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.30-17.02.47:663][675]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.30-17.02.51:015][876]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.30-17.03.03:176][606]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.30-17.03.04:976][714]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.30-17.03.06:959][833]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.30-17.03.44:088][ 60]LogEditorViewport: Clicking on Actor (LMB): BPminiBoss_C (BPminiBoss)
+[2020.03.30-17.03.59:327][943]Cmd: TRANSACTION UNDO
+[2020.03.30-17.03.59:327][943]LogEditorTransaction: Undo Move Actors
+[2020.03.30-17.04.05:654][317]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2020.03.30-17.04.07:183][407]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.03.30-17.04.07:705][438]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.30-17.04.11:078][640]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.30-17.04.14:343][836]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.30-17.04.23:023][355]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.03.30-17.04.23:219][366]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.30-17.04.33:886][  6]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.03.30-17.04.36:113][139]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.03.30-17.04.44:557][642]Cmd: TRANSACTION UNDO
+[2020.03.30-17.04.44:557][642]LogEditorTransaction: Undo Select Brush Surface
+[2020.03.30-17.04.52:208][ 71]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.30-17.04.53:445][132]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22747' invalid (61832 verts, 0 indices).
+[2020.03.30-17.04.53:445][132]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22747.BodySetup_0 when we are unable to.
+[2020.03.30-17.04.53:478][132]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22774' invalid (61832 verts, 0 indices).
+[2020.03.30-17.04.53:478][132]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22774.BodySetup_0 when we are unable to.
+[2020.03.30-17.04.53:478][132]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22775' invalid (61832 verts, 0 indices).
+[2020.03.30-17.04.53:478][132]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22775.BodySetup_0 when we are unable to.
+[2020.03.30-17.04.53:479][132]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22776' invalid (61832 verts, 0 indices).
+[2020.03.30-17.04.53:479][132]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22776.BodySetup_0 when we are unable to.
+[2020.03.30-17.04.53:479][132]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22777' invalid (61832 verts, 0 indices).
+[2020.03.30-17.04.53:480][132]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22777.BodySetup_0 when we are unable to.
+[2020.03.30-17.04.53:480][132]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22778' invalid (61832 verts, 0 indices).
+[2020.03.30-17.04.53:480][132]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22778.BodySetup_0 when we are unable to.
+[2020.03.30-17.04.53:533][132]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22815' invalid (61832 verts, 0 indices).
+[2020.03.30-17.04.53:534][132]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22815.BodySetup_0 when we are unable to.
+[2020.03.30-17.04.53:534][132]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22816' invalid (61832 verts, 0 indices).
+[2020.03.30-17.04.53:534][132]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22816.BodySetup_0 when we are unable to.
+[2020.03.30-17.04.53:535][132]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22817' invalid (61832 verts, 0 indices).
+[2020.03.30-17.04.53:535][132]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22817.BodySetup_0 when we are unable to.
+[2020.03.30-17.04.53:538][132]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22820' invalid (61832 verts, 0 indices).
+[2020.03.30-17.04.53:538][132]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22820.BodySetup_0 when we are unable to.
+[2020.03.30-17.04.53:538][132]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22821' invalid (61832 verts, 0 indices).
+[2020.03.30-17.04.53:538][132]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22821.BodySetup_0 when we are unable to.
+[2020.03.30-17.04.53:539][132]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22822' invalid (61832 verts, 0 indices).
+[2020.03.30-17.04.53:539][132]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22822.BodySetup_0 when we are unable to.
+[2020.03.30-17.04.53:542][132]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22825' invalid (61832 verts, 0 indices).
+[2020.03.30-17.04.53:542][132]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22825.BodySetup_0 when we are unable to.
+[2020.03.30-17.04.53:556][132]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22834' invalid (61832 verts, 0 indices).
+[2020.03.30-17.04.53:556][132]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22834.BodySetup_0 when we are unable to.
+[2020.03.30-17.04.53:561][132]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22839' invalid (61832 verts, 0 indices).
+[2020.03.30-17.04.53:561][132]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22839.BodySetup_0 when we are unable to.
+[2020.03.30-17.04.53:562][132]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22840' invalid (61832 verts, 0 indices).
+[2020.03.30-17.04.53:562][132]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22840.BodySetup_0 when we are unable to.
+[2020.03.30-17.04.53:562][132]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22841' invalid (61832 verts, 0 indices).
+[2020.03.30-17.04.53:562][132]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22841.BodySetup_0 when we are unable to.
+[2020.03.30-17.04.53:589][132]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22858' invalid (61832 verts, 0 indices).
+[2020.03.30-17.04.53:589][132]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22858.BodySetup_0 when we are unable to.
+[2020.03.30-17.04.53:590][132]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22859' invalid (61832 verts, 0 indices).
+[2020.03.30-17.04.53:590][132]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22859.BodySetup_0 when we are unable to.
+[2020.03.30-17.04.53:591][132]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22860' invalid (61832 verts, 0 indices).
+[2020.03.30-17.04.53:591][132]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22860.BodySetup_0 when we are unable to.
+[2020.03.30-17.04.53:592][132]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22861' invalid (61832 verts, 0 indices).
+[2020.03.30-17.04.53:592][132]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22861.BodySetup_0 when we are unable to.
+[2020.03.30-17.04.53:593][132]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22862' invalid (61832 verts, 0 indices).
+[2020.03.30-17.04.53:593][132]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22862.BodySetup_0 when we are unable to.
+[2020.03.30-17.04.53:593][132]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22863' invalid (61832 verts, 0 indices).
+[2020.03.30-17.04.53:593][132]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22863.BodySetup_0 when we are unable to.
+[2020.03.30-17.04.53:594][132]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22864' invalid (61832 verts, 0 indices).
+[2020.03.30-17.04.53:594][132]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22864.BodySetup_0 when we are unable to.
+[2020.03.30-17.04.53:594][132]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22865' invalid (61832 verts, 0 indices).
+[2020.03.30-17.04.53:594][132]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22865.BodySetup_0 when we are unable to.
+[2020.03.30-17.04.53:595][132]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22866' invalid (61832 verts, 0 indices).
+[2020.03.30-17.04.53:595][132]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22866.BodySetup_0 when we are unable to.
+[2020.03.30-17.04.53:595][132]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22867' invalid (61832 verts, 0 indices).
+[2020.03.30-17.04.53:595][132]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22867.BodySetup_0 when we are unable to.
+[2020.03.30-17.04.53:605][132]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22874' invalid (61832 verts, 0 indices).
+[2020.03.30-17.04.53:605][132]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22874.BodySetup_0 when we are unable to.
+[2020.03.30-17.04.53:605][132]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22875' invalid (61832 verts, 0 indices).
+[2020.03.30-17.04.53:606][132]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22875.BodySetup_0 when we are unable to.
+[2020.03.30-17.04.53:617][132]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22884' invalid (61832 verts, 0 indices).
+[2020.03.30-17.04.53:617][132]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22884.BodySetup_0 when we are unable to.
+[2020.03.30-17.04.53:617][132]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22885' invalid (61832 verts, 0 indices).
+[2020.03.30-17.04.53:617][132]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22885.BodySetup_0 when we are unable to.
+[2020.03.30-17.04.53:622][132]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22890' invalid (61832 verts, 0 indices).
+[2020.03.30-17.04.53:623][132]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22890.BodySetup_0 when we are unable to.
+[2020.03.30-17.04.53:623][132]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22891' invalid (61832 verts, 0 indices).
+[2020.03.30-17.04.53:623][132]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22891.BodySetup_0 when we are unable to.
+[2020.03.30-17.04.53:656][132]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22914' invalid (61832 verts, 0 indices).
+[2020.03.30-17.04.53:656][132]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22914.BodySetup_0 when we are unable to.
+[2020.03.30-17.04.53:657][132]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22915' invalid (61832 verts, 0 indices).
+[2020.03.30-17.04.53:657][132]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22915.BodySetup_0 when we are unable to.
+[2020.03.30-17.04.53:659][132]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22917' invalid (61832 verts, 0 indices).
+[2020.03.30-17.04.53:659][132]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22917.BodySetup_0 when we are unable to.
+[2020.03.30-17.04.53:659][132]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22918' invalid (61832 verts, 0 indices).
+[2020.03.30-17.04.53:659][132]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22918.BodySetup_0 when we are unable to.
+[2020.03.30-17.04.53:661][132]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22920' invalid (61832 verts, 0 indices).
+[2020.03.30-17.04.53:661][132]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22920.BodySetup_0 when we are unable to.
+[2020.03.30-17.04.53:701][132]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22949' invalid (61832 verts, 0 indices).
+[2020.03.30-17.04.53:702][132]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_22949.BodySetup_0 when we are unable to.
+[2020.03.30-17.05.07:736][973]LogEditorViewport: Clicking on Actor (LMB): BP_GrenadeBox_C (BP_GrenadeBox15)
+[2020.03.30-17.05.08:651][ 26]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.30-17.05.10:844][158]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.30-17.05.54:051][750]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.30-17.06.03:950][314]LogEditorViewport: Clicking on Actor (LMB): BP_GrenadeBox_C (BP_GrenadeBox11)
+[2020.03.30-17.06.05:796][422]LogSlate: Took 0.031500 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.03.30-17.06.08:402][579]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.30-17.06.30:139][882]LogEditorViewport: Clicking on Actor (LMB): BP_GrenadeBox_C (BP_GrenadeBox15)
+[2020.03.30-17.06.30:726][916]LogEditorViewport: Clicking on Actor (LMB): BP_GrenadeBox_C (BP_GrenadeBox12)
+[2020.03.30-17.06.32:792][ 39]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.30-17.06.54:696][226]LogEditorViewport: Clicking on Actor (LMB): BP_GrenadeBox_C (BP_GrenadeBox15)
+[2020.03.30-17.06.58:505][454]LogEditorViewport: Clicking on Actor (LMB): BP_GrenadeBox_C (BP_GrenadeBox14)
+[2020.03.30-17.06.58:898][477]LogEditorViewport: Clicking on Actor (LMB): BP_GrenadeBox_C (BP_GrenadeBox13)
+[2020.03.30-17.07.01:060][606]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.30-17.07.13:539][354]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.30-17.07.13:552][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MasterLevel" FILE="../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Content/Levels/MasterLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.30-17.07.13:584][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2020.03.30-17.07.14:692][354]LogSavePackage: Moving '../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/MasterLevel075AC9564506CE49F6C261AD22B44C16.tmp' to '../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Content/Levels/MasterLevel.umap'
+[2020.03.30-17.07.14:716][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MasterLevel_BuiltData" FILE="../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Content/Levels/MasterLevel_BuiltData.uasset" SILENT=true
+[2020.03.30-17.07.15:294][354]LogSavePackage: Moving '../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/MasterLevel_BuiltData958457DD41634E8DC852538ECF887200.tmp' to '../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Content/Levels/MasterLevel_BuiltData.uasset'
+[2020.03.30-17.07.16:169][405]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.30-17.07.16:294][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2020.03.30-17.07.16:329][411]LogSlate: Window 'Group5_PB - Unreal Editor' being destroyed
+[2020.03.30-17.07.16:529][412]Cmd: QUIT_EDITOR
+[2020.03.30-17.07.16:557][412]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.03.30-17.07.16:571][412]LogExit: Preparing to exit.
+[2020.03.30-17.07.16:827][412]LogExit: Editor shut down
+[2020.03.30-17.07.16:827][412]LogExit: Transaction tracking system shut down
+[2020.03.30-17.07.17:055][412]LogExit: Object subsystem successfully closed.
+[2020.03.30-17.07.17:079][412]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.03.30-17.07.17:084][412]LogD3D11RHI: Shutdown
+[2020.03.30-17.07.17:084][412]LogD3D11RHI: CleanupD3DDevice
+[2020.03.30-17.07.17:085][412]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.03.30-17.07.17:085][412]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.03.30-17.07.17:085][412]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.03.30-17.07.17:085][412]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.03.30-17.07.17:085][412]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.03.30-17.07.17:085][412]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.03.30-17.07.17:191][412]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.03.30-17.07.17:203][412]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (646)
+[2020.03.30-17.07.17:203][412]LogModuleManager: Shutting down and abandoning module SceneOutliner (644)
+[2020.03.30-17.07.17:203][412]LogModuleManager: Shutting down and abandoning module AddContentDialog (642)
+[2020.03.30-17.07.17:204][412]LogModuleManager: Shutting down and abandoning module WidgetCarousel (641)
+[2020.03.30-17.07.17:204][412]LogModuleManager: Shutting down and abandoning module EditorWidgets (638)
+[2020.03.30-17.07.17:204][412]LogModuleManager: Shutting down and abandoning module CollectionManager (636)
+[2020.03.30-17.07.17:204][412]LogModuleManager: Shutting down and abandoning module StatsViewer (634)
+[2020.03.30-17.07.17:204][412]LogModuleManager: Shutting down and abandoning module FoliageEdit (632)
+[2020.03.30-17.07.17:204][412]LogModuleManager: Shutting down and abandoning module LandscapeEditor (630)
+[2020.03.30-17.07.17:204][412]LogModuleManager: Shutting down and abandoning module MeshPaintMode (628)
+[2020.03.30-17.07.17:204][412]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (626)
+[2020.03.30-17.07.17:204][412]LogModuleManager: Shutting down and abandoning module ActorPickerMode (624)
+[2020.03.30-17.07.17:204][412]LogModuleManager: Shutting down and abandoning module GeometryMode (622)
+[2020.03.30-17.07.17:204][412]LogModuleManager: Shutting down and abandoning module TextureAlignMode (620)
+[2020.03.30-17.07.17:205][412]LogModuleManager: Shutting down and abandoning module BspMode (618)
+[2020.03.30-17.07.17:205][412]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (616)
+[2020.03.30-17.07.17:205][412]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (614)
+[2020.03.30-17.07.17:205][412]LogModuleManager: Shutting down and abandoning module AutomationWorker (612)
+[2020.03.30-17.07.17:205][412]LogModuleManager: Shutting down and abandoning module OculusMR (610)
+[2020.03.30-17.07.17:205][412]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (608)
+[2020.03.30-17.07.17:205][412]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (606)
+[2020.03.30-17.07.17:205][412]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (604)
+[2020.03.30-17.07.17:205][412]LogModuleManager: Shutting down and abandoning module PlacementMode (603)
+[2020.03.30-17.07.17:205][412]LogModuleManager: Shutting down and abandoning module MaterialEditor (602)
+[2020.03.30-17.07.17:205][412]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (598)
+[2020.03.30-17.07.17:205][412]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (596)
+[2020.03.30-17.07.17:205][412]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (594)
+[2020.03.30-17.07.17:205][412]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (592)
+[2020.03.30-17.07.17:205][412]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (590)
+[2020.03.30-17.07.17:205][412]LogModuleManager: Shutting down and abandoning module WebMMedia (588)
+[2020.03.30-17.07.17:205][412]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (586)
+[2020.03.30-17.07.17:205][412]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (584)
+[2020.03.30-17.07.17:205][412]LogModuleManager: Shutting down and abandoning module SequenceRecorder (583)
+[2020.03.30-17.07.17:205][412]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (580)
+[2020.03.30-17.07.17:205][412]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (578)
+[2020.03.30-17.07.17:205][412]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (576)
+[2020.03.30-17.07.17:205][412]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (574)
+[2020.03.30-17.07.17:205][412]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (572)
+[2020.03.30-17.07.17:205][412]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (570)
+[2020.03.30-17.07.17:205][412]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (568)
+[2020.03.30-17.07.17:205][412]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (566)
+[2020.03.30-17.07.17:205][412]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (564)
+[2020.03.30-17.07.17:205][412]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (562)
+[2020.03.30-17.07.17:205][412]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (560)
+[2020.03.30-17.07.17:205][412]LogModuleManager: Shutting down and abandoning module CharacterAI (558)
+[2020.03.30-17.07.17:205][412]LogModuleManager: Shutting down and abandoning module SmartSnapping (556)
+[2020.03.30-17.07.17:205][412]LogModuleManager: Shutting down and abandoning module SessionServices (554)
+[2020.03.30-17.07.17:205][412]LogModuleManager: Shutting down and abandoning module MeshPaint (552)
+[2020.03.30-17.07.17:205][412]LogModuleManager: Shutting down and abandoning module ViewportSnapping (550)
+[2020.03.30-17.07.17:206][412]LogModuleManager: Shutting down and abandoning module ViewportInteraction (548)
+[2020.03.30-17.07.17:206][412]LogModuleManager: Shutting down and abandoning module ClothPainter (546)
+[2020.03.30-17.07.17:206][412]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (545)
+[2020.03.30-17.07.17:206][412]LogModuleManager: Shutting down and abandoning module LogVisualizer (542)
+[2020.03.30-17.07.17:206][412]LogModuleManager: Shutting down and abandoning module IntroTutorials (540)
+[2020.03.30-17.07.17:206][412]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (539)
+[2020.03.30-17.07.17:206][412]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (536)
+[2020.03.30-17.07.17:206][412]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (534)
+[2020.03.30-17.07.17:206][412]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (532)
+[2020.03.30-17.07.17:206][412]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (530)
+[2020.03.30-17.07.17:206][412]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (529)
+[2020.03.30-17.07.18:039][412]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (526)
+[2020.03.30-17.07.18:039][412]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (524)
+[2020.03.30-17.07.18:039][412]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (522)
+[2020.03.30-17.07.18:039][412]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (520)
+[2020.03.30-17.07.18:039][412]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (518)
+[2020.03.30-17.07.18:039][412]LogModuleManager: Shutting down and abandoning module InputBindingEditor (516)
+[2020.03.30-17.07.18:039][412]LogModuleManager: Shutting down and abandoning module MergeActors (514)
+[2020.03.30-17.07.18:039][412]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (512)
+[2020.03.30-17.07.18:039][412]LogModuleManager: Shutting down and abandoning module LocalizationService (511)
+[2020.03.30-17.07.18:039][412]LogModuleManager: Shutting down and abandoning module HardwareTargeting (508)
+[2020.03.30-17.07.18:039][412]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (506)
+[2020.03.30-17.07.18:039][412]LogModuleManager: Shutting down and abandoning module UndoHistory (504)
+[2020.03.30-17.07.18:039][412]LogModuleManager: Shutting down and abandoning module XmlParser (502)
+[2020.03.30-17.07.18:039][412]LogModuleManager: Shutting down and abandoning module Blutility (500)
+[2020.03.30-17.07.18:039][412]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (498)
+[2020.03.30-17.07.18:039][412]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (497)
+[2020.03.30-17.07.18:039][412]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (494)
+[2020.03.30-17.07.18:039][412]LogModuleManager: Shutting down and abandoning module SettingsEditor (492)
+[2020.03.30-17.07.18:039][412]LogModuleManager: Shutting down and abandoning module ProjectLauncher (490)
+[2020.03.30-17.07.18:039][412]LogModuleManager: Shutting down and abandoning module SessionFrontend (488)
+[2020.03.30-17.07.18:039][412]LogModuleManager: Shutting down and abandoning module ProfilerClient (486)
+[2020.03.30-17.07.18:039][412]LogModuleManager: Shutting down and abandoning module DeviceManager (484)
+[2020.03.30-17.07.18:039][412]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (483)
+[2020.03.30-17.07.18:083][412]LogModuleManager: Shutting down and abandoning module AutomationController (480)
+[2020.03.30-17.07.18:083][412]LogModuleManager: Shutting down and abandoning module AutomationWindow (478)
+[2020.03.30-17.07.18:083][412]LogModuleManager: Shutting down and abandoning module Layers (476)
+[2020.03.30-17.07.18:083][412]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (474)
+[2020.03.30-17.07.18:083][412]LogModuleManager: Shutting down and abandoning module DetailCustomizations (472)
+[2020.03.30-17.07.18:083][412]LogModuleManager: Shutting down and abandoning module PackagesDialog (470)
+[2020.03.30-17.07.18:084][412]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (468)
+[2020.03.30-17.07.18:084][412]LogModuleManager: Shutting down and abandoning module Persona (466)
+[2020.03.30-17.07.18:084][412]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (465)
+[2020.03.30-17.07.18:084][412]LogModuleManager: Shutting down and abandoning module AnimGraph (463)
+[2020.03.30-17.07.18:084][412]LogModuleManager: Shutting down and abandoning module Kismet (460)
+[2020.03.30-17.07.18:086][412]LogModuleManager: Shutting down and abandoning module GraphEditor (458)
+[2020.03.30-17.07.18:086][412]LogModuleManager: Shutting down and abandoning module ClassViewer (456)
+[2020.03.30-17.07.18:086][412]LogModuleManager: Shutting down and abandoning module Toolbox (454)
+[2020.03.30-17.07.18:087][412]LogModuleManager: Shutting down and abandoning module ModuleUI (452)
+[2020.03.30-17.07.18:087][412]LogModuleManager: Shutting down and abandoning module MovieSceneTools (450)
+[2020.03.30-17.07.18:087][412]LogModuleManager: Shutting down and abandoning module OutputLog (448)
+[2020.03.30-17.07.18:087][412]LogModuleManager: Shutting down and abandoning module GammaUI (446)
+[2020.03.30-17.07.18:087][412]LogModuleManager: Shutting down and abandoning module Documentation (444)
+[2020.03.30-17.07.18:087][412]LogModuleManager: Shutting down and abandoning module LiveCoding (442)
+[2020.03.30-17.07.18:087][412]LogModuleManager: Shutting down and abandoning module LevelSequence (440)
+[2020.03.30-17.07.18:087][412]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (438)
+[2020.03.30-17.07.18:087][412]LogModuleManager: Shutting down and abandoning module MovieScene (436)
+[2020.03.30-17.07.18:088][412]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (434)
+[2020.03.30-17.07.18:088][412]LogModuleManager: Shutting down and abandoning module LauncherPlatform (432)
+[2020.03.30-17.07.18:088][412]LogModuleManager: Shutting down and abandoning module AnalyticsET (430)
+[2020.03.30-17.07.18:088][412]LogModuleManager: Shutting down and abandoning module PortalServices (428)
+[2020.03.30-17.07.18:088][412]LogModuleManager: Shutting down and abandoning module PortalRpc (426)
+[2020.03.30-17.07.18:088][412]LogModuleManager: Shutting down and abandoning module MessagingRpc (424)
+[2020.03.30-17.07.18:088][412]LogModuleManager: Shutting down and abandoning module AIModule (422)
+[2020.03.30-17.07.18:088][412]LogModuleManager: Shutting down and abandoning module GameplayDebugger (421)
+[2020.03.30-17.07.18:088][412]LogModuleManager: Shutting down and abandoning module AITestSuite (419)
+[2020.03.30-17.07.18:088][412]LogModuleManager: Shutting down and abandoning module NavigationSystem (417)
+[2020.03.30-17.07.18:088][412]LogModuleManager: Shutting down and abandoning module DesktopPlatform (414)
+[2020.03.30-17.07.18:088][412]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (412)
+[2020.03.30-17.07.18:098][412]LogModuleManager: Shutting down and abandoning module ProfilerService (410)
+[2020.03.30-17.07.18:285][412]LogModuleManager: Shutting down and abandoning module TaskGraph (408)
+[2020.03.30-17.07.18:285][412]LogModuleManager: Shutting down and abandoning module SteamVRController (406)
+[2020.03.30-17.07.18:285][412]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (404)
+[2020.03.30-17.07.18:285][412]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (402)
+[2020.03.30-17.07.18:285][412]LogModuleManager: Shutting down and abandoning module OculusEditor (400)
+[2020.03.30-17.07.18:285][412]LogModuleManager: Shutting down and abandoning module OculusInput (398)
+[2020.03.30-17.07.18:285][412]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (396)
+[2020.03.30-17.07.18:285][412]LogModuleManager: Shutting down and abandoning module EditableMesh (394)
+[2020.03.30-17.07.18:285][412]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (392)
+[2020.03.30-17.07.18:285][412]LogModuleManager: Shutting down and abandoning module CableComponent (390)
+[2020.03.30-17.07.18:285][412]LogModuleManager: Shutting down and abandoning module AudioCapture (388)
+[2020.03.30-17.07.18:286][412]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (386)
+[2020.03.30-17.07.18:286][412]LogModuleManager: Shutting down and abandoning module AndroidPermission (384)
+[2020.03.30-17.07.18:286][412]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (382)
+[2020.03.30-17.07.18:286][412]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (380)
+[2020.03.30-17.07.18:286][412]LogModuleManager: Shutting down and abandoning module MediaCompositing (378)
+[2020.03.30-17.07.18:286][412]LogModuleManager: Shutting down and abandoning module LinearTimecode (376)
+[2020.03.30-17.07.18:286][412]LogModuleManager: Shutting down and abandoning module ImgMedia (374)
+[2020.03.30-17.07.18:286][412]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (372)
+[2020.03.30-17.07.18:286][412]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (370)
+[2020.03.30-17.07.18:286][412]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (368)
+[2020.03.30-17.07.18:286][412]LogModuleManager: Shutting down and abandoning module HTML5Networking (366)
+[2020.03.30-17.07.18:287][412]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (364)
+[2020.03.30-17.07.18:287][412]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (362)
+[2020.03.30-17.07.18:287][412]LogModuleManager: Shutting down and abandoning module BackChannel (360)
+[2020.03.30-17.07.18:287][412]LogModuleManager: Shutting down and abandoning module AppleVision (358)
+[2020.03.30-17.07.18:287][412]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (356)
+[2020.03.30-17.07.18:287][412]LogModuleManager: Shutting down and abandoning module AppleImageUtils (354)
+[2020.03.30-17.07.18:287][412]LogModuleManager: Shutting down and abandoning module AlembicImporter (352)
+[2020.03.30-17.07.18:287][412]LogModuleManager: Shutting down and abandoning module AlembicLibrary (351)
+[2020.03.30-17.07.18:287][412]LogModuleManager: Shutting down and abandoning module GeometryCache (350)
+[2020.03.30-17.07.18:287][412]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (349)
+[2020.03.30-17.07.18:287][412]LogModuleManager: Shutting down and abandoning module VariantManagerContent (344)
+[2020.03.30-17.07.18:287][412]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2020.03.30-17.07.18:287][412]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (340)
+[2020.03.30-17.07.18:287][412]LogModuleManager: Shutting down and abandoning module PluginBrowser (338)
+[2020.03.30-17.07.18:288][412]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (336)
+[2020.03.30-17.07.18:288][412]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (334)
+[2020.03.30-17.07.18:288][412]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (332)
+[2020.03.30-17.07.18:288][412]LogModuleManager: Shutting down and abandoning module CryptoKeys (330)
+[2020.03.30-17.07.18:288][412]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (328)
+[2020.03.30-17.07.18:288][412]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (326)
+[2020.03.30-17.07.18:288][412]LogModuleManager: Shutting down and abandoning module UObjectPlugin (324)
+[2020.03.30-17.07.18:288][412]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (322)
+[2020.03.30-17.07.18:288][412]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (320)
+[2020.03.30-17.07.18:288][412]LogModuleManager: Shutting down and abandoning module GitSourceControl (318)
+[2020.03.30-17.07.18:288][412]LogModuleManager: Shutting down and abandoning module SourceControl (317)
+[2020.03.30-17.07.18:289][412]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (314)
+[2020.03.30-17.07.18:289][412]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (312)
+[2020.03.30-17.07.18:289][412]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (310)
+[2020.03.30-17.07.18:289][412]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (308)
+[2020.03.30-17.07.18:289][412]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (306)
+[2020.03.30-17.07.18:289][412]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (304)
+[2020.03.30-17.07.18:289][412]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (302)
+[2020.03.30-17.07.18:289][412]LogModuleManager: Shutting down and abandoning module Paper2DEditor (300)
+[2020.03.30-17.07.18:289][412]LogModuleManager: Shutting down and abandoning module SignificanceManager (298)
+[2020.03.30-17.07.18:289][412]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (296)
+[2020.03.30-17.07.18:289][412]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (294)
+[2020.03.30-17.07.18:289][412]LogModuleManager: Shutting down and abandoning module PhysXVehicles (292)
+[2020.03.30-17.07.18:289][412]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2020.03.30-17.07.18:290][412]LogModuleManager: Shutting down and abandoning module ApexDestructionEditor (288)
+[2020.03.30-17.07.18:290][412]LogModuleManager: Shutting down and abandoning module ApexDestruction (286)
+[2020.03.30-17.07.18:290][412]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2020.03.30-17.07.18:290][412]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2020.03.30-17.07.18:391][412]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2020.03.30-17.07.18:491][412]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2020.03.30-17.07.18:491][412]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2020.03.30-17.07.18:491][412]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2020.03.30-17.07.18:491][412]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2020.03.30-17.07.18:491][412]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2020.03.30-17.07.18:491][412]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.03.30-17.07.18:491][412]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2020.03.30-17.07.18:491][412]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2020.03.30-17.07.18:491][412]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2020.03.30-17.07.18:491][412]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2020.03.30-17.07.18:491][412]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2020.03.30-17.07.18:491][412]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2020.03.30-17.07.18:491][412]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2020.03.30-17.07.18:491][412]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2020.03.30-17.07.18:492][412]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2020.03.30-17.07.18:492][412]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2020.03.30-17.07.18:492][412]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2020.03.30-17.07.18:492][412]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2020.03.30-17.07.18:492][412]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2020.03.30-17.07.18:494][412]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2020.03.30-17.07.18:494][412]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2020.03.30-17.07.18:494][412]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2020.03.30-17.07.18:494][412]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2020.03.30-17.07.18:494][412]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2020.03.30-17.07.18:494][412]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2020.03.30-17.07.18:494][412]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2020.03.30-17.07.18:494][412]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2020.03.30-17.07.18:494][412]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2020.03.30-17.07.18:494][412]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2020.03.30-17.07.18:494][412]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2020.03.30-17.07.18:494][412]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2020.03.30-17.07.18:494][412]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2020.03.30-17.07.18:494][412]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2020.03.30-17.07.18:494][412]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2020.03.30-17.07.18:494][412]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2020.03.30-17.07.18:494][412]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2020.03.30-17.07.18:494][412]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2020.03.30-17.07.18:494][412]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2020.03.30-17.07.18:495][412]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2020.03.30-17.07.18:495][412]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2020.03.30-17.07.18:495][412]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2020.03.30-17.07.18:495][412]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2020.03.30-17.07.18:495][412]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2020.03.30-17.07.18:495][412]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2020.03.30-17.07.18:495][412]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2020.03.30-17.07.18:495][412]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2020.03.30-17.07.18:496][412]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2020.03.30-17.07.18:496][412]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2020.03.30-17.07.18:496][412]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2020.03.30-17.07.18:496][412]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2020.03.30-17.07.18:496][412]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2020.03.30-17.07.18:496][412]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2020.03.30-17.07.18:496][412]LogModuleManager: Shutting down and abandoning module Core (174)
+[2020.03.30-17.07.18:496][412]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2020.03.30-17.07.18:496][412]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2020.03.30-17.07.18:496][412]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2020.03.30-17.07.18:496][412]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2020.03.30-17.07.18:496][412]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2020.03.30-17.07.18:496][412]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2020.03.30-17.07.18:496][412]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2020.03.30-17.07.18:496][412]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2020.03.30-17.07.18:496][412]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2020.03.30-17.07.18:512][412]LogDerivedDataCache: Shutdown
+[2020.03.30-17.07.18:512][412]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2020.03.30-17.07.18:512][412]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2020.03.30-17.07.18:512][412]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2020.03.30-17.07.18:512][412]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2020.03.30-17.07.18:512][412]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2020.03.30-17.07.18:512][412]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2020.03.30-17.07.18:512][412]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2020.03.30-17.07.18:512][412]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2020.03.30-17.07.18:512][412]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2020.03.30-17.07.18:512][412]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2020.03.30-17.07.18:512][412]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2020.03.30-17.07.18:512][412]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2020.03.30-17.07.18:512][412]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2020.03.30-17.07.18:512][412]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2020.03.30-17.07.18:512][412]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2020.03.30-17.07.18:512][412]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2020.03.30-17.07.18:512][412]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2020.03.30-17.07.18:512][412]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2020.03.30-17.07.18:520][412]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2020.03.30-17.07.18:520][412]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2020.03.30-17.07.18:521][412]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2020.03.30-17.07.18:521][412]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2020.03.30-17.07.18:521][412]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2020.03.30-17.07.18:525][412]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2020.03.30-17.07.18:525][412]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2020.03.30-17.07.18:527][412]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2020.03.30-17.07.18:527][412]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2020.03.30-17.07.18:553][412]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2020.03.30-17.07.18:553][412]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2020.03.30-17.07.18:553][412]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2020.03.30-17.07.18:553][412]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2020.03.30-17.07.18:553][412]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2020.03.30-17.07.18:553][412]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2020.03.30-17.07.18:553][412]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2020.03.30-17.07.18:553][412]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2020.03.30-17.07.18:553][412]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2020.03.30-17.07.18:553][412]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2020.03.30-17.07.18:553][412]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2020.03.30-17.07.18:553][412]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2020.03.30-17.07.18:554][412]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2020.03.30-17.07.18:554][412]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2020.03.30-17.07.18:554][412]LogHMD: Freeing OpenVRDLLHandle.
+[2020.03.30-17.07.18:554][412]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2020.03.30-17.07.18:554][412]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2020.03.30-17.07.18:554][412]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2020.03.30-17.07.18:554][412]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2020.03.30-17.07.18:554][412]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2020.03.30-17.07.18:555][412]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2020.03.30-17.07.18:555][412]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2020.03.30-17.07.18:576][412]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2020.03.30-17.07.18:576][412]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.03.30-17.07.18:576][412]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B004B4727-4D05-9B35-5234-00A1402A5815%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=91bc815442d1b294a364819a86872ab1%7Cb5d1e3e718554f05a63d030a79c69fa1%7Cb1ab91b0-dad4-4f10-b263-ae35de0f90bf&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.03.30-17.07.18:588][412]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2020.03.30-17.07.18:589][412]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2020.03.30-17.07.18:590][412]LogModuleManager: Shutting down and abandoning module Media (45)
+[2020.03.30-17.07.18:596][412]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2020.03.30-17.07.18:596][412]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2020.03.30-17.07.18:596][412]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.03.30-17.07.18:596][412]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.03.30-17.07.18:597][412]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.03.30-17.07.18:597][412]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.03.30-17.07.18:597][412]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.03.30-17.07.18:597][412]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.03.30-17.07.18:597][412]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.03.30-17.07.18:597][412]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.03.30-17.07.18:597][412]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.03.30-17.07.18:597][412]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.03.30-17.07.18:597][412]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.03.30-17.07.18:597][412]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.03.30-17.07.18:597][412]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.03.30-17.07.18:597][412]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.03.30-17.07.18:597][412]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.03.30-17.07.18:597][412]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.03.30-17.07.18:597][412]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.03.30-17.07.18:597][412]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.03.30-17.07.18:597][412]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.03.30-17.07.18:607][412]LogExit: Exiting.
+[2020.03.30-17.07.19:798][412]Log file closed, 03/30/20 13:07:19
