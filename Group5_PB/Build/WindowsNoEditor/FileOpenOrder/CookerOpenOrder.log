@@ -1,223 +1,648 @@
-"../../../../../../Users/willi/git/Space-Dungeon/Group5_PB/Content/StarterContent/Audio/Explosion01.uasset" 0
-"../../../../../../Users/willi/git/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Burst_M.uasset" 1
-"../../../../../../Users/willi/git/Space-Dungeon/Group5_PB/Content/StarterContent/Particles/Materials/M_Burst.uasset" 2
-"../../../../../../Users/willi/git/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 3
-"../../../../../../Users/willi/git/Space-Dungeon/Group5_PB/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 4
-"../../../../../../Users/willi/git/Space-Dungeon/Group5_PB/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 5
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 6
-"../../../../../../Users/willi/git/Space-Dungeon/Group5_PB/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 7
-"../../../../../../Users/willi/git/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 8
-"../../../../../../Users/willi/git/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 9
-"../../../../../../Users/willi/git/Space-Dungeon/Group5_PB/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 10
-"../../../../../../Users/willi/git/Space-Dungeon/Group5_PB/Content/StarterContent/Particles/P_Explosion.uasset" 11
-"../../../../../../Users/willi/git/Space-Dungeon/Group5_PB/Content/Blueprints/Colin_BPs/Explosion.uasset" 12
-"../../../../../../Users/willi/git/Space-Dungeon/Group5_PB/Content/Blueprints/Will_BPs/M_Green.uasset" 13
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 14
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 15
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 16
-"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 17
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 18
-"../../../../../../Users/willi/git/Space-Dungeon/Group5_PB/Content/Blueprints/Colin_BPs/Grenade.uasset" 19
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 20
-"../../../../../../Users/willi/git/Space-Dungeon/Group5_PB/Content/Blueprints/ConnorBPs/Projectiles/BP_Bullet.uasset" 21
-"../../../../../../Users/willi/git/Space-Dungeon/Group5_PB/Content/Assets/Materials/green.uasset" 22
-"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 23
-"../../../Engine/Content/BasicShapes/Cube.uasset" 24
-"../../../../../../Users/willi/git/Space-Dungeon/Group5_PB/Content/Blueprints/Neal_BPs/BP_GrenadePickup.uasset" 25
-"../../../../../../Users/willi/git/Space-Dungeon/Group5_PB/Content/Assets/Materials/Orange.uasset" 26
-"../../../../../../Users/willi/git/Space-Dungeon/Group5_PB/Content/Assets/Materials/yellow.uasset" 27
-"../../../../../../Users/willi/git/Space-Dungeon/Group5_PB/Content/Blueprints/ConnorBPs/Player/SM_Player.uasset" 28
-"../../../../../../Users/willi/git/Space-Dungeon/Group5_PB/Content/Blueprints/Will_BPs/HUD.uasset" 29
-"../../../../../../Users/willi/git/Space-Dungeon/Group5_PB/Content/StarterContent/Audio/FirstPersonTemplateWeaponFire02.uasset" 30
-"../../../../../../Users/willi/git/Space-Dungeon/Group5_PB/Content/Blueprints/ConnorBPs/Player/BP_Player.uasset" 31
-"../../../../../../Users/willi/git/Space-Dungeon/Group5_PB/Content/Blueprints/ConnorBPs/NewGameMode.uasset" 32
-"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 33
-"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 34
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 35
-"../../../Engine/Content/BasicShapes/Plane.uasset" 36
-"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 37
-"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 38
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 39
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 40
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 41
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 42
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 43
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 44
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 45
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 46
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 47
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 48
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 49
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 50
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 51
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 52
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 53
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 54
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 55
-"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 56
-"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 57
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 58
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 59
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 60
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 61
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 62
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 63
-"../../../Engine/Content/EditorResources/BSPVertex.uasset" 64
-"../../../Engine/Content/EditorResources/S_Actor.uasset" 65
-"../../../Engine/Content/EditorResources/S_Note.uasset" 66
-"../../../Engine/Content/EditorResources/S_Trigger.uasset" 67
-"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 68
-"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 69
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 70
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 71
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 72
-"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 73
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 74
-"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 75
-"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 76
-"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 77
-"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 78
-"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 79
-"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 80
-"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 81
-"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 82
-"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 83
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 84
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 85
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 86
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 87
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 88
-"../../../Engine/Content/EngineFonts/Roboto.uasset" 89
-"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 90
-"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 91
-"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 92
-"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 93
-"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 94
-"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 95
-"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 96
-"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 97
-"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 98
-"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 99
-"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 100
-"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 101
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 102
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 103
-"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 104
-"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 105
-"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 106
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 107
-"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 108
-"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 109
-"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 110
-"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 111
-"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 112
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 113
-"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 114
-"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 115
-"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 116
-"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 117
-"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 118
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 119
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 120
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 121
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 122
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 123
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 124
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 125
-"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 126
-"../../../Engine/Content/EngineMeshes/Sphere.uasset" 127
-"../../../Engine/Content/EngineResources/Black.uasset" 128
-"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 129
-"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 130
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 131
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 132
-"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 133
-"../../../Engine/Content/EngineSounds/Master.uasset" 134
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 135
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 136
-"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 137
-"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 138
-"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 139
-"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 140
-"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 141
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 142
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 143
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 144
-"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 145
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 146
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 147
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 148
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 149
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 150
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 151
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 152
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 153
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 154
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 155
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 156
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 157
-"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 158
-"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 159
-"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 160
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 161
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 162
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 163
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 164
-"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 165
-"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 166
-"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 167
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 168
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 169
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 170
-"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 171
-"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 172
-"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 173
-"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 174
-"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 175
-"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 176
-"../../Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_RenderTarget.uasset" 177
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 178
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 179
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 180
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 181
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 182
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 183
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 184
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 185
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 186
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 187
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 188
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 189
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 190
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 191
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 192
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 193
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 194
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 195
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 196
-"../../../../../../Users/willi/git/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_MacroVariation.uasset" 197
-"../../../../../../Users/willi/git/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 198
-"../../../../../../Users/willi/git/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 199
-"../../../../../../Users/willi/git/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 200
-"../../../../../../Users/willi/git/Space-Dungeon/Group5_PB/Content/StarterContent/Materials/M_Tech_Panel.uasset" 201
-"../../../../../../Users/willi/git/Space-Dungeon/Group5_PB/Content/Blueprints/Will_BPs/BP_SlidingDoor.uasset" 202
-"../../../../../../Users/willi/git/Space-Dungeon/Group5_PB/Content/Blueprints/Will_BPs/BP_StartTargetLevel.uasset" 203
-"../../../../../../Users/willi/git/Space-Dungeon/Group5_PB/Content/Blueprints/Will_BPs/GrenadeCube.uasset" 204
-"../../../../../../Users/willi/git/Space-Dungeon/Group5_PB/Content/Blueprints/Will_BPs/GrenadeCube_DM.uasset" 205
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 206
-"../../../../../../Users/willi/git/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 207
-"../../../../../../Users/willi/git/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 208
-"../../../../../../Users/willi/git/Space-Dungeon/Group5_PB/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 209
-"../../../../../../Users/willi/git/Space-Dungeon/Group5_PB/Content/Blueprints/Will_BPs/Physics_GrenadeOveride.uasset" 210
-"../../../../../../Users/willi/git/Space-Dungeon/Group5_PB/Content/StarterContent/Particles/P_Smoke.uasset" 211
-"../../../../../../Users/willi/git/Space-Dungeon/Group5_PB/Content/Blueprints/Will_BPs/BP_GrenadeBox.uasset" 212
-"../../../../../../Users/willi/git/Space-Dungeon/Group5_PB/Content/Blueprints/Will_BPs/BP_StaticToGrenadeCube.uasset" 213
-"../../../../../../Users/willi/git/Space-Dungeon/Group5_PB/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 214
-"../../../../../../Users/willi/git/Space-Dungeon/Group5_PB/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 215
-"../../../Engine/Content/BasicShapes/Cone.uasset" 216
-"../../../../../../Users/willi/git/Space-Dungeon/Group5_PB/Content/StarterContent/Props/MaterialSphere.uasset" 217
-"../../../../../../Users/willi/git/Space-Dungeon/Group5_PB/Content/Blueprints/Will_BPs/BP_Switch.uasset" 218
-"../../../../../../Users/willi/git/Space-Dungeon/Group5_PB/Content/Levels/Dungeon5_KI_BuiltData.uasset" 219
-"../../../../../../Users/willi/git/Space-Dungeon/Group5_PB/Content/Levels/Dungeon5_KI.umap" 220
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 221
-"../../../Engine/Content/Maps/Entry.umap" 222
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset" 0
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/Aim_Space_Hip.uasset" 1
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/Aim_Space_Ironsights.uasset" 2
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/Crouch_to_Stand_Rifle_Hip.uasset" 3
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/Crouch_to_Stand_Rifle_Ironsights.uasset" 4
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Ironsights.uasset" 5
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/Crouch_Walk_Lt_Rifle_Ironsights.uasset" 6
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/Crouch_Walk_Rt_Rifle_Ironsights.uasset" 7
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/Death_1.uasset" 8
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/Death_2.uasset" 9
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/Death_3.uasset" 10
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/Death_Ironsights_1.uasset" 11
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/Death_Ironsights_2.uasset" 12
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/Equip_Rifle_Standing.uasset" 13
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/Fire_Rifle_Hip.uasset" 14
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/Fire_Shotgun_Hip.uasset" 15
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/Fire_Shotgun_Ironsights.uasset" 16
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/Hit_React_4.uasset" 17
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/Idle_Pistol.uasset" 18
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/Idle_Rifle_Ironsights.uasset" 19
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/Jump_From_Stand_Ironsights.uasset" 20
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/Prone_Death_1.uasset" 21
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/Prone_Death_2.uasset" 22
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/Prone_Fire_1.uasset" 23
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/Prone_Fire_2.uasset" 24
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/Prone_Idle.uasset" 25
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/Prone_Reload_Rifle.uasset" 26
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/Prone_Reload_Shotgun.uasset" 27
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/Prone_To_Stand.uasset" 28
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/Reload_Pistol.uasset" 29
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/Reload_Rifle_Ironsights.uasset" 30
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/Reload_Shotgun_Hip.uasset" 31
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/Reload_Shotgun_Ironsights.uasset" 32
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/Sprint_Fwd_Rifle.uasset" 33
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/Stand_to_Crouch_Rifle_Hip.uasset" 34
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/Stand_to_Crouch_Rifle_Ironsights.uasset" 35
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/Stand_To_Prone.uasset" 36
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/Walk_Bwd_Rifle_Ironsights.uasset" 37
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/Walk_Lt_Rifle_Ironsights.uasset" 38
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/Walk_Rt_Rifle_Ironsights.uasset" 39
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 40
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 41
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 42
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 43
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Assets/Materials/Red.uasset" 44
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Assets/IvanaStatics/Shooter.uasset" 45
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 46
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Audio/Explosion01.uasset" 47
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Burst_M.uasset" 48
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Particles/Materials/M_Burst.uasset" 49
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 50
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 51
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 52
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 53
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 54
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 55
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 56
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 57
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Particles/P_Explosion.uasset" 58
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Blueprints/Colin_BPs/Explosion.uasset" 59
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Blueprints/Will_BPs/M_Green.uasset" 60
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 61
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 62
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Blueprints/Colin_BPs/Grenade.uasset" 63
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 64
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Blueprints/ConnorBPs/Projectiles/BP_Bullet.uasset" 65
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Assets/Materials/green.uasset" 66
+"../../../Engine/Content/BasicShapes/Cube.uasset" 67
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Blueprints/Neal_BPs/BP_GrenadePickup.uasset" 68
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Assets/Materials/Orange.uasset" 69
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Assets/Materials/yellow.uasset" 70
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Blueprints/ConnorBPs/Player/SM_Player.uasset" 71
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Blueprints/Will_BPs/HUD.uasset" 72
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Audio/FirstPersonTemplateWeaponFire02.uasset" 73
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Blueprints/ConnorBPs/Player/BP_Player.uasset" 74
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Blueprints/Player/BP_Player.uasset" 75
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Blueprints/ConnorBPs/isOff.uasset" 76
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Blueprints/ConnorBPs/isOn.uasset" 77
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Blueprints/ConnorBPs/Button.uasset" 78
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Blueprints/Button.uasset" 79
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Blueprints/ConnorBPs/CompleteIndicator.uasset" 80
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Blueprints/CompleteIndicator.uasset" 81
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Blueprints/Explosion.uasset" 82
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Blueprints/ConnorBPs/NewGameMode.uasset" 83
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Blueprints/NewGameMode.uasset" 84
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Blueprints/ConnorBPs/EnemyAIController.uasset" 85
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Assets/Materials/Blue.uasset" 86
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Blueprints/Neal_BPs/BP_Player1.uasset" 87
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Props/MaterialSphere.uasset" 88
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Blueprints/Will_BPs/BP_GrenadePickUp.uasset" 89
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Blueprints/Will_BPs/BP_HealPlayer.uasset" 90
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Blueprints/Will_BPs/BP_HurtPlayer.uasset" 91
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Blueprints/Will_BPs/BP_OpenLevel.uasset" 92
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Blueprints/Will_BPs/BP_StartTargetLevel.uasset" 93
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Blueprints/Will_BPs/BP_RestartLevel.uasset" 94
+"../../../Engine/Content/BasicShapes/Cone.uasset" 95
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 96
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Blueprints/Will_BPs/BP_Turret_DoNotUse.uasset" 97
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Levels/Colin_BuiltData.uasset" 98
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Materials/EBase.uasset" 99
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Materials/ERed.uasset" 100
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Materials/M_Basic_Wall.uasset" 101
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Architecture/Pillar_50x500.uasset" 102
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Architecture/Wall_400x300.uasset" 103
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Architecture/Wall_400x400.uasset" 104
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Architecture/Wall_500x500.uasset" 105
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 106
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 107
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Audio/Collapse01.uasset" 108
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Audio/Collapse02.uasset" 109
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Audio/Explosion02.uasset" 110
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Audio/Fire01.uasset" 111
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Audio/Fire_Sparks01.uasset" 112
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Audio/Light01.uasset" 113
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Audio/Light01_Cue.uasset" 114
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Audio/Light02.uasset" 115
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Audio/Light02_Cue.uasset" 116
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Audio/Smoke01.uasset" 117
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Audio/Starter_Birds01.uasset" 118
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Audio/Starter_Music01.uasset" 119
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Audio/Starter_Wind05.uasset" 120
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Audio/Starter_Wind06.uasset" 121
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Audio/Steam01.uasset" 122
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Audio/Explosion_Cue.uasset" 123
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 124
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 125
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 126
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Bush_D.uasset" 127
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Bush_N.uasset" 128
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Props/Materials/M_Bush.uasset" 129
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Props/SM_Bush.uasset" 130
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Chair_M.uasset" 131
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Chair_N.uasset" 132
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Props/Materials/M_Chair.uasset" 133
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Props/SM_Couch.uasset" 134
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Materials/M_Glass.uasset" 135
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Door_M.uasset" 136
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Door_N.uasset" 137
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Props/Materials/M_Door.uasset" 138
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Props/SM_Door.uasset" 139
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 140
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 141
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 142
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 143
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 144
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 145
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_RockMesh_M.uasset" 146
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_RockMesh_N.uasset" 147
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Props/Materials/M_Rock.uasset" 148
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Props/SM_Rock.uasset" 149
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Shelf_M.uasset" 150
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Shelf_N.uasset" 151
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Props/Materials/M_Shelf.uasset" 152
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Props/SM_Shelf.uasset" 153
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Materials/M_Basic_Floor.uasset" 154
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Props/SM_Stairs.uasset" 155
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Shapes/Shape_Cone.uasset" 156
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 157
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 158
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Shapes/Shape_Pipe.uasset" 159
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 160
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 161
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Shapes/Shape_Plane.uasset" 162
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Shapes/Shape_Torus.uasset" 163
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Shapes/Shape_Trim.uasset" 164
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 165
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 166
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 167
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Shapes/Shape_Tube.uasset" 168
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 169
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 170
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 171
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 172
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 173
+"../../../Engine/Content/BasicShapes/Plane.uasset" 174
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 175
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 176
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 177
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 178
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 179
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 180
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 181
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 182
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 183
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 184
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 185
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 186
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 187
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 188
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 189
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 190
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 191
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 192
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 193
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 194
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 195
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 196
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 197
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 198
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 199
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 200
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 201
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 202
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 203
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 204
+"../../../Engine/Content/EditorResources/S_Note.uasset" 205
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 206
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 207
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 208
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 209
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 210
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 211
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 212
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 213
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 214
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 215
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 216
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 217
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 218
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 219
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 220
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 221
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 222
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 223
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 224
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 225
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 226
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 227
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 228
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 229
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 230
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 231
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 232
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 233
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 234
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 235
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 236
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 237
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 238
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 239
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 240
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 241
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 242
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 243
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 244
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 245
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 246
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 247
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 248
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 249
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 250
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 251
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 252
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 253
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 254
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 255
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 256
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 257
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 258
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 259
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 260
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 261
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 262
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 263
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 264
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 265
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 266
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 267
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 268
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 269
+"../../../Engine/Content/EngineResources/Black.uasset" 270
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 271
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 272
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 273
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 274
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 275
+"../../../Engine/Content/EngineSounds/Master.uasset" 276
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 277
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 278
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 279
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 280
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 281
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 282
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 283
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 284
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 285
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 286
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 287
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 288
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 289
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 290
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 291
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 292
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 293
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 294
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 295
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 296
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 297
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 298
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 299
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 300
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 301
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 302
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 303
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 304
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 305
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 306
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 307
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 308
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 309
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 310
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 311
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 312
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 313
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 314
+"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 315
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 316
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 317
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 318
+"../../Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_RenderTarget.uasset" 319
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 320
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 321
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 322
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 323
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 324
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 325
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 326
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 327
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 328
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 329
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 330
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 331
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 332
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 333
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 334
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 335
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 336
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 337
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 338
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/Crouch_Idle_Rifle_Hip.uasset" 339
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/Crouch_Idle_Rifle_Ironsights.uasset" 340
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Ironsights.uasset" 341
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/Equip_Pistol_Standing.uasset" 342
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/Fire_Rifle_Ironsights.uasset" 343
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/Hit_React_1.uasset" 344
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/Hit_React_2.uasset" 345
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/Hit_React_3.uasset" 346
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/Idle_Rifle_Hip_Break1.uasset" 347
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/Idle_Rifle_Hip_Break2.uasset" 348
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/Reload_Rifle_Hip.uasset" 349
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/Walk_Fwd_Rifle_Ironsights.uasset" 350
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 351
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 352
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 353
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 354
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 355
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 356
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 357
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 358
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 359
+"../../../Engine/Content/TemplateResources/M_Template_Master.uasset" 360
+"../../../Engine/Content/TemplateResources/MI_Template_BaseGray_03_Metal.uasset" 361
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_AO.uasset" 362
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 363
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 364
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 365
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 366
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 367
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 368
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_LOGO_CARD.uasset" 369
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 370
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 371
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 372
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 373
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin__normals.uasset" 374
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_MAT_MASKA.uasset" 375
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_occlusion_Mobile.uasset" 376
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_Body.uasset" 377
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4Man_Logo_N.uasset" 378
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_ChestLogo.uasset" 379
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin_PhysicsAsset.uasset" 380
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.uasset" 381
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/Showcase.umap" 382
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Blueprints/Agustin_BPS/LightPuzzle.uasset" 383
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Blueprints/Agustin_BPS/Light.uasset" 384
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Levels/Agustin.umap" 385
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Blueprints/Colin_BPs/Instruction.uasset" 386
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Blueprints/Colin_BPs/Instruction2.uasset" 387
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Blueprints/Colin_BPs/winner.uasset" 388
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Levels/Colin.umap" 389
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Blueprints/ConnorBPs/ConnorEnemyAI.uasset" 390
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Blueprints/ConnorBPs/EAIState.uasset" 391
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Blueprints/ConnorBPs/AICharacterSmall.uasset" 392
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Blueprints/Colin_BPs/Blue.uasset" 393
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Assets/426888__thisusernameis__beep4.uasset" 394
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Blueprints/ConnorBPs/AICharacter.uasset" 395
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Blueprints/ConnorBPs/Complete.uasset" 396
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Levels/Connor.umap" 397
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_MacroVariation.uasset" 398
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 399
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 400
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 401
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Materials/M_Tech_Panel.uasset" 402
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Blueprints/Will_BPs/BP_SlidingDoor.uasset" 403
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Blueprints/Will_BPs/GrenadeCube.uasset" 404
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Blueprints/Will_BPs/GrenadeCube_DM.uasset" 405
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 406
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 407
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 408
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Blueprints/Will_BPs/Physics_GrenadeOveride.uasset" 409
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Particles/P_Smoke.uasset" 410
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Blueprints/Will_BPs/BP_GrenadeBox.uasset" 411
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Blueprints/Will_BPs/BP_StaticToGrenadeCube.uasset" 412
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 413
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 414
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Blueprints/Will_BPs/BP_Switch.uasset" 415
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Levels/Dungeon5_KI.umap" 416
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/Idle_Rifle_Hip.uasset" 417
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/Jump_From_Jog.uasset" 418
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/Jump_From_Stand.uasset" 419
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip.uasset" 420
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip.uasset" 421
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip.uasset" 422
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip.uasset" 423
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/BS_CrouchWalk.uasset" 424
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/Jog_Bwd_Rifle.uasset" 425
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/Jog_Fwd_Rifle.uasset" 426
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/Jog_Lt_Rifle.uasset" 427
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/Jog_Rt_Rifle.uasset" 428
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/BS_Jog.uasset" 429
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/Ue4ASP_Character.uasset" 430
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.uasset" 431
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Blueprints/Ivana_BP/AIShooter.uasset" 432
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Blueprints/Ivana_BP/MyProjectile.uasset" 433
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Blueprints/Ivana_BP/EAIState.uasset" 434
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Blueprints/Ivana_BP/AIShooterChar.uasset" 435
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Blueprints/Agustin_BPS/GroundPoundBoss.uasset" 436
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Blueprints/Colin_BPs/ExplodingEnemy.uasset" 437
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Materials/EWhite.uasset" 438
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Blueprints/Will_BPs/BP_TurretBullet.uasset" 439
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Assets/459609__bolkmar__fx-laser-shoot-b.uasset" 440
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Blueprints/Will_BPs/BP_EnemyTurret.uasset" 441
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Blueprints/Will_BPs/M_Red.uasset" 442
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Blueprints/Will_BPs/BP_HealthKit.uasset" 443
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Levels/EnemyTestRoom.umap" 444
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Assets/IvanaStatics/TileBase.uasset" 445
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Blueprints/Ivana_BP/ThePod.uasset" 446
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Levels/Ivana.umap" 447
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Blueprints/ConnorBPs/BPminiBoss.uasset" 448
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Blueprints/Will_BPs/BP_SpinningPlatform.uasset" 449
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Levels/MasterLevel_BuiltData.uasset" 450
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Assets/Materials/purple.uasset" 451
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Blueprints/ConnorBPs/Complete1.uasset" 452
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Levels/MasterLevel.umap" 453
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Levels/Neal.umap" 454
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/Levels/William.umap" 455
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 456
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 457
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 458
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 459
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 460
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 461
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 462
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 463
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 464
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 465
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 466
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 467
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 468
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Materials/M_AssetPlatform.uasset" 469
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 470
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 471
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 472
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 473
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 474
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 475
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 476
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 477
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Maps/Advanced_Lighting.umap" 478
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 479
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 480
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 481
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 482
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 483
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 484
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Materials/M_Metal_Copper.uasset" 485
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Statue_M.uasset" 486
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Statue_N.uasset" 487
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 488
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Architecture/Floor_400x400.uasset" 489
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 490
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Props/SM_Chair.uasset" 491
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Props/Materials/M_Statue.uasset" 492
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Props/SM_Statue.uasset" 493
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_TableRound_M.uasset" 494
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_TableRound_N.uasset" 495
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Props/Materials/M_TableRound.uasset" 496
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Props/SM_TableRound.uasset" 497
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Maps/Minimal_Default.umap" 498
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Audio/Fire01_Cue.uasset" 499
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 500
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 501
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 502
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Water_N.uasset" 503
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 504
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 505
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Particles/P_Fire.uasset" 506
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 507
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Audio/Smoke01_Cue.uasset" 508
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 509
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 510
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Spark_Core.uasset" 511
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Particles/Materials/M_Spark.uasset" 512
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Particles/P_Sparks.uasset" 513
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 514
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Audio/Steam01_Cue.uasset" 515
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Particles/P_Steam_Lit.uasset" 516
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 517
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Lamp_M.uasset" 518
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Lamp_N.uasset" 519
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Props/Materials/M_Lamp.uasset" 520
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 521
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 522
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 523
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 524
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 525
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 526
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 527
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 528
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 529
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 530
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 531
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 532
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 533
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 534
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 535
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 536
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 537
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 538
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 539
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 540
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 541
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 542
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 543
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 544
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 545
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 546
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 547
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 548
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 549
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 550
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 551
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 552
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 553
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 554
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 555
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 556
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Gradinet_01.uasset" 557
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 558
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 559
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 560
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 561
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 562
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 563
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 564
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 565
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 566
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 567
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 568
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 569
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 570
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 571
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 572
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 573
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 574
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 575
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 576
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 577
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 578
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 579
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Materials/M_Ground_Grass.uasset" 580
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 581
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 582
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 583
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 584
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 585
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Materials/M_Ground_Moss.uasset" 586
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 587
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Materials/M_Metal_Gold.uasset" 588
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 589
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Materials/M_Metal_Rust.uasset" 590
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 591
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Materials/M_Metal_Steel.uasset" 592
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 593
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 594
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 595
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 596
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 597
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 598
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 599
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 600
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Materials/M_Rock_Slate.uasset" 601
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 602
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 603
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 604
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 605
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 606
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Materials/M_Water_Lake.uasset" 607
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Water_M.uasset" 608
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Materials/M_Water_Ocean.uasset" 609
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 610
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 611
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 612
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 613
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 614
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 615
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 616
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 617
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Materials/M_Wood_Oak.uasset" 618
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 619
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 620
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Materials/M_Wood_Pine.uasset" 621
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 622
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 623
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 624
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Architecture/Wall_400x200.uasset" 625
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 626
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 627
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Audio/Collapse_Cue.uasset" 628
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 629
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 630
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 631
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 632
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Frame_M.uasset" 633
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Textures/T_Frame_N.uasset" 634
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Props/Materials/M_Frame.uasset" 635
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Props/SM_CornerFrame.uasset" 636
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Props/SM_DoorFrame.uasset" 637
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Props/SM_GlassWindow.uasset" 638
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Props/SM_PillarFrame.uasset" 639
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Props/SM_PillarFrame300.uasset" 640
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Props/SM_WindowFrame.uasset" 641
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Shapes/Shape_Cube.uasset" 642
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 643
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Shapes/Shape_Sphere.uasset" 644
+"D:/School/Spring 2020/Level Design/Mini Workshop/Space-Dungeon/Group5_PB/Content/StarterContent/Maps/StarterMap.umap" 645
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 646
+"../../../Engine/Content/Maps/Entry.umap" 647
