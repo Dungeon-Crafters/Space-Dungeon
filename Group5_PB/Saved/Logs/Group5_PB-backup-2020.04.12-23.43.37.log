@@ -1,0 +1,1191 @@
+﻿Log file open, 04/12/20 17:07:23
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Group5_PB
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.395220
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.04.12-21.07.24:002][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.04.12-21.07.24:002][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.04.12-21.07.24:003][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/Config/Windows/Engine.ini]
+[2020.04.12-21.07.24:003][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.04.12-21.07.24:003][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.04.12-21.07.24:003][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2020.04.12-21.07.24:003][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/Config/Windows/Engine.ini]
+[2020.04.12-21.07.24:003][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/Config/Windows/Engine.ini]
+[2020.04.12-21.07.24:003][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.04.12-21.07.24:003][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.04.12-21.07.24:003][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.04.12-21.07.24:003][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.04.12-21.07.24:003][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.04.12-21.07.24:003][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.04.12-21.07.24:003][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.04.12-21.07.24:003][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.04.12-21.07.24:003][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.04.12-21.07.24:003][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.04.12-21.07.24:003][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.04.12-21.07.24:003][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.04.12-21.07.24:003][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.04.12-21.07.24:003][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/Config/Windows/Engine.ini]
+[2020.04.12-21.07.24:003][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.04.12-21.07.24:003][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.04.12-21.07.24:003][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.04.12-21.07.24:003][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.04.12-21.07.24:003][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.04.12-21.07.24:003][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.04.12-21.07.24:003][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.04.12-21.07.24:003][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.04.12-21.07.24:003][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.04.12-21.07.24:003][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.04.12-21.07.24:003][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.04.12-21.07.24:003][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.04.12-21.07.24:003][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.04.12-21.07.24:003][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/Config/Windows/Engine.ini]
+[2020.04.12-21.07.24:003][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/Config/Windows/Engine.ini]
+[2020.04.12-21.07.24:005][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/Config/Windows/Scalability.ini]
+[2020.04.12-21.07.24:005][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.12-21.07.24:005][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.12-21.07.24:005][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/Config/Windows/Scalability.ini]
+[2020.04.12-21.07.24:005][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.12-21.07.24:005][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/Config/Windows/Scalability.ini]
+[2020.04.12-21.07.24:005][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.12-21.07.24:005][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.12-21.07.24:005][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.12-21.07.24:005][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.12-21.07.24:005][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.12-21.07.24:005][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.12-21.07.24:005][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.12-21.07.24:005][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.12-21.07.24:005][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.12-21.07.24:005][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.12-21.07.24:005][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.12-21.07.24:005][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.12-21.07.24:005][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.12-21.07.24:005][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.12-21.07.24:005][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.12-21.07.24:005][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.12-21.07.24:005][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.12-21.07.24:005][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.12-21.07.24:005][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/Config/Windows/Scalability.ini]
+[2020.04.12-21.07.24:005][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.12-21.07.24:005][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.12-21.07.24:005][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.12-21.07.24:005][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.12-21.07.24:005][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.12-21.07.24:005][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.12-21.07.24:005][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.12-21.07.24:005][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.12-21.07.24:005][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.12-21.07.24:005][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.12-21.07.24:005][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.12-21.07.24:005][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.12-21.07.24:005][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.12-21.07.24:005][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.12-21.07.24:005][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.12-21.07.24:005][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.12-21.07.24:005][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.12-21.07.24:005][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.12-21.07.24:005][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.12-21.07.24:005][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.12-21.07.24:005][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.12-21.07.24:005][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.12-21.07.24:005][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.12-21.07.24:005][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.12-21.07.24:005][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.12-21.07.24:005][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.12-21.07.24:005][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.12-21.07.24:006][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.12-21.07.24:006][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.12-21.07.24:006][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.12-21.07.24:006][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/Config/Windows/Scalability.ini]
+[2020.04.12-21.07.24:006][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.12-21.07.24:006][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.12-21.07.24:006][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.12-21.07.24:006][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.12-21.07.24:006][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.12-21.07.24:006][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.12-21.07.24:006][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.12-21.07.24:006][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.12-21.07.24:006][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/Config/Windows/Scalability.ini]
+[2020.04.12-21.07.24:006][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.12-21.07.24:006][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.12-21.07.24:006][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.12-21.07.24:006][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.12-21.07.24:006][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.12-21.07.24:006][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.12-21.07.24:006][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.12-21.07.24:006][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.12-21.07.24:006][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.12-21.07.24:006][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.12-21.07.24:006][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.12-21.07.24:006][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.12-21.07.24:006][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.12-21.07.24:006][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/Config/Windows/Scalability.ini]
+[2020.04.12-21.07.24:006][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.12-21.07.24:006][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.12-21.07.24:006][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.12-21.07.24:006][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.12-21.07.24:038][  0]LogHAL: Display: Platform has ~ 16 GB [16964153344 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.12-21.07.24:038][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.04.12-21.07.24:038][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.12-21.07.24:039][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/Config/Windows/Scalability.ini]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/Config/Windows/Scalability.ini]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/Config/Windows/Scalability.ini]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/Config/Windows/Scalability.ini]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/Config/Windows/Scalability.ini]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/Config/Windows/Scalability.ini]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/Config/Windows/Scalability.ini]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.12-21.07.24:039][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.04.12-21.07.24:040][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.04.12-21.07.24:040][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.04.12-21.07.24:040][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/Config/Windows/Engine.ini]
+[2020.04.12-21.07.24:040][  0]LogInit: Computer: DESKTOP-MJT05JV
+[2020.04.12-21.07.24:040][  0]LogInit: User: ivana
+[2020.04.12-21.07.24:040][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.04.12-21.07.24:040][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.04.12-21.07.24:040][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2020.04.12-21.07.24:040][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.12-21.07.24:040][  0]LogMemory: Process Physical Memory: 98.64 MB used, 98.64 MB peak
+[2020.04.12-21.07.24:040][  0]LogMemory: Process Virtual Memory: 89.99 MB used, 89.99 MB peak
+[2020.04.12-21.07.24:040][  0]LogMemory: Physical Memory: 8009.50 MB used,  8168.78 MB free, 16178.28 MB total
+[2020.04.12-21.07.24:040][  0]LogMemory: Virtual Memory: 4660.48 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2020.04.12-21.07.24:058][  0]LogInit: Using OS detected language (en-US).
+[2020.04.12-21.07.24:058][  0]LogInit: Using OS detected locale (en-US).
+[2020.04.12-21.07.24:059][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.04.12-21.07.24:208][  0]LogInit: Setting process to per monitor DPI aware
+[2020.04.12-21.07.24:229][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.12-21.07.24:229][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.12-21.07.24:388][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.12-21.07.24:388][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.12-21.07.24:457][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (Feature Level 11_0)
+[2020.04.12-21.07.24:457][  0]LogD3D11RHI:       6052/0/8089 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.04.12-21.07.24:471][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.04.12-21.07.24:471][  0]LogD3D11RHI:       128/0/8089 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.04.12-21.07.24:473][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.12-21.07.24:473][  0]LogD3D11RHI:       0/0/8089 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.12-21.07.24:473][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.12-21.07.24:502][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.12-21.07.24:502][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2020.04.12-21.07.24:502][  0]LogWindows: EnumDisplayDevices:
+[2020.04.12-21.07.24:502][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2020.04.12-21.07.24:503][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.04.12-21.07.24:503][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.04.12-21.07.24:503][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2020.04.12-21.07.24:503][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2020.04.12-21.07.24:503][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 with Max-Q Design
+[2020.04.12-21.07.24:503][  0]LogD3D11RHI:   Driver Version: 430.64 (internal:26.21.14.3064, unified:430.64)
+[2020.04.12-21.07.24:503][  0]LogD3D11RHI:      Driver Date: 5-5-2019
+[2020.04.12-21.07.24:503][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2020.04.12-21.07.24:540][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.12-21.07.24:546][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.04.12-21.07.24:546][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.04.12-21.07.24:547][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.04.12-21.07.24:554][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.04.12-21.07.24:826][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.04.12-21.07.24:838][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.04.12-21.07.24:849][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.04.12-21.07.24:860][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.04.12-21.07.24:872][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.04.12-21.07.24:884][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.04.12-21.07.24:896][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.04.12-21.07.24:908][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.04.12-21.07.24:912][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.04.12-21.07.24:988][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.04.12-21.07.24:988][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.04.12-21.07.24:988][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.04.12-21.07.24:988][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.04.12-21.07.24:988][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.04.12-21.07.24:988][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.04.12-21.07.24:988][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.04.12-21.07.24:988][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.04.12-21.07.24:988][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.04.12-21.07.24:988][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.04.12-21.07.24:988][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.04.12-21.07.24:988][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.04.12-21.07.24:988][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.04.12-21.07.24:988][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.04.12-21.07.24:989][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.04.12-21.07.24:989][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.04.12-21.07.24:989][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.04.12-21.07.24:989][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.04.12-21.07.24:990][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.04.12-21.07.25:034][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.04.12-21.07.25:034][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.04.12-21.07.25:056][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.04.12-21.07.25:056][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.04.12-21.07.25:066][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.04.12-21.07.25:078][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.04.12-21.07.25:092][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.04.12-21.07.25:104][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.04.12-21.07.25:145][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.04.12-21.07.25:145][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.04.12-21.07.25:145][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.12-21.07.25:151][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.04.12-21.07.25:181][  0]LogShaderCompilers: Guid format shader working directory is -15 characters bigger than the processId version (../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Intermediate/Shaders/WorkingDirectory/27844/).
+[2020.04.12-21.07.25:181][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ivana/AppData/Local/Temp/UnrealShaderWorkingDir/738BC97A443844816BE3D783340EA14F/'.
+[2020.04.12-21.07.25:183][  0]LogXGEController: Cleaning working directory: C:/Users/ivana/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.04.12-21.07.25:183][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.12-21.07.25:183][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.12-21.07.25:183][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.12-21.07.25:721][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.12-21.07.25:770][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/ivana/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.04.12-21.07.25:771][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ivana/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.04.12-21.07.25:771][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.12-21.07.25:771][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.12-21.07.25:771][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.12-21.07.25:771][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.12-21.07.25:782][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.12-21.07.25:782][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.12-21.07.25:782][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.12-21.07.25:794][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ivana/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.12-21.07.25:794][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.12-21.07.25:794][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.12-21.07.25:812][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.12-21.07.25:813][  0]LogSlate: Using FreeType 2.6.0
+[2020.04.12-21.07.25:814][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.12-21.07.25:888][  0]LogAssetRegistry: FAssetRegistry took 0.0315 seconds to start up
+[2020.04.12-21.07.26:211][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.12-21.07.26:253][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.12-21.07.26:253][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.04.12-21.07.26:253][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.12-21.07.26:253][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.04.12-21.07.26:253][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.04.12-21.07.26:338][  0]LogNetVersion: Group5_PB 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 573520080)
+[2020.04.12-21.07.26:688][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.044728 seconds
+[2020.04.12-21.07.26:694][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.04.12-21.07.26:694][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.04.12-21.07.26:694][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.12-21.07.27:508][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.12-21.07.27:522][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.12-21.07.27:624][  0]SourceControl: Source control is disabled
+[2020.04.12-21.07.27:624][  0]SourceControl: Source control is disabled
+[2020.04.12-21.07.27:625][  0]SourceControl: Source control is disabled
+[2020.04.12-21.07.27:626][  0]SourceControl: Source control is disabled
+[2020.04.12-21.07.27:688][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.12-21.07.27:791][  0]LogOcInput: OculusInput pre-init called
+[2020.04.12-21.07.28:363][  0]LogEngine: Initializing Engine...
+[2020.04.12-21.07.28:364][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.12-21.07.28:365][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.04.12-21.07.28:558][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.12-21.07.28:565][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.12-21.07.28:647][  0]LogInit: XAudio2 using 'Speakers (3- Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.12-21.07.28:664][  0]LogInit: FAudioDevice initialized.
+[2020.04.12-21.07.28:664][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.12-21.07.28:815][  0]LogDerivedDataCache: Saved boot cache 0.15s 71MB C:/Users/ivana/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.04.12-21.07.28:824][  0]LogInit: Texture streaming: Enabled
+[2020.04.12-21.07.28:835][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.12-21.07.28:857][  0]LogInit: Transaction tracking system initialized
+[2020.04.12-21.07.28:870][  0]BlueprintLog: New page: Editor Load
+[2020.04.12-21.07.28:920][  0]LocalizationService: Localization service is disabled
+[2020.04.12-21.07.29:161][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.12-21.07.29:161][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.12-21.07.29:289][  0]LogFileCache: Scanning file cache for directory 'D:/Spring 2020/Level Design/Space-Dungeon/Group5_PB/Content/' took 0.02s
+[2020.04.12-21.07.29:289][  0]SourceControl: Source control is disabled
+[2020.04.12-21.07.29:289][  0]Cmd: MAP LOAD FILE="../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Content/Levels/MasterLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.12-21.07.29:289][  0]LightingResults: New page: Lighting Build
+[2020.04.12-21.07.29:291][  0]MapCheck: New page: Map Check
+[2020.04.12-21.07.29:291][  0]LightingResults: New page: Lighting Build
+[2020.04.12-21.07.29:316][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.04.12-21.07.31:730][  0]LogAIModule: Creating AISystem for world MasterLevel
+[2020.04.12-21.07.31:920][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.12-21.07.32:058][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.04.12-21.07.32:058][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.12-21.07.32:059][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.167ms to complete.
+[2020.04.12-21.07.32:059][  0]LogFileHelpers: Loading map 'MasterLevel' took 2.770
+[2020.04.12-21.07.32:151][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.12-21.07.32:158][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.12-21.07.32:167][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.12-21.07.32:174][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.12-21.07.32:178][  0]LogCollectionManager: Loaded 0 collections in 0.000656 seconds
+[2020.04.12-21.07.32:191][  0]LogFileCache: Scanning file cache for directory 'D:/Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/Collections/' took 0.01s
+[2020.04.12-21.07.32:191][  0]LogFileCache: Scanning file cache for directory 'D:/Spring 2020/Level Design/Space-Dungeon/Group5_PB/Content/Developers/ivana/Collections/' took 0.00s
+[2020.04.12-21.07.32:191][  0]LogFileCache: Scanning file cache for directory 'D:/Spring 2020/Level Design/Space-Dungeon/Group5_PB/Content/Collections/' took 0.00s
+[2020.04.12-21.07.32:191][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.04.12-21.07.32:199][  0]LogContentBrowser: Native class hierarchy populated in 0.0078 seconds. Added 2741 classes and 664 folders.
+[2020.04.12-21.07.32:206][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.12-21.07.32:207][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.12-21.07.32:207][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.12-21.07.32:208][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.12-21.07.32:208][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.12-21.07.32:208][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.12-21.07.32:208][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.12-21.07.32:209][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.12-21.07.32:209][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.12-21.07.32:209][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.12-21.07.32:210][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.12-21.07.32:210][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.12-21.07.32:210][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.12-21.07.32:211][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.12-21.07.32:211][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.12-21.07.32:211][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.12-21.07.32:212][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.12-21.07.32:212][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.12-21.07.32:212][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.12-21.07.32:213][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.12-21.07.32:213][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.12-21.07.32:213][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.12-21.07.32:214][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.12-21.07.32:214][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.12-21.07.32:214][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.12-21.07.32:215][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.12-21.07.32:215][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.12-21.07.32:231][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.04.12-21.07.32:235][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.04.12-21.07.32:254][  0]LogSlate: Took 0.000140 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.12-21.07.32:256][  0]LogSlate: Took 0.000149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.12-21.07.32:260][  0]LogSlate: Took 0.000124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.12-21.07.32:334][  0]LogRenderer: Reallocating scene render targets to support 928x380 Format 10 NumSamples 1 (Frame:1).
+[2020.04.12-21.07.32:572][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.12-21.07.32:572][  0]LogLoad: (Engine Initialization) Total time: 10.43 seconds
+[2020.04.12-21.07.32:572][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.12-21.07.32:636][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.12-21.07.32:660][  0]LogSlate: Took 0.000146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.12-21.07.33:407][ 37]LogAssetRegistry: Asset discovery search completed in 7.5402 seconds
+[2020.04.12-21.07.33:409][ 37]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.04.12-21.07.33:409][ 37]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000047 seconds (updated 0 objects)
+[2020.04.12-21.07.37:721][252]LogFileCache: Retrieving MD5 hashes for directory 'D:/Spring 2020/Level Design/Space-Dungeon/Group5_PB/Content/' took 5.11s
+[2020.04.12-21.07.39:318][346]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-21.07.40:170][346]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_278' invalid (76006 verts, 0 indices).
+[2020.04.12-21.07.40:170][346]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_278.BodySetup_0 when we are unable to.
+[2020.04.12-21.07.43:824][559]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_MainCorner_4)
+[2020.04.12-21.07.54:599][199]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-21.07.59:083][467]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-21.08.03:760][746]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-21.08.13:508][316]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-21.08.28:685][104]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-21.08.32:506][199]LogEditorViewport: Clicking Background
+[2020.04.12-21.08.36:352][421]Cmd: TRANSACTION UNDO
+[2020.04.12-21.08.36:352][421]LogEditorTransaction: Undo Clicking Background
+[2020.04.12-21.08.36:378][421]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.12-21.08.40:922][666]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-21.08.59:662][770]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_MainCorner_4)
+[2020.04.12-21.09.09:988][190]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-21.09.17:384][603]LogSlate: FSceneViewport::OnFocusLost() reason 1
+[2020.04.12-21.09.24:670][ 37]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-21.09.55:798][877]Cmd: TRANSACTION UNDO
+[2020.04.12-21.09.55:798][877]LogEditorTransaction: Undo Move Actors
+[2020.04.12-21.10.29:056][866]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Scifi_Wall_05_MainCorner_4)
+[2020.04.12-21.10.55:068][419]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_MainCorner_4)
+[2020.04.12-21.11.15:283][624]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_MainCorner_5)
+[2020.04.12-21.11.21:544][995]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_MainCorner_4)
+[2020.04.12-21.11.22:886][ 73]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-21.11.45:449][422]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_MainCorner_5)
+[2020.04.12-21.11.50:180][700]Cmd: TRANSACTION UNDO
+[2020.04.12-21.11.50:180][700]LogEditorTransaction: Undo Move Actors
+[2020.04.12-21.11.58:163][177]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-21.12.03:142][470]Cmd: TRANSACTION UNDO
+[2020.04.12-21.12.03:142][470]LogEditorTransaction: Undo Move Actors
+[2020.04.12-21.12.17:393][311]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-21.12.29:957][ 59]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-21.12.52:595][872]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-21.12.57:027][136]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-21.13.00:279][330]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-21.13.02:131][441]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-21.13.22:893][684]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-21.13.30:859][150]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2020.04.12-21.13.31:764][202]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2020.04.12-21.13.38:409][593]Cmd: MAP SELECT SUBTRACTS
+[2020.04.12-21.13.45:314][  1]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_MainCorner_5)
+[2020.04.12-21.13.46:313][ 59]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-21.13.57:448][725]Cmd: ACTOR SELECT MATCHINGSTATICMESH
+[2020.04.12-21.14.06:364][224]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-21.14.39:633][192]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-21.14.40:530][245]LogActorFactory: Actor Factory created SM_Scifi_Door_02_Frame
+[2020.04.12-21.14.41:752][316]LogActorFactory: Actor Factory created SM_Scifi_Door_02_Frame
+[2020.04.12-21.14.49:226][754]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-21.14.49:496][770]LogActorFactory: Actor Factory created SM_Scifi_Door_02
+[2020.04.12-21.14.50:405][822]LogActorFactory: Actor Factory created SM_Scifi_Door_02
+[2020.04.12-21.14.55:219][101]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Door_02_Frame)
+[2020.04.12-21.14.57:463][234]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Door_02)
+[2020.04.12-21.15.00:710][427]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Door_02_Frame)
+[2020.04.12-21.15.07:214][814]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Door_02_Frame)
+[2020.04.12-21.15.11:560][ 73]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Door_02_Frame)
+[2020.04.12-21.15.20:421][601]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Door_02)
+[2020.04.12-21.15.36:766][574]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Door_02_Frame)
+[2020.04.12-21.16.53:084][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-21.17.24:216][950]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Door_02)
+[2020.04.12-21.18.56:304][220]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-21.18.56:791][238]LogActorFactory: Actor Factory created SM_Scifi_Window_Arc_01
+[2020.04.12-21.18.57:856][299]LogActorFactory: Actor Factory created SM_Scifi_Window_Arc_01
+[2020.04.12-21.19.00:890][472]Cmd: DELETE
+[2020.04.12-21.19.00:890][472]Cmd: ACTOR DELETE
+[2020.04.12-21.19.00:949][472]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.12-21.19.00:977][472]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.04.12-21.19.00:978][472]LogEditorActor: Deleted 1 Actors (0.088 secs)
+[2020.04.12-21.19.02:751][567]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-21.19.03:193][584]LogActorFactory: Actor Factory created SM_Scifi_Window_Arc_02
+[2020.04.12-21.19.05:410][714]LogActorFactory: Actor Factory created SM_Scifi_Window_Arc_02
+[2020.04.12-21.19.13:083][162]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-21.19.19:052][510]Cmd: DELETE
+[2020.04.12-21.19.19:052][510]Cmd: ACTOR DELETE
+[2020.04.12-21.19.19:111][510]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.12-21.19.19:139][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.04.12-21.19.19:140][510]LogEditorActor: Deleted 1 Actors (0.087 secs)
+[2020.04.12-21.19.21:154][627]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-21.19.40:983][792]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-21.20.50:144][868]LogActorFactory: Actor Factory created SM_Win_Frame_A
+[2020.04.12-21.20.51:057][916]LogActorFactory: Actor Factory created SM_Win_Frame_A
+[2020.04.12-21.22.18:162][ 45]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_4m9)
+[2020.04.12-21.22.37:829][198]Cmd: DELETE
+[2020.04.12-21.22.37:829][198]Cmd: ACTOR DELETE
+[2020.04.12-21.22.37:891][198]LogEditorActor: Deleted Actor: Brush
+[2020.04.12-21.22.37:917][198]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.04.12-21.22.38:702][198]LogEditorActor: Deleted 1 Actors (0.873 secs)
+[2020.04.12-21.22.50:875][918]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-21.23.33:780][468]LogActorFactory: Actor Factory created SM_Scifi_Wall_03_8m
+[2020.04.12-21.23.35:504][564]LogActorFactory: Actor Factory created SM_Scifi_Wall_03_8m
+[2020.04.12-21.23.38:203][716]Cmd: DELETE
+[2020.04.12-21.23.38:203][716]Cmd: ACTOR DELETE
+[2020.04.12-21.23.38:259][716]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.12-21.23.38:285][716]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2020.04.12-21.23.38:286][716]LogEditorActor: Deleted 1 Actors (0.083 secs)
+[2020.04.12-21.24.00:634][339]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-21.24.05:588][626]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-21.24.05:728][629]LogActorFactory: Actor Factory created SM_Scifi_Wall_04_Bend
+[2020.04.12-21.24.08:404][786]LogActorFactory: Actor Factory created SM_Scifi_Wall_04_Bend
+[2020.04.12-21.24.09:276][826]Cmd: DELETE
+[2020.04.12-21.24.09:276][826]Cmd: ACTOR DELETE
+[2020.04.12-21.24.09:331][826]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.12-21.24.09:354][826]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2020.04.12-21.24.09:355][826]LogEditorActor: Deleted 1 Actors (0.078 secs)
+[2020.04.12-21.24.11:726][963]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-21.24.11:998][976]LogActorFactory: Actor Factory created SM_Scifi_Wall_05_Plate
+[2020.04.12-21.24.13:659][ 73]LogActorFactory: Actor Factory created SM_Scifi_Wall_05_Plate
+[2020.04.12-21.24.36:821][444]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Win_Frame_A)
+[2020.04.12-21.24.37:879][494]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_Plate)
+[2020.04.12-21.25.20:122][  0]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-21.26.53:600][740]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-21.27.08:754][103]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-21.27.10:379][172]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_Plate)
+[2020.04.12-21.27.11:310][225]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-21.27.23:080][922]Cmd: TRANSACTION UNDO
+[2020.04.12-21.27.23:080][922]LogEditorTransaction: Undo Move Actors
+[2020.04.12-21.27.24:277][990]Cmd: TRANSACTION UNDO
+[2020.04.12-21.27.24:277][990]LogEditorTransaction: Undo Scale Actors
+[2020.04.12-21.27.33:869][563]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_Plate2)
+[2020.04.12-21.27.35:535][660]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-21.27.44:541][793]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-21.27.56:402][498]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-21.27.56:883][525]LogActorFactory: Actor Factory created SM_Scifi_Wall_05_InnerCorner_02
+[2020.04.12-21.27.57:792][577]LogActorFactory: Actor Factory created SM_Scifi_Wall_05_InnerCorner_02
+[2020.04.12-21.28.02:592][853]Cmd: DELETE
+[2020.04.12-21.28.02:592][853]Cmd: ACTOR DELETE
+[2020.04.12-21.28.02:662][853]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.12-21.28.02:689][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2020.04.12-21.28.02:690][853]LogEditorActor: Deleted 1 Actors (0.097 secs)
+[2020.04.12-21.28.25:090][926]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-21.28.44:739][ 87]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-21.28.45:294][120]LogActorFactory: Actor Factory created SM_Scifi_Wall_05_MainCorner_02
+[2020.04.12-21.28.46:257][175]LogActorFactory: Actor Factory created SM_Scifi_Wall_05_MainCorner_02
+[2020.04.12-21.28.57:124][554]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-21.29.18:938][790]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-21.29.23:480][ 50]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-21.29.25:373][162]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-21.29.28:310][336]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-21.29.28:365][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.04.12-21.29.30:125][336]LogSavePackage: Moving '../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/MasterLevel_Auto15ED9B1824C364D93A082D9BE626B7E31.tmp' to '../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/Autosaves/Game/Levels/MasterLevel_Auto1.umap'
+[2020.04.12-21.29.30:132][336]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MasterLevel' took 1.792
+[2020.04.12-21.29.30:132][336]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.792
+[2020.04.12-21.29.32:116][453]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-21.29.36:231][699]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-21.29.45:459][773]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-21.29.54:005][105]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-21.30.04:732][543]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-21.31.05:357][ 77]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-21.31.20:292][361]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_MainCorner_02)
+[2020.04.12-21.31.32:733][ 87]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-21.31.35:442][238]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_MainCorner_02)
+[2020.04.12-21.31.35:888][261]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_MainCorner_02)
+[2020.04.12-21.31.37:634][364]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-21.31.41:531][594]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.04.12-21.31.41:532][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MasterLevel" FILE="../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Content/Levels/MasterLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.12-21.31.41:562][594]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2020.04.12-21.31.43:221][594]LogSavePackage: Moving '../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/MasterLevel1C51D49644A59B6BAE26B68A75054C5E.tmp' to '../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Content/Levels/MasterLevel.umap'
+[2020.04.12-21.31.43:257][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MasterLevel_BuiltData" FILE="../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Content/Levels/MasterLevel_BuiltData.uasset" SILENT=true
+[2020.04.12-21.31.44:216][594]LogSavePackage: Moving '../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/MasterLevel_BuiltDataF88A527B469EC28D82EAD4B6E0B9A714.tmp' to '../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Content/Levels/MasterLevel_BuiltData.uasset'
+[2020.04.12-21.31.45:284][599]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-21.32.41:297][855]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-21.32.56:399][383]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-21.33.00:844][637]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-21.33.10:860][230]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-21.33.26:745][181]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-21.33.34:863][666]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-21.33.53:440][776]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-21.34.26:745][757]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_Plate2)
+[2020.04.12-21.34.27:398][793]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Scifi_Wall_05_Plate)
+[2020.04.12-21.34.33:980][177]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-21.34.39:508][502]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_Plate3)
+[2020.04.12-21.34.55:204][433]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_Plate4)
+[2020.04.12-21.34.56:720][521]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_Plate3)
+[2020.04.12-21.34.57:555][568]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_Plate4)
+[2020.04.12-21.35.05:394][ 29]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-21.35.18:725][821]Cmd: TRANSACTION UNDO
+[2020.04.12-21.35.18:725][821]LogEditorTransaction: Undo Move Actors
+[2020.04.12-21.35.46:697][711]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-21.36.05:424][811]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_Plate3)
+[2020.04.12-21.36.13:960][316]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_Plate4)
+[2020.04.12-21.36.15:377][399]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Win_Frame_A)
+[2020.04.12-21.36.25:101][971]Cmd: DELETE
+[2020.04.12-21.36.25:101][971]Cmd: ACTOR DELETE
+[2020.04.12-21.36.25:154][971]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.12-21.36.25:181][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.04.12-21.36.25:182][971]LogEditorActor: Deleted 1 Actors (0.081 secs)
+[2020.04.12-21.36.26:866][ 65]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Win_Frame_A)
+[2020.04.12-21.36.27:838][121]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-21.36.39:432][398]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-21.36.42:368][559]Cmd: TRANSACTION UNDO
+[2020.04.12-21.36.42:368][559]LogEditorTransaction: Undo Move Actors
+[2020.04.12-21.36.47:955][820]Cmd: TRANSACTION UNDO
+[2020.04.12-21.36.47:955][820]LogEditorTransaction: Undo Move Actors
+[2020.04.12-21.36.49:050][885]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_Plate3)
+[2020.04.12-21.36.53:315][138]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_Plate4)
+[2020.04.12-21.36.58:331][370]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-21.37.53:192][795]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-21.37.57:942][ 72]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_Plate2)
+[2020.04.12-21.37.59:008][133]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Scifi_Wall_05_Plate)
+[2020.04.12-21.38.11:015][848]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Win_Frame_A)
+[2020.04.12-21.38.58:231][509]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-21.39.01:790][702]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_4m6)
+[2020.04.12-21.39.07:235][ 26]Cmd: EDIT COPY
+[2020.04.12-21.39.09:215][143]Cmd: TRANSACTION UNDO
+[2020.04.12-21.39.09:215][143]LogEditorTransaction: Undo Move Actors
+[2020.04.12-21.39.10:345][210]Cmd: EDIT COPY
+[2020.04.12-21.39.10:596][225]Cmd: EDIT PASTE
+[2020.04.12-21.39.13:636][396]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-21.39.38:336][861]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-21.39.48:071][ 16]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-21.39.57:105][373]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-21.40.04:401][802]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-21.40.11:823][234]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-21.40.42:088][ 34]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_4m11)
+[2020.04.12-21.41.06:366][482]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Door_02_Frame)
+[2020.04.12-21.41.22:682][442]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Door_02)
+[2020.04.12-21.41.36:681][268]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-21.42.12:125][320]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-21.42.22:796][812]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-21.42.22:989][814]LogActorFactory: Actor Factory created SM_Scifi_Wall_05_Plate8m
+[2020.04.12-21.42.24:309][886]LogActorFactory: Actor Factory created SM_Scifi_Wall_05_Plate8m
+[2020.04.12-21.42.28:466][124]Cmd: DELETE
+[2020.04.12-21.42.28:466][124]Cmd: ACTOR DELETE
+[2020.04.12-21.42.28:519][124]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.12-21.42.28:544][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2020.04.12-21.42.28:545][124]LogEditorActor: Deleted 1 Actors (0.079 secs)
+[2020.04.12-21.42.31:647][305]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-21.42.34:138][454]LogActorFactory: Actor Factory created SM_Scifi_Wall_03_8m
+[2020.04.12-21.42.35:066][507]LogActorFactory: Actor Factory created SM_Scifi_Wall_03_8m
+[2020.04.12-21.42.41:689][894]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-21.43.46:311][709]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Door_02)
+[2020.04.12-21.43.51:972][ 41]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Scifi_Door_02)
+[2020.04.12-21.43.52:134][ 41]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-21.43.53:018][ 89]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Door_02)
+[2020.04.12-21.44.17:161][520]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_03_8m)
+[2020.04.12-21.44.25:507][ 12]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-21.44.27:837][145]Cmd: TRANSACTION UNDO
+[2020.04.12-21.44.27:837][145]LogEditorTransaction: Undo Move Actors
+[2020.04.12-21.44.31:060][266]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-21.45.27:470][612]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_4m3)
+[2020.04.12-21.45.51:718][ 33]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Scifi_Wall_05_MainCorner_3)
+[2020.04.12-21.45.51:766][ 33]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-21.45.52:528][ 76]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_4m12)
+[2020.04.12-21.45.53:365][124]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-21.45.58:255][412]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-21.46.27:688][140]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_4m3)
+[2020.04.12-21.46.32:711][413]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-21.47.15:674][960]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_MainCorner_3)
+[2020.04.12-21.47.20:985][268]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-21.47.40:117][405]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-21.47.56:183][354]Cmd: DELETE
+[2020.04.12-21.47.56:183][354]Cmd: ACTOR DELETE
+[2020.04.12-21.47.56:244][354]LogEditorActor: Deleted Actor: Brush
+[2020.04.12-21.47.56:270][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.04.12-21.47.57:067][354]LogEditorActor: Deleted 1 Actors (0.884 secs)
+[2020.04.12-21.48.17:185][545]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Door_02)
+[2020.04.12-21.48.23:620][901]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_4m11)
+[2020.04.12-21.48.39:840][855]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Door_02)
+[2020.04.12-21.48.43:550][ 74]LogEditorViewport: Clicking on Actor (LMB): BP_SlidingDoor_C (BP_SlidingDoor3)
+[2020.04.12-21.50.03:382][826]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_MainCorner_03)
+[2020.04.12-21.50.07:764][ 81]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_4m2)
+[2020.04.12-21.50.17:494][583]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-21.50.48:054][734]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_MainCorner_03)
+[2020.04.12-21.50.52:352][982]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-21.51.20:762][669]Cmd: TRANSACTION UNDO
+[2020.04.12-21.51.20:762][669]LogEditorTransaction: Undo Move Actors
+[2020.04.12-21.51.51:210][466]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-21.52.00:867][ 34]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-21.52.16:083][928]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-21.52.40:823][380]Cmd: DELETE
+[2020.04.12-21.52.40:823][380]Cmd: ACTOR DELETE
+[2020.04.12-21.52.40:888][380]LogEditorActor: Deleted Actor: Brush
+[2020.04.12-21.52.40:917][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.04.12-21.52.41:672][380]LogEditorActor: Deleted 1 Actors (0.849 secs)
+[2020.04.12-21.52.47:461][710]Cmd: TRANSACTION UNDO
+[2020.04.12-21.52.47:461][710]LogEditorTransaction: Undo Delete Actors
+[2020.04.12-21.52.52:903][962]Cmd: DELETE
+[2020.04.12-21.52.52:903][962]Cmd: ACTOR DELETE
+[2020.04.12-21.52.52:968][962]LogEditorActor: Deleted Actor: Brush
+[2020.04.12-21.52.52:994][962]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.04.12-21.52.53:738][962]LogEditorActor: Deleted 1 Actors (0.836 secs)
+[2020.04.12-21.53.00:083][329]Cmd: DELETE
+[2020.04.12-21.53.00:083][329]Cmd: ACTOR DELETE
+[2020.04.12-21.53.00:150][329]LogEditorActor: Deleted Actor: Brush
+[2020.04.12-21.53.00:178][329]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.04.12-21.53.00:934][329]LogEditorActor: Deleted 1 Actors (0.850 secs)
+[2020.04.12-21.53.14:910][153]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-21.53.16:370][237]MapCheck: New page: Map Check
+[2020.04.12-21.53.16:413][237]Cmd: MAP REBUILD ALLVISIBLE
+[2020.04.12-21.53.16:419][237]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.04.12-21.53.41:282][237]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_3250' invalid (72735 verts, 0 indices).
+[2020.04.12-21.53.41:282][237]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ModelComponent_3250.BodySetup_0 when we are unable to.
+[2020.04.12-21.53.41:929][237]LightingResults: New page: Lighting Build - Apr 12, 2020, 1:53:41 PM
+[2020.04.12-21.53.42:336][237]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.04.12-21.53.42:401][237]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.04.12-21.53.42:414][237]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.04.12-21.53.42:934][237]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.04.12-21.53.42:934][237]LogSwarmInterface: [TryOpenConnection] Local Process ID is 27844
+[2020.04.12-21.53.45:643][237]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.04.12-21.53.45:643][237]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.04.12-21.53.45:643][237]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.04.12-21.53.45:643][237]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.04.12-21.53.45:643][237]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.04.12-21.53.46:140][237]LogEditorBuildUtils: Build time 0:29
+[2020.04.12-21.53.46:334][238]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.04.12-21.53.48:197][238]LogSavePackage: Moving '../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/MasterLevel_Auto2DC6E4AA54E7B2AC6064C32BB3D1CC80E.tmp' to '../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/Autosaves/Game/Levels/MasterLevel_Auto2.umap'
+[2020.04.12-21.53.48:204][238]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MasterLevel' took 1.900
+[2020.04.12-21.53.48:204][238]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.900
+[2020.04.12-21.53.48:269][239]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_Trims_B, compiling. 
+[2020.04.12-21.53.48:331][239]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_Trims_B, compiling. 
+[2020.04.12-21.53.48:390][241]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Glass, compiling. 
+[2020.04.12-21.53.48:399][241]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Glass, compiling. 
+[2020.04.12-21.53.50:810][251]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2020.04.12-21.54.11:075][817]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-21.54.32:595][931]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (46.392 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.04.12-21.54.40:349][341]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_4m9)
+[2020.04.12-21.54.51:385][765]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-21.54.54:251][886]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-21.55.01:177][180]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-21.55.13:743][737]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-21.55.40:408][711]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-21.55.52:561][273]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-21.57.03:068][358]Job is a success!
+[2020.04.12-21.57.03:476][359]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-21.57.05:045][359]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 1.412s
+[2020.04.12-21.57.05:045][359]LogVolumetricLightmapImport:      Indirection Texture 96x96x96 = 3.4Mb
+[2020.04.12-21.57.05:045][359]LogVolumetricLightmapImport:      BrickData 1280x170x5 = 42.5Mb (trimmed 36.8Mb due to 0.010000 MinBrickError) (trimmed 13.8Mb due to 30.0Mb MaximumBrickMemoryMb)
+[2020.04.12-21.57.05:045][359]LogVolumetricLightmapImport:      Bricks at Level
+[2020.04.12-21.57.05:045][359]LogVolumetricLightmapImport:          0: 2.5% covering 100.0% of volume
+[2020.04.12-21.57.05:045][359]LogVolumetricLightmapImport:          1: 7.4% covering 4.6% of volume
+[2020.04.12-21.57.05:045][359]LogVolumetricLightmapImport:          2: 90.1% covering 0.9% of volume
+[2020.04.12-21.57.05:663][359]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2020.04.12-21.57.05:663][359]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.04.12-21.57.05:663][359]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 128X128)
+[2020.04.12-21.57.05:663][359]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.04.12-21.57.05:663][359]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 128X128)
+[2020.04.12-21.57.05:663][359]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 128X64)
+[2020.04.12-21.57.05:729][359]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (BGRA8, 64X64)
+[2020.04.12-21.57.05:729][359]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (BGRA8, 2048X128)
+[2020.04.12-21.57.05:791][359]Lightmass on DESKTOP-MJT05JV: 3:14 min total, 486 ms importing, 72 ms setup, 58.3 sec photons, 2:15 min processing, 0 ms extra exporting [984/984 mappings]. Threads: 24:45 min total, 15:35 min processing.
+[2020.04.12-21.57.05:795][359]LogStaticLightingSystem: MasterLevel_BuiltData storing lightmap data for 52 meshes in 4 LightmapResourceClusters (13.0 Meshes per cluster).
+[2020.04.12-21.57.06:133][359]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2020.04.12-21.57.06:148][359]LogStaticLightingSystem: Illumination: 3:23 min (356 ms encoding lightmaps, 64 ms encoding shadowmaps)
+[2020.04.12-21.57.06:148][359]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2020.04.12-21.57.06:148][359]LogStaticLightingSystem: Shadowmap texture memory: 1.4 MB (1.4 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.04.12-21.57.06:788][359]DumpUnbuiltLightIteractions
+[2020.04.12-21.57.06:789][359]Lights with unbuilt interactions: 5
+[2020.04.12-21.57.06:789][359]    Light SpotLight3
+[2020.04.12-21.57.06:789][359]    Light SpotLight4
+[2020.04.12-21.57.06:789][359]    Light SpotLight46
+[2020.04.12-21.57.06:789][359]    Light SpotLight47
+[2020.04.12-21.57.06:789][359]    Light DirectionalLight_1
+[2020.04.12-21.57.06:789][359]
+[2020.04.12-21.57.06:789][359]Primitives with unbuilt interactions: 9
+[2020.04.12-21.57.06:789][359]    Primitive StaticMeshComponent /Game/Levels/MasterLevel.MasterLevel:PersistentLevel.SM_Scifi_Wall_05_4m20.StaticMeshComponent0
+[2020.04.12-21.57.06:789][359]    Primitive StaticMeshComponent /Game/Levels/MasterLevel.MasterLevel:PersistentLevel.SM_Scifi_Wall_05_4m19.StaticMeshComponent0
+[2020.04.12-21.57.06:789][359]    Primitive StaticMeshComponent /Game/Levels/MasterLevel.MasterLevel:PersistentLevel.SM_Scifi_Wall_05_4m18.StaticMeshComponent0
+[2020.04.12-21.57.06:789][359]    Primitive StaticMeshComponent /Game/Levels/MasterLevel.MasterLevel:PersistentLevel.SM_Scifi_Wall_05_4m16.StaticMeshComponent0
+[2020.04.12-21.57.06:789][359]    Primitive StaticMeshComponent /Game/Levels/MasterLevel.MasterLevel:PersistentLevel.SM_Scifi_Wall_05_4m15.StaticMeshComponent0
+[2020.04.12-21.57.06:789][359]    Primitive StaticMeshComponent /Game/Levels/MasterLevel.MasterLevel:PersistentLevel.SM_Win_Frame_A_16.StaticMeshComponent0
+[2020.04.12-21.57.06:789][359]    Primitive StaticMeshComponent /Game/Levels/MasterLevel.MasterLevel:PersistentLevel.ChessRookBox.StaticMeshComponent0
+[2020.04.12-21.57.06:789][359]    Primitive StaticMeshComponent /Game/Levels/MasterLevel.MasterLevel:PersistentLevel.SM_Scifi_Wall_05_4m21.StaticMeshComponent0
+[2020.04.12-21.57.06:789][359]    Primitive StaticMeshComponent /Game/Levels/MasterLevel.MasterLevel:PersistentLevel.SM_Scifi_Wall_05_4m17.StaticMeshComponent0
+[2020.04.12-21.57.06:980][360]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.04.12-21.57.06:980][360]MapCheck: New page: MasterLevel - Apr 12, 2020, 1:57:06 PM
+[2020.04.12-21.57.06:981][360]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2020.04.12-21.57.07:065][360]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 85.17ms to complete.
+[2020.04.12-21.58.03:135][370]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-21.58.08:634][599]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-21.58.24:144][509]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-21.59.10:342][259]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_4m22)
+[2020.04.12-21.59.11:688][338]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-21.59.19:151][783]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_4m23)
+[2020.04.12-21.59.57:736][  3]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-22.00.27:751][775]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-22.00.28:073][794]LogActorFactory: Actor Factory created SM_Scifi_Door_02_Frame
+[2020.04.12-22.00.28:952][844]LogActorFactory: Actor Factory created SM_Scifi_Door_02_Frame
+[2020.04.12-22.00.38:104][358]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Door_02_Frame)
+[2020.04.12-22.00.40:717][505]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Door_02)
+[2020.04.12-22.00.42:067][583]Cmd: DELETE
+[2020.04.12-22.00.42:067][583]Cmd: ACTOR DELETE
+[2020.04.12-22.00.42:130][583]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.12-22.00.42:153][583]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.04.12-22.00.42:154][583]LogEditorActor: Deleted 1 Actors (0.087 secs)
+[2020.04.12-22.00.45:622][784]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Door_02_Frame)
+[2020.04.12-22.00.52:521][169]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Door_02_Frame2)
+[2020.04.12-22.00.54:088][258]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-22.01.03:531][815]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Door_02_Frame)
+[2020.04.12-22.01.09:091][134]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Door_02_Frame2)
+[2020.04.12-22.01.09:899][174]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-22.01.34:910][621]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_4m23)
+[2020.04.12-22.01.42:927][ 87]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Door_02_Frame2)
+[2020.04.12-22.02.14:733][938]LogEditorViewport: Clicking on Actor (LMB): BP_SlidingDoor_C (BP_SlidingDoor5)
+[2020.04.12-22.02.21:795][349]LogEditorViewport: Clicking on Actor (LMB): BP_SlidingDoor_C (BP_SlidingDoor3)
+[2020.04.12-22.02.33:551][ 33]LogEditorViewport: Clicking on Actor (LMB): BP_SlidingDoor_C (BP_SlidingDoor5)
+[2020.04.12-22.03.32:140][461]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-22.03.33:496][529]Cmd: DELETE
+[2020.04.12-22.03.33:496][529]Cmd: ACTOR DELETE
+[2020.04.12-22.03.33:556][529]LogEditorActor: Deleted Actor: Brush
+[2020.04.12-22.03.33:583][529]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2020.04.12-22.03.34:406][529]LogEditorActor: Deleted 1 Actors (0.910 secs)
+[2020.04.12-22.03.56:116][774]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_4m10)
+[2020.04.12-22.03.58:495][894]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_MainCorner_02)
+[2020.04.12-22.04.12:968][671]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-22.04.28:097][570]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-22.05.31:346][347]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-22.05.31:397][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.04.12-22.05.33:190][347]LogSavePackage: Moving '../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/MasterLevel_Auto355EC7ECB455EDF933E489AA10DCC21F2.tmp' to '../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/Autosaves/Game/Levels/MasterLevel_Auto3.umap'
+[2020.04.12-22.05.33:196][347]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MasterLevel' took 1.822
+[2020.04.12-22.05.33:196][347]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.822
+[2020.04.12-22.15.33:358][343]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-22.15.33:397][343]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2020.04.12-22.15.33:397][343]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MasterLevel' took 0.026
+[2020.04.12-22.25.33:563][345]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-22.25.33:600][345]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.04.12-22.25.33:600][345]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MasterLevel' took 0.024
+[2020.04.12-22.31.54:345][916]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_03_8m2)
+[2020.04.12-22.31.57:456][ 96]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-22.31.59:068][187]Cmd: TRANSACTION UNDO
+[2020.04.12-22.31.59:068][187]LogEditorTransaction: Undo Move Actors
+[2020.04.12-22.32.02:772][401]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-22.32.05:278][549]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-22.32.08:351][727]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-22.32.09:948][814]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-22.32.13:423][ 18]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-22.32.38:445][303]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-22.32.40:908][444]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-22.32.47:520][833]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-22.33.39:922][783]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-22.33.54:821][659]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-22.33.56:406][751]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-22.35.20:834][472]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_03_8m3)
+[2020.04.12-22.35.57:905][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.04.12-22.35.59:629][290]LogSavePackage: Moving '../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/MasterLevel_Auto428FD1386402BE307FF2FCB9142417BE5.tmp' to '../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/Autosaves/Game/Levels/MasterLevel_Auto4.umap'
+[2020.04.12-22.35.59:650][290]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MasterLevel' took 1.773
+[2020.04.12-22.35.59:650][290]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.773
+[2020.04.12-22.36.24:276][391]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_03_8m4)
+[2020.04.12-22.37.08:996][721]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_4m22)
+[2020.04.12-22.37.27:675][807]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_MainCorner_02)
+[2020.04.12-22.37.34:710][216]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-22.42.55:746][363]Cmd: EDIT COPY
+[2020.04.12-22.42.56:662][418]Cmd: EDIT PASTE
+[2020.04.12-22.43.02:523][756]Cmd: TRANSACTION UNDO
+[2020.04.12-22.43.02:523][756]LogEditorTransaction: Undo Move Actors
+[2020.04.12-22.43.03:051][787]Cmd: TRANSACTION UNDO
+[2020.04.12-22.43.03:051][787]LogEditorTransaction: Undo Move Actors
+[2020.04.12-22.43.03:585][819]Cmd: TRANSACTION UNDO
+[2020.04.12-22.43.03:585][819]LogEditorTransaction: Undo Move Actors
+[2020.04.12-22.43.04:384][867]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_MainCorner_9)
+[2020.04.12-22.43.10:086][206]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_MainCorner_10)
+[2020.04.12-22.43.10:863][251]Cmd: DELETE
+[2020.04.12-22.43.10:863][251]Cmd: ACTOR DELETE
+[2020.04.12-22.43.10:916][251]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.12-22.43.10:944][251]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2020.04.12-22.43.10:944][251]LogEditorActor: Deleted 1 Actors (0.082 secs)
+[2020.04.12-22.43.11:710][290]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_MainCorner_9)
+[2020.04.12-22.43.26:391][166]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-22.44.45:618][899]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-22.44.57:994][638]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-22.45.59:149][629]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-22.45.59:918][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.04.12-22.46.01:623][664]LogSavePackage: Moving '../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/MasterLevel_Auto5AF8BB02941078C8D41DC368F8B0440CF.tmp' to '../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/Autosaves/Game/Levels/MasterLevel_Auto5.umap'
+[2020.04.12-22.46.01:626][664]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MasterLevel' took 1.732
+[2020.04.12-22.46.01:626][664]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.732
+[2020.04.12-22.46.07:690][996]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_MainCorner_8)
+[2020.04.12-22.46.14:062][358]Cmd: TRANSACTION UNDO
+[2020.04.12-22.46.14:062][358]LogEditorTransaction: Undo Move Actors
+[2020.04.12-22.46.25:841][ 49]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-22.47.04:280][676]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-22.47.06:479][786]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-22.47.14:147][120]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-22.56.21:322][284]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-22.56.32:042][910]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-22.56.32:080][910]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.04.12-22.56.33:743][910]LogSavePackage: Moving '../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/MasterLevel_Auto659D2B30F43431096479A98814202AD47.tmp' to '../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/Autosaves/Game/Levels/MasterLevel_Auto6.umap'
+[2020.04.12-22.56.33:747][910]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MasterLevel' took 1.694
+[2020.04.12-22.56.33:747][910]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.694
+[2020.04.12-22.56.50:811][931]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Scifi_Wall_05_MainCorner_10)
+[2020.04.12-22.56.50:834][931]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-22.56.51:868][989]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_MainCorner_10)
+[2020.04.12-22.57.22:589][808]Cmd: DELETE
+[2020.04.12-22.57.22:589][808]Cmd: ACTOR DELETE
+[2020.04.12-22.57.22:654][808]LogEditorActor: Deleted Actor: Brush
+[2020.04.12-22.57.22:681][808]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2020.04.12-22.57.23:507][808]LogEditorActor: Deleted 1 Actors (0.918 secs)
+[2020.04.12-22.57.30:647][224]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_MainCorner_10)
+[2020.04.12-22.58.37:284][124]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_MainCorner_10)
+[2020.04.12-22.59.01:318][542]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-22.59.49:663][338]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_4m24)
+[2020.04.12-23.00.00:926][  6]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_MainCorner_8)
+[2020.04.12-23.00.10:552][577]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-23.01.39:959][697]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_4m24)
+[2020.04.12-23.01.42:975][875]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-23.01.56:213][598]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-23.02.04:448][ 84]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-23.02.15:947][772]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_MainCorner_10)
+[2020.04.12-23.02.16:865][825]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_4m25)
+[2020.04.12-23.02.18:582][926]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-23.02.28:759][534]LogEditorViewport: Clicking Background
+[2020.04.12-23.02.29:299][566]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_4m25)
+[2020.04.12-23.02.35:950][959]LogEditorViewport: Clicking Background
+[2020.04.12-23.02.45:469][529]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_4m25)
+[2020.04.12-23.03.00:547][429]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-23.03.24:133][841]LogEditorViewport: Clicking Background
+[2020.04.12-23.03.27:766][ 58]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-23.03.27:766][ 58]Can't find target actor or component.
+[2020.04.12-23.03.28:533][104]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_4m25)
+[2020.04.12-23.03.28:680][111]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-23.03.45:852][123]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_4m25)
+[2020.04.12-23.03.50:685][410]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_MainCorner_9)
+[2020.04.12-23.03.51:688][468]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_4m25)
+[2020.04.12-23.03.56:189][734]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-23.03.57:240][797]Cmd: MODE GRID=0
+[2020.04.12-23.04.21:494][232]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_MainCorner_10)
+[2020.04.12-23.04.27:859][605]Cmd: TRANSACTION UNDO
+[2020.04.12-23.04.27:859][605]LogEditorTransaction: Undo Move Actors
+[2020.04.12-23.05.13:934][292]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-23.05.28:640][147]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-23.06.20:648][923]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-23.06.49:975][642]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_MainCorner_8)
+[2020.04.12-23.06.51:148][708]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_4m23)
+[2020.04.12-23.06.59:842][212]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-23.07.28:121][522]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.04.12-23.07.29:779][522]LogSavePackage: Moving '../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/MasterLevel_Auto727A5A672488F7B3236E089BF0EC7D9BA.tmp' to '../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/Autosaves/Game/Levels/MasterLevel_Auto7.umap'
+[2020.04.12-23.07.29:783][522]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MasterLevel' took 1.692
+[2020.04.12-23.07.29:783][522]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.692
+[2020.04.12-23.08.10:717][645]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-23.08.43:608][610]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-23.08.50:436][ 10]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-23.09.28:053][253]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_4m23)
+[2020.04.12-23.09.31:784][472]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_4m22)
+[2020.04.12-23.09.37:003][521]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-23.09.46:511][ 42]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_4m15)
+[2020.04.12-23.09.47:349][ 88]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_MainCorner_02)
+[2020.04.12-23.09.57:375][670]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-23.10.46:459][909]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-23.11.00:449][724]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-23.11.28:187][185]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-23.17.29:983][874]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2020.04.12-23.17.31:639][874]LogSavePackage: Moving '../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/MasterLevel_Auto82EBFD63D4FF9CEB66DFD6FAB7C79036C.tmp' to '../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/Autosaves/Game/Levels/MasterLevel_Auto8.umap'
+[2020.04.12-23.17.31:645][874]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MasterLevel' took 1.689
+[2020.04.12-23.17.31:645][874]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.689
+[2020.04.12-23.27.32:699][707]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2020.04.12-23.27.32:699][707]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MasterLevel' took 0.027
+[2020.04.12-23.27.39:550][829]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.12-23.27.41:616][839]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.12-23.27.51:285][907]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.12-23.27.54:445][922]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.12-23.28.31:478][279]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.12-23.28.31:990][281]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.12-23.28.49:034][408]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.12-23.29.25:894][753]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.12-23.29.37:766][825]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.12-23.29.46:727][879]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.12-23.30.24:004][265]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.12-23.30.24:515][267]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.12-23.30.27:522][278]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.12-23.30.33:115][329]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.12-23.30.33:625][331]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.12-23.31.43:745][369]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-23.32.10:353][930]Cmd: DELETE
+[2020.04.12-23.32.10:353][930]Cmd: ACTOR DELETE
+[2020.04.12-23.32.10:412][930]LogEditorActor: Deleted Actor: Brush
+[2020.04.12-23.32.10:435][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.04.12-23.32.11:236][930]LogEditorActor: Deleted 1 Actors (0.883 secs)
+[2020.04.12-23.32.15:335][162]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_MainCorner_12)
+[2020.04.12-23.32.18:158][230]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-23.32.58:512][634]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-23.32.59:862][715]Cmd: MODE GRID=1
+[2020.04.12-23.33.20:611][943]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-23.33.20:641][943]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MasterLevel" FILE="../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Content/Levels/MasterLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.12-23.33.20:672][943]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.04.12-23.33.22:392][943]LogSavePackage: Moving '../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/MasterLevel3C79333E4DCA38B7D798F99524B59DBB.tmp' to '../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Content/Levels/MasterLevel.umap'
+[2020.04.12-23.33.22:432][943]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MasterLevel_BuiltData" FILE="../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Content/Levels/MasterLevel_BuiltData.uasset" SILENT=true
+[2020.04.12-23.33.22:602][943]LogSavePackage: Moving '../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/MasterLevel_BuiltDataED3D7D88436CCA74D6A05EB86B65A9F1.tmp' to '../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Content/Levels/MasterLevel_BuiltData.uasset'
+[2020.04.12-23.33.40:999][ 41]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-23.33.41:758][ 45]LogActorFactory: Actor Factory created SM_Scifi_Chair
+[2020.04.12-23.33.42:272][ 71]LogActorFactory: Actor Factory created SM_Scifi_Chair
+[2020.04.12-23.33.48:312][423]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-23.33.48:599][440]LogActorFactory: Actor Factory created SM_Scifi_Chair
+[2020.04.12-23.33.49:122][469]LogActorFactory: Actor Factory created SM_Scifi_Chair
+[2020.04.12-23.34.05:851][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-23.34.06:674][469]LogActorFactory: Actor Factory created SM_Scifi_Panel_01
+[2020.04.12-23.34.07:579][515]LogActorFactory: Actor Factory created SM_Scifi_Panel_01
+[2020.04.12-23.34.14:974][909]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-23.34.29:534][759]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-23.34.37:883][259]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-23.35.01:054][645]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-23.35.01:738][649]LogActorFactory: Actor Factory created SM_Scifi_Panel_02
+[2020.04.12-23.35.02:013][658]LogActorFactory: Actor Factory created SM_Scifi_Panel_02
+[2020.04.12-23.35.26:120][ 89]Cmd: DELETE
+[2020.04.12-23.35.26:120][ 89]Cmd: ACTOR DELETE
+[2020.04.12-23.35.26:173][ 89]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.12-23.35.26:201][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2020.04.12-23.35.26:202][ 89]LogEditorActor: Deleted 1 Actors (0.083 secs)
+[2020.04.12-23.35.27:797][182]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-23.36.00:148][ 88]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-23.36.00:417][ 93]LogActorFactory: Actor Factory created SM_AccessCard
+[2020.04.12-23.36.01:909][173]LogActorFactory: Actor Factory created SM_AccessCard
+[2020.04.12-23.36.06:434][436]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-23.36.09:418][614]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-23.36.21:803][354]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-23.36.22:106][372]LogActorFactory: Actor Factory created SM_AccessCard
+[2020.04.12-23.36.23:461][451]LogActorFactory: Actor Factory created SM_AccessCard
+[2020.04.12-23.36.51:271][110]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-23.36.51:460][121]LogActorFactory: Actor Factory created SM_AccessCard
+[2020.04.12-23.36.52:714][194]LogActorFactory: Actor Factory created SM_AccessCard
+[2020.04.12-23.36.53:718][248]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-23.37.01:021][676]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-23.37.03:478][821]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-23.37.10:892][258]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-23.37.11:064][268]LogActorFactory: Actor Factory created SM_AccessCard
+[2020.04.12-23.37.12:683][363]LogActorFactory: Actor Factory created SM_AccessCard
+[2020.04.12-23.37.16:210][556]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-23.37.16:230][556]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MasterLevel" FILE="../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Content/Levels/MasterLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.12-23.37.16:257][556]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.04.12-23.37.17:891][556]LogSavePackage: Moving '../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/MasterLevel6291CBCD41F86E3133A4A4B6A959ED3F.tmp' to '../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Content/Levels/MasterLevel.umap'
+[2020.04.12-23.37.17:932][556]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MasterLevel_BuiltData" FILE="../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Content/Levels/MasterLevel_BuiltData.uasset" SILENT=true
+[2020.04.12-23.37.18:057][556]LogSavePackage: Moving '../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Saved/MasterLevel_BuiltData157E5BE74D38DB88B7C24D902F35F8DE.tmp' to '../../../../Spring 2020/Level Design/Space-Dungeon/Group5_PB/Content/Levels/MasterLevel_BuiltData.uasset'
