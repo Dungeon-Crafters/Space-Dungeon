@@ -1,4 +1,4 @@
-// PCH for X:\UE_4.22\Engine\Source\Runtime\Core\Public\CoreSharedPCH.h
+// PCH for F:\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\CoreSharedPCH.h
 #define IS_PROGRAM 0
 #define UE_GAME 1
 #define ENABLE_PGO_PROFILE 0
@@ -38,7 +38,7 @@
 #define OVERRIDE_PLATFORM_HEADER_NAME Windows
 #define NDEBUG 1
 #define UE_BUILD_DEVELOPMENT 1
-#define UE_ENGINE_DIRECTORY "X:/UE_4.22/Engine/"
+#define UE_ENGINE_DIRECTORY "F:/Epic Games/UE_4.22/Engine/"
 #define UE_IS_ENGINE_MODULE 1
 #define UE_ENABLE_ICU 1
 #define WITH_VS_PERF_PROFILER 0
@@ -49,4 +49,4 @@
 #define WITH_DIRECTXMATH 0
 #define WITH_MALLOC_STOMP 1
 #define CORE_API 
-#include "X:\UE_4.22\Engine\Source\Runtime\Core\Public\CoreSharedPCH.h"
+#include "F:\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\CoreSharedPCH.h"

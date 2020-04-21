@@ -56,20 +56,20 @@
 /I Runtime\Core\Public\Traits
 /I Runtime\Core\Public\UObject
 /I Runtime\Core\Public\Windows
-/I C:\Users\willi\git\Space-Dungeon\Group5_PB\Intermediate
-/I C:\Users\willi\git\Space-Dungeon\Group5_PB\Intermediate\Source
-/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\INCLUDE"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
+/I "D:\School\Spring 2020\Level Design\Mini Workshop\Space-Dungeon\Group5_PB\Intermediate"
+/I "D:\School\Spring 2020\Level Design\Mini Workshop\Space-Dungeon\Group5_PB\Intermediate\Source"
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
 /D_HAS_EXCEPTIONS=0
-/FI"C:\Users\willi\git\Space-Dungeon\Group5_PB\Intermediate\Build\Win64\Group5_PB\Development\Core\SharedPCH.Core.h"
-/Yu"C:\Users\willi\git\Space-Dungeon\Group5_PB\Intermediate\Build\Win64\Group5_PB\Development\Core\SharedPCH.Core.h"
-/Fp"C:\Users\willi\git\Space-Dungeon\Group5_PB\Intermediate\Build\Win64\Group5_PB\Development\Core\SharedPCH.Core.h.pch"
-"C:\Users\willi\git\Space-Dungeon\Group5_PB\Intermediate\Source\Group5_PB.cpp"
-/FI"C:\Users\willi\git\Space-Dungeon\Group5_PB\Intermediate\Build\Win64\UE4\Development\Group5_PB\Definitions.Group5_PB.h"
-/Fo"C:\Users\willi\git\Space-Dungeon\Group5_PB\Intermediate\Build\Win64\UE4\Development\Group5_PB\Group5_PB.cpp.obj"
+/FI"D:\School\Spring 2020\Level Design\Mini Workshop\Space-Dungeon\Group5_PB\Intermediate\Build\Win64\Group5_PB\Development\Core\SharedPCH.Core.h"
+/Yu"D:\School\Spring 2020\Level Design\Mini Workshop\Space-Dungeon\Group5_PB\Intermediate\Build\Win64\Group5_PB\Development\Core\SharedPCH.Core.h"
+/Fp"D:\School\Spring 2020\Level Design\Mini Workshop\Space-Dungeon\Group5_PB\Intermediate\Build\Win64\Group5_PB\Development\Core\SharedPCH.Core.h.pch"
+"D:\School\Spring 2020\Level Design\Mini Workshop\Space-Dungeon\Group5_PB\Intermediate\Source\Group5_PB.cpp"
+/FI"D:\School\Spring 2020\Level Design\Mini Workshop\Space-Dungeon\Group5_PB\Intermediate\Build\Win64\UE4\Development\Group5_PB\Definitions.Group5_PB.h"
+/Fo"D:\School\Spring 2020\Level Design\Mini Workshop\Space-Dungeon\Group5_PB\Intermediate\Build\Win64\UE4\Development\Group5_PB\Group5_PB.cpp.obj"
 /TP
 /GR-
 /W4
